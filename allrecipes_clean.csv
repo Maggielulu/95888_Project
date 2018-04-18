@@ -1,0 +1,1011 @@
+entry_id,drink_name,ingredient,measurement
+0,Cuban Mojito, white sugar,2 teaspoons
+1,Cuban Mojito," lime, cut into 4 wedges",1
+2,Cuban Mojito, sprigs fresh mint,4
+3,Cuban Mojito, white rum,1/2 cup
+4,Cuban Mojito, club soda,2 cups
+5,Cuban Mojito, crushed ice,2 cups
+6,Cuban Mojito," wedges lime, as garnish",2
+7,Mai Tai, spiced rum,1 (1.5 fluid ounce) jigger
+8,Mai Tai, coconut-flavored rum,1/2 (1.5 fluid ounce) jigger
+9,Mai Tai, grenadine syrup,1 teaspoon
+10,Mai Tai, pineapple juice,3 fluid ounces
+11,Mai Tai, orange juice,2 fluid ounces
+12,Mai Tai, ice cubes,1 cup
+13,Mojito Perfecto, mint leaves,6
+14,Mojito Perfecto, white sugar,4 teaspoons
+15,Mojito Perfecto," lime, cut into 6 wedges",1
+16,Mojito Perfecto, lemon-flavored rum,2 (1.5 fluid ounce) jiggers
+17,Mojito Perfecto," ice cubes, or as needed",1 cup
+18,Mojito Perfecto," carbonated water, or as needed",1/2 cup
+19,Caribbean Rum Punch, fresh lime juice,1 cup
+20,Caribbean Rum Punch, simple syrup,2 cups
+21,Caribbean Rum Punch, amber rum,3 cups
+22,Caribbean Rum Punch, orange juice,4 cups
+23,Caribbean Rum Punch, bitters,4 dashes
+24,Caribbean Rum Punch,freshly grated nutmeg,N/A
+25,Pina Colada III, coconut milk,1 cup
+26,Pina Colada III, pineapple juice,1 cup
+27,Pina Colada III, rum,1/2 cup
+28,Pina Colada III, white sugar,4 tablespoons
+29,Pina Colada III, cubes ice,8
+30,Dark n Stormy Cocktail, dark rum,2 fluid ounces
+31,Dark n Stormy Cocktail, ginger beer,4 fluid ounces
+32,Dark n Stormy Cocktail, ice,1/2 cup
+33,Absolute Stress, vodka,1 fluid ounce
+34,Absolute Stress, dark rum,1 fluid ounce
+35,Absolute Stress, peach schnapps,1 fluid ounce
+36,Absolute Stress, orange juice,1 fluid ounce
+37,Absolute Stress, cranberry juice,1 fluid ounce
+38,Shaggys Hana Bay Frootie Joy, rum,4 fluid ounces
+39,Shaggys Hana Bay Frootie Joy, fresh coconut-pineapple juice,1 cup
+40,Shaggys Hana Bay Frootie Joy, cubes ice,4
+41,Amaingly Good Eggnog, milk,4 cups
+42,Amaingly Good Eggnog, whole cloves,5
+43,Amaingly Good Eggnog, vanilla extract,1/2 teaspoon
+44,Amaingly Good Eggnog, ground cinnamon,1 teaspoon
+45,Amaingly Good Eggnog, egg yolks,12
+46,Amaingly Good Eggnog, sugar,1 1/2 cups
+47,Amaingly Good Eggnog, light rum,2 1/2 cups
+48,Amaingly Good Eggnog, light cream,4 cups
+49,Amaingly Good Eggnog, vanilla extract,2 teaspoons
+50,Amaingly Good Eggnog, ground nutmeg,1/2 teaspoon
+51,Classic Spanish Sangria, lemon,1
+52,Classic Spanish Sangria, lime,1
+53,Classic Spanish Sangria, orange,1
+54,Classic Spanish Sangria, rum,1 1/2 cups
+55,Classic Spanish Sangria, white sugar,1/2 cup
+56,Classic Spanish Sangria, (750 milliliter) bottle dry red wine,1
+57,Classic Spanish Sangria, orange juice,1 cup
+58,The Real Mojito, fresh mint leaves,10
+59,The Real Mojito," lime, cut into 4 wedges",1/2
+60,The Real Mojito," white sugar, or to taste",2 tablespoons
+61,The Real Mojito, ice cubes,1 cup
+62,The Real Mojito, white rum,1 1/2 fluid ounces
+63,The Real Mojito, club soda,1/2 cup
+64,Hot Buttered Rum Batter, pound butter,1
+65,Hot Buttered Rum Batter, pound brown sugar,1
+66,Hot Buttered Rum Batter, pound confectioners' sugar,1
+67,Hot Buttered Rum Batter," quart vanilla ice cream, softened",1
+68,Hot Buttered Rum Batter, ground cinnamon,1 tablespoon
+69,Hot Buttered Rum Batter, ground nutmeg,1 teaspoon
+70,Coquito," egg yolks, beaten",2
+71,Coquito, evaporated milk,1 (12 fluid ounce) can
+72,Coquito, cream of coconut,1 (14 ounce) can
+73,Coquito, sweetened condensed milk,1 (14 ounce) can
+74,Coquito, white rum,1/2 cup
+75,Coquito, water,1/2 cup
+76,Coquito, ground cloves,1/4 teaspoon
+77,Coquito, ground cinnamon,1/2 teaspoon
+78,Coquito, vanilla extract,1 teaspoon
+79,Bikini Martini, coconut rum,1 fluid ounce
+80,Bikini Martini, vodka,3/4 fluid ounce
+81,Bikini Martini, pineapple juice,1 fluid ounce
+82,Bikini Martini, grenadine syrup,1 dash
+83,Green Grog, frozen limeade concentrate,2 (12 fluid ounce) cans
+84,Green Grog, frozen lemonade concentrate,2 (12 fluid ounce) cans
+85,Green Grog, ( liter) bottles lemon-lime flavored carbonated beverage,2
+86,Green Grog, (750 milliliter) bottle rum,1
+87,Green Grog, quarts lime sherbet,2
+88,Bahama Mama, rum,1/2 fluid ounce
+89,Bahama Mama, coconut-flavored rum,1/2 fluid ounce
+90,Bahama Mama, grenadine syrup,1/2 fluid ounce
+91,Bahama Mama, orange juice,1 fluid ounce
+92,Bahama Mama, pineapple juice,1 fluid ounce
+93,Bahama Mama, crushed ice,1 cup
+94,Best Strawberry Daiquiri, ice,6 cups
+95,Best Strawberry Daiquiri, white sugar,1/2 cup
+96,Best Strawberry Daiquiri, frozen strawberries,4 ounces
+97,Best Strawberry Daiquiri, lime juice,1/8 cup
+98,Best Strawberry Daiquiri, lemon juice,1/2 cup
+99,Best Strawberry Daiquiri, rum,3/4 cup
+100,Best Strawberry Daiquiri, lemon-lime flavored carbonated beverage,1/4 cup
+101,Colonial Hot Buttered Rum, brown sugar,2 cups
+102,Colonial Hot Buttered Rum, butter,1/2 cup
+103,Colonial Hot Buttered Rum, pinch salt,1
+104,Colonial Hot Buttered Rum, quarts hot water,2
+105,Colonial Hot Buttered Rum, cinnamon sticks,3
+106,Colonial Hot Buttered Rum, whole cloves,6
+107,Colonial Hot Buttered Rum, rum,2 cups
+108,Colonial Hot Buttered Rum, sweetened whipped cream,1 cup
+109,Colonial Hot Buttered Rum,ground nutmeg to taste,N/A
+110,Hot Spiked Cider, quart water,1
+111,Hot Spiked Cider, orange spice tea bags,3
+112,Hot Spiked Cider, light brown sugar,1/2 cup
+113,Hot Spiked Cider, apple cider,2 cups
+114,Hot Spiked Cider, light rum,1 1/2 cups
+115,Hot Spiked Cider, cinnamon sticks,8
+116,Hot Spiked Cider, butter,3 teaspoons
+117,Christmas Creamy Eggnog, egg yolks,4
+118,Christmas Creamy Eggnog, sweetened condensed milk,1 (5 ounce) can
+119,Christmas Creamy Eggnog, white sugar,1 tablespoon
+120,Christmas Creamy Eggnog, vanilla extract,1 teaspoon
+121,Christmas Creamy Eggnog, milk,4 1/2 cups
+122,Christmas Creamy Eggnog, egg whites,4
+123,Christmas Creamy Eggnog, rum,1 fluid ounce
+124,Christmas Creamy Eggnog, ground nutmeg,1/4 teaspoon
+125,The Perfect Mai Tai, light rum,2 cups
+126,The Perfect Mai Tai, dark rum,1 cup
+127,The Perfect Mai Tai, 151 proof rum,1 cup
+128,The Perfect Mai Tai, orange curacao (orange flavored liqueur),1 cup
+129,The Perfect Mai Tai, almond flavored syrup,1 cup
+130,The Perfect Mai Tai, simple syrup,1 cup
+131,The Perfect Mai Tai," limes, juiced",10
+132,The Perfect Mai Tai, gallon fresh orange juice,1/2
+133,Pina Colada Punch," gallon vanilla ice cream, softened",1/2
+134,Pina Colada Punch, crushed pineapple,1 (20 ounce) can
+135,Pina Colada Punch, sweetened cream of coconut (such as Coco Lopez),1 (8 ounce) can
+136,Pina Colada Punch, pineapple juice,1 (46 fluid ounce) can
+137,Pina Colada Punch, light rum,2 cups
+138,Pina Colada Punch, (2 liter) bottle lemon-lime flavored carbonated beverage,1
+139,RumSpiked Horchata, uncooked long grain rice,1 cup
+140,RumSpiked Horchata, quarts warm water,2
+141,RumSpiked Horchata, ground cinnamon,1/2 teaspoon
+142,RumSpiked Horchata, milk,1 1/4 cups
+143,RumSpiked Horchata, sweetened condensed milk,1 (14 ounce) can
+144,RumSpiked Horchata, vanilla extract,1 teaspoon
+145,RumSpiked Horchata," rum, or to taste (optional)",1/4 cup
+146,RumSpiked Horchata, cubes ice,16
+147,Mrs Baxtons Long Island Iced Tea, vodka,1 fluid ounce
+148,Mrs Baxtons Long Island Iced Tea, gold tequila,1 fluid ounce
+149,Mrs Baxtons Long Island Iced Tea, rum,1 fluid ounce
+150,Mrs Baxtons Long Island Iced Tea, gin,1 fluid ounce
+151,Mrs Baxtons Long Island Iced Tea, Cointreau or triple sec,1 fluid ounce
+152,Mrs Baxtons Long Island Iced Tea, sweet and sour mix,5 fluid ounces
+153,Mrs Baxtons Long Island Iced Tea, cola,2 fluid ounces
+154,Mrs Baxtons Long Island Iced Tea, lime wedge,1
+155,Hurricane I, amaretto liqueur,1 (1.5 fluid ounce) jigger
+156,Hurricane I, light rum,1 fluid ounce
+157,Hurricane I, dark rum,1 fluid ounce
+158,Hurricane I, orange juice,6 fluid ounces
+159,Hurricane I, pineapple juice,6 fluid ounces
+160,Hurricane I, lemon juice,1 teaspoon
+161,Hurricane I, grenadine syrup,1 dash
+162,Hurricane I," orange, sliced into rounds",1
+163,Hurricane I, maraschino cherry,1
+164,Big Kevs Texas Style Long Island Iced Tea, vodka,1 fluid ounce
+165,Big Kevs Texas Style Long Island Iced Tea, dry gin,1 fluid ounce
+166,Big Kevs Texas Style Long Island Iced Tea, triple sec (orange-flavored liqueur),1 fluid ounce
+167,Big Kevs Texas Style Long Island Iced Tea, rum,1 fluid ounce
+168,Big Kevs Texas Style Long Island Iced Tea, tequila,1 fluid ounce
+169,Big Kevs Texas Style Long Island Iced Tea, or bottle cola-flavored carbonated beverage,1 (12 fluid ounce) can
+170,Big Kevs Texas Style Long Island Iced Tea, wedge lemon,1
+171,Big Kevs Texas Style Long Island Iced Tea, wedge lime,1
+172,Shaggys Perfect Martini, dry vermouth,1/2 fluid ounce
+173,Shaggys Perfect Martini, gin,4 fluid ounces
+174,Shaggys Perfect Martini, pimento-stuffed green olives,2
+175,Tom Collins, gin,2 fluid ounces
+176,Tom Collins, lemon juice,2 fluid ounces
+177,Tom Collins, simple syrup,1 fluid ounce
+178,Tom Collins, bitters,1 dash
+179,Tom Collins, ice cubes,1 cup
+180,Tom Collins, cold club soda,1/4 cup
+181,Tom Collins," slice lemon, for garnish",1
+182,Tom Collins, maraschino cherry,1
+183,StrawberryGin Cocktail, strawberry,1
+184,StrawberryGin Cocktail, fresh basil leaves,2
+185,StrawberryGin Cocktail, white sugar,2 teaspoons
+186,StrawberryGin Cocktail,ice cubes,N/A
+187,StrawberryGin Cocktail, gin,2 fluid ounces
+188,StrawberryGin Cocktail, fresh lemon juice,1 fluid ounce
+189,StrawberryGin Cocktail, chilled club soda,3 fluid ounces
+190,Gin Slush, water,9 cups
+191,Gin Slush, white sugar,2 cups
+192,Gin Slush, frozen orange juice concentrate,1 (12 fluid ounce) can
+193,Gin Slush, frozen lemonade concentrate,1 (12 fluid ounce) can
+194,Gin Slush, gin,2 cups
+195,Froen Summer Slush, white sugar,2 cups
+196,Froen Summer Slush, water,7 cups
+197,Froen Summer Slush, tea bags,4
+198,Froen Summer Slush, boiling water,2 cups
+199,Froen Summer Slush, frozen lemonade concentrate,1 (12 fluid ounce) can
+200,Froen Summer Slush, frozen orange juice concentrate,1 (12 fluid ounce) can
+201,Froen Summer Slush, gin,2 cups
+202,The REAL Long Island Iced Tea, vodka,1/2 fluid ounce
+203,The REAL Long Island Iced Tea, rum,1/2 fluid ounce
+204,The REAL Long Island Iced Tea, gin,1/2 fluid ounce
+205,The REAL Long Island Iced Tea, tequila,1/2 fluid ounce
+206,The REAL Long Island Iced Tea, triple sec (orange-flavored liqueur),1/2 fluid ounce
+207,The REAL Long Island Iced Tea, sweet and sour mix,1 fluid ounce
+208,The REAL Long Island Iced Tea," cola, or to taste",1 fluid ounce
+209,The REAL Long Island Iced Tea, lemon slice,1
+210,Gin and Tonic, cubes ice,4
+211,Gin and Tonic, gin,2 fluid ounces
+212,Gin and Tonic, tonic water,4 fluid ounces
+213,Gin and Tonic, fresh lime juice,1 tablespoon
+214,Gin and Tonic, lime wedge,1
+215,Earl Grey Martini, Earl Grey tea leaves,1 teaspoon
+216,Earl Grey Martini, gin,2 (1.5 fluid ounce) jiggers
+217,Earl Grey Martini,"white sugar, for rimming",N/A
+218,Earl Grey Martini, wedge lemon,1
+219,Earl Grey Martini, fresh lemon juice,1 (1.5 fluid ounce) jigger
+220,Earl Grey Martini, simple syrup,2 fluid ounces
+221,Long Island Iced Tea, vodka,1 (1.5 fluid ounce) jigger
+222,Long Island Iced Tea, gin,1 (1.5 fluid ounce) jigger
+223,Long Island Iced Tea, rum,1 (1.5 fluid ounce) jigger
+224,Long Island Iced Tea, triple sec liqueur,1 (1.5 fluid ounce) jigger
+225,Long Island Iced Tea, tequila,1 teaspoon
+226,Long Island Iced Tea, orange juice,2 teaspoons
+227,Long Island Iced Tea, cola-flavored carbonated beverage,2 fluid ounces
+228,Long Island Iced Tea, wedge lemon,1
+229,Blue Motorcycle, ice cubes,2 cups
+230,Blue Motorcycle, vodka,1/2 (1.5 fluid ounce) jigger
+231,Blue Motorcycle, tequila,1/2 (1.5 fluid ounce) jigger
+232,Blue Motorcycle, rum,1/2 (1.5 fluid ounce) jigger
+233,Blue Motorcycle, gin,1/2 (1.5 fluid ounce) jigger
+234,Blue Motorcycle, Blue Curacao,1/2 (1.5 fluid ounce) jigger
+235,Blue Motorcycle, sour mix,1 dash
+236,Blue Motorcycle, lemon-lime flavored carbonated beverage,2 fluid ounces
+237,Blue Motorcycle, slice fresh lemon,1
+238,Pink Panties, frozen pink lemonade concentrate,1 (12 fluid ounce) can
+239,Pink Panties, gin,12 fluid ounces
+240,Pink Panties, vanilla ice cream,1/2 cup
+241,Pink Panties, frozen strawberries,1/2 cup
+242,Pink Panties, crushed ice,1 cup
+243,Baltimore Zoo,ice cubes,N/A
+244,Baltimore Zoo, silver tequila,1/2 fluid ounce
+245,Baltimore Zoo, gin,1/2 fluid ounce
+246,Baltimore Zoo, white rum,1/2 fluid ounce
+247,Baltimore Zoo, vodka,1/2 fluid ounce
+248,Baltimore Zoo, triple sec,1/2 fluid ounce
+249,Baltimore Zoo, orange juice,3 fluid ounces
+250,Baltimore Zoo, grenadine syrup,3 fluid ounces
+251,Baltimore Zoo, beer (such as Budweiser®),4 fluid ounces
+252,Genes Long Island Iced Tea, vodka,1 fluid ounce
+253,Genes Long Island Iced Tea, gin,1 fluid ounce
+254,Genes Long Island Iced Tea, triple sec liqueur,1 fluid ounce
+255,Genes Long Island Iced Tea, rum,1 fluid ounce
+256,Genes Long Island Iced Tea, or bottle cola-flavored carbonated beverage,1 (12 fluid ounce) can
+257,Scorpion Bowl, crushed ice,3 cups
+258,Scorpion Bowl, gin,2 fluid ounces
+259,Scorpion Bowl, dark rum,1 fluid ounce
+260,Scorpion Bowl, 151 proof rum,2 fluid ounces
+261,Scorpion Bowl, light rum,2 fluid ounces
+262,Scorpion Bowl, vodka,2 fluid ounces
+263,Scorpion Bowl, grenadine syrup,2 fluid ounces
+264,Scorpion Bowl, fresh orange juice,8 fluid ounces
+265,Scorpion Bowl, pineapple juice,10 fluid ounces
+266,Scorpion Bowl, fresh lemon juice (optional),3 fluid ounces
+267,Scorpion Bowl, pineapple chunks,4
+268,Scorpion Bowl, maraschino cherries,8
+269,LimeAid, frozen limeade concentrate,1 (6 ounce) can
+270,LimeAid, tray ice cubes,1
+271,LimeAid, water,3 fluid ounces
+272,LimeAid, vodka,3 fluid ounces
+273,LimeAid," lime, sliced",1
+274,Storm of the Century Hurricane, ice cubes,1 cup
+275,Storm of the Century Hurricane, light rum,1 fluid ounce
+276,Storm of the Century Hurricane, dark rum,1 fluid ounce
+277,Storm of the Century Hurricane, coconut rum,1 fluid ounce
+278,Storm of the Century Hurricane, vodka,1 fluid ounce
+279,Storm of the Century Hurricane, gin,1 fluid ounce
+280,Storm of the Century Hurricane, Chambord (raspberry liqueur),1 fluid ounce
+281,Storm of the Century Hurricane, triple sec liqueur,1 fluid ounce
+282,Storm of the Century Hurricane, orange juice,3 fluid ounces
+283,Storm of the Century Hurricane,orange slices for garnish (optional),N/A
+284,Storm of the Century Hurricane,maraschino cherry for garnish (optional),N/A
+285,Salty Dog II, dry gin,1 (1.5 fluid ounce) jigger
+286,Salty Dog II, grapefruit juice,5 fluid ounces
+287,Salty Dog II, salt,1/4 teaspoon
+288,Bees Knees II, pineapple juice,1 (46 fluid ounce) can
+289,Bees Knees II, grapefruit juice,1 (46 fluid ounce) can
+290,Bees Knees II,) jar honey,1 (8 ounce
+291,Bees Knees II, gin,2 cups
+292,Toy Soldiers, fruit punch,2 (46 fluid ounce) cans
+293,Toy Soldiers, sloe gin,1 pint
+294,Toy Soldiers, vodka,1 pint
+295,Toy Soldiers, ice,8 cups
+296,Northern Comfort, apple schnapps,2 (1.5 fluid ounce) jiggers
+297,Northern Comfort, bourbon whiskey,1 (1.5 fluid ounce) jigger
+298,Northern Comfort,ice,N/A
+299,Shaggys Manhattan, sweet vermouth,1 fluid ounce
+300,Shaggys Manhattan, bourbon whiskey,3 fluid ounces
+301,Shaggys Manhattan, bitters,2 dashes
+302,Shaggys Manhattan, maraschino cherries,2
+303,The John Collins Cocktail, bourbon whiskey,2 fluid ounces
+304,The John Collins Cocktail, lemon juice,1 fluid ounce
+305,The John Collins Cocktail, simple syrup,1 teaspoon
+306,The John Collins Cocktail," ice, divided",2 cups
+307,The John Collins Cocktail, club soda,2 fluid ounces
+308,The John Collins Cocktail, orange slice,1
+309,The John Collins Cocktail, lemon slice,1
+310,The John Collins Cocktail, maraschino cherry,1
+311,Old Fashioned Cocktail,sugar cube,N/A
+312,Old Fashioned Cocktail, water,1 teaspoon
+313,Old Fashioned Cocktail, bitters,1 dash
+314,Old Fashioned Cocktail, whiskey (rye or bourbon),2 fluid ounces
+315,Old Fashioned Cocktail, lemon twist,1
+316,Old Fashioned Cocktail,ice cubes,N/A
+317,Old Fashioned Cocktail," orange slice, for garnish",1
+318,Old Fashioned Cocktail," maraschino cherry, for garnish",1
+319,Mint Julep Cocktail, mint leaves,8
+320,Mint Julep Cocktail, simple syrup,1 teaspoon
+321,Mint Julep Cocktail, bourbon whiskey,2 1/2 fluid ounces
+322,Mint Julep Cocktail,"crushed ice, divided",N/A
+323,Mint Julep Cocktail, sprig fresh mint for garnish,1
+324,Bourbon Slush, frozen orange juice concentrate,1 (6 ounce) can
+325,Bourbon Slush, frozen lemonade concentrate,1 (12 ounce) can
+326,Bourbon Slush, pineapple juice,1 (46 fluid ounce) can
+327,Bourbon Slush, white sugar,1 1/2 cups
+328,Bourbon Slush, strong brewed black tea,2 cups
+329,Bourbon Slush, bourbon whiskey,2 cups
+330,Bourbon Slush, (2 liter) bottle lemon-lime flavored carbonated beverage,1
+331,Mint Juleps, water,2 cups
+332,Mint Juleps, white sugar,2 cups
+333,Mint Juleps, roughly chopped fresh mint leaves,1/2 cup
+334,Mint Juleps, Kentucky bourbon,32 fluid ounces
+335,Mint Juleps, sprigs fresh mint leaves for garnish,8
+336,OldFashioned Swedish Glogg, (70 milliliter) bottles port wine,5
+337,OldFashioned Swedish Glogg, (750 milliliter) bottle 00 proof bourbon whiskey,1
+338,OldFashioned Swedish Glogg, (750 milliliter) bottle white rum,1
+339,OldFashioned Swedish Glogg," whole cardamom pods, cracked",3
+340,OldFashioned Swedish Glogg, small cinnamon stick,1
+341,OldFashioned Swedish Glogg, whole cloves,4
+342,OldFashioned Swedish Glogg, (3 inch) strip of orange peel,1
+343,OldFashioned Swedish Glogg, (8 inch) square of cheesecloth,1
+344,OldFashioned Swedish Glogg, white sugar,3/4 cup
+345,OldFashioned Swedish Glogg,) package dark raisins,1 (15 ounce
+346,OldFashioned Swedish Glogg,) package blanched slivered almonds,1 (6 ounce
+347,Chef Johns Homemade Eggnog,Custard Base:,N/A
+348,Chef Johns Homemade Eggnog, egg yolks,4
+349,Chef Johns Homemade Eggnog, white sugar,1/3 cup
+350,Chef Johns Homemade Eggnog, whole milk,2 cups
+351,Chef Johns Homemade Eggnog, heavy cream,1 cup
+352,Chef Johns Homemade Eggnog, freshly grated nutmeg,3/4 teaspoon
+353,Chef Johns Homemade Eggnog," bourbon whiskey, or more to taste",2 fluid ounces
+354,Chef Johns Homemade Eggnog,Meringue:,N/A
+355,Chef Johns Homemade Eggnog, egg whites,4
+356,Chef Johns Homemade Eggnog, white sugar,1 tablespoon
+357,Chef Johns Homemade Eggnog, pinch freshly grated nutmeg,1
+358,Dons Friend Tonjas Cousin Tonis Boyfriends Grandmothers Eggnog, eggs,6
+359,Dons Friend Tonjas Cousin Tonis Boyfriends Grandmothers Eggnog, white sugar,1 1/4 cups
+360,Dons Friend Tonjas Cousin Tonis Boyfriends Grandmothers Eggnog, quart bourbon,1
+361,Dons Friend Tonjas Cousin Tonis Boyfriends Grandmothers Eggnog, rum,1 cup
+362,Dons Friend Tonjas Cousin Tonis Boyfriends Grandmothers Eggnog, quarts half-and-half cream,2
+363,Dons Friend Tonjas Cousin Tonis Boyfriends Grandmothers Eggnog," ground nutmeg, or amount to taste",2 teaspoons
+364,Dons Friend Tonjas Cousin Tonis Boyfriends Grandmothers Eggnog, heavy whipping cream,1 pint
+365,Bettys Famous Eggnog," eggs, separated",12
+366,Bettys Famous Eggnog, white sugar,4 1/2 cups
+367,Bettys Famous Eggnog, (750 milliliter) bottle bourbon,1
+368,Bettys Famous Eggnog, (750 milliliter) bottle dark rum,1/2
+369,Bettys Famous Eggnog, /2 quarts whipping cream,1
+370,Bettys Famous Eggnog, half-and-half (or whole milk),2 cups
+371,Bettys Famous Eggnog, brandy,1 1/2 cups
+372,Bettys Famous Eggnog," ground nutmeg, for garnish",1 tablespoon
+373,Hot Toddy Cocktail, hot water,3/4 cup
+374,Hot Toddy Cocktail, honey,1 tablespoon
+375,Hot Toddy Cocktail, bourbon whiskey,2 fluid ounces
+376,Hot Toddy Cocktail, hot water,3/4 cup
+377,Hot Toddy Cocktail, twist lemon peel,1
+378,Manhattan, bourbon,2 fluid ounces
+379,Manhattan, sweet vermouth,1/2 fluid ounce
+380,Manhattan, maraschino cherry (optional),1
+381,Manhattan, ice,1/2 cup
+382,Autumn Sunshine Cocktail, ice cubes,6
+383,Autumn Sunshine Cocktail, bourbon,2 fluid ounces
+384,Autumn Sunshine Cocktail, maple syrup,1 fluid ounce
+385,Autumn Sunshine Cocktail, brandy-based orange liqueur (such as Grand Marnier®),1 fluid ounce
+386,Autumn Sunshine Cocktail," clementine, juiced and peel cut into x/4-inch strips",1
+387,Autumn Sunshine Cocktail," lemon, juiced",1/2
+388,Cranberry Juice Surprise, cranberry juice,1/2 cup
+389,Cranberry Juice Surprise, bourbon whiskey,1/2 cup
+390,Cranberry Juice Surprise, or bottle lemon-lime flavored soda,1 (12 fluid ounce) can
+391,Cranberry Juice Surprise,"ice cubes, as needed",N/A
+392,Cranberry Slush, frozen cranberry juice concentrate,1 cup
+393,Cranberry Slush, frozen lemonade concentrate,1 (6 ounce) can
+394,Cranberry Slush, chilled lemon-lime soda,1 (12 ounce) can
+395,Cranberry Slush, bourbon,6 fluid ounces
+396,Eggnog Royale," quarts eggnog, chilled",2
+397,Eggnog Royale, cold coffee,3 cups
+398,Eggnog Royale, bourbon whiskey (optional),2 cups
+399,Eggnog Royale, chilled heavy cream,2 cups
+400,Eggnog Royale, coffee ice cream,2 pints
+401,Eggnog Royale," ground nutmeg, for garnish",1/4 teaspoon
+402,Thanksgiving Turkey, bourbon whiskey,1 (1.5 fluid ounce) jigger
+403,Thanksgiving Turkey, orange juice,1/2 cup
+404,Thanksgiving Turkey, frozen lemonade concentrate,1 teaspoon
+405,Thanksgiving Turkey, frozen limeade concentrate,1 teaspoon
+406,Thanksgiving Turkey, ginger ale,1/3 cup
+407,Ha Ha Juice aka Party Punch, vodka,1 cup
+408,Ha Ha Juice aka Party Punch, sloe gin,1 cup
+409,Ha Ha Juice aka Party Punch, amaretto liqueur,1 cup
+410,Ha Ha Juice aka Party Punch, peach-flavored bourbon liqueur (such as Southern Comfort ®),1 cup
+411,Ha Ha Juice aka Party Punch, unsweetened pineapple juice,2 (46 fluid ounce) cans
+412,Yankee Mint Julep," fresh mint leaves, or more to taste",6
+413,Yankee Mint Julep, Kentucky bourbon,1 fluid ounce
+414,Yankee Mint Julep, maple syrup,2 teaspoons
+415,Yankee Mint Julep,"ice, or as needed",N/A
+416,Yankee Mint Julep," lemonade, or to taste",4 fluid ounces
+417,Yankee Mint Julep, sprig fresh mint,1
+418,Yankee Mint Julep, lemon wedge,1
+419,Texas Tea II, Kentucky bourbon,1 (1.5 fluid ounce) jigger
+420,Texas Tea II, triple sec liqueur,1/2 fluid ounce
+421,Texas Tea II, prepared lemonade,1/2 cup
+422,Texas Tea II, chilled lemon-lime soda per serving,2 fluid ounces
+423,Texas Tea II, wedge lemon,1
+424,Lady Joy, lemon rum,2/3 fluid ounce
+425,Lady Joy, Blue Curacao,2/3 fluid ounce
+426,Lady Joy, champagne,6 fluid ounces
+427,Lady Joy," twist lemon zest, garnish",1
+428,Annex Theater Champagne Cocktail, sugar cube,1
+429,Annex Theater Champagne Cocktail, bitters (such as Angostura®),1 dash
+430,Annex Theater Champagne Cocktail, Champagne,5 fluid ounces
+431,Sicilian Sunset, ice cubes,2 cups
+432,Sicilian Sunset, Prosecco (Italian sparkling wine),1 cup
+433,Sicilian Sunset, orange juice,1 cup
+434,Sicilian Sunset, cranberry juice,1 cup
+435,Sicilian Sunset," lemons, zested",2
+436,The Champagne Cocktail, pear brandy,3/4 fluid ounce
+437,The Champagne Cocktail, Champagne or other sparkling white wine,5 fluid ounces
+438,The Champagne Cocktail, whole-berry blackberry preserves,1 tablespoon
+439,WallabyDarned, vodka,1 (1.5 fluid ounce) jigger
+440,WallabyDarned, peach schnapps,1 (1.5 fluid ounce) jigger
+441,WallabyDarned, sugar,1 tablespoon
+442,WallabyDarned, champagne,1/2 cup
+443,WallabyDarned,) package frozen sliced peaches,1/2 (16 ounce
+444,WallabyDarned, fuzzy navel mix,1/2 cup
+445,WallabyDarned, ice,1 cup
+446,Holiday Mimosa, orange liqueur (such as Grand Marnier®),1/4 cup
+447,Holiday Mimosa, white sugar,2 tablespoons
+448,Holiday Mimosa, orange juice,1 cup
+449,Holiday Mimosa," (750 milliliter) bottle brut champagne, chilled",1
+450,Bad Day, amaretto liqueur,1 (1.5 fluid ounce) jigger
+451,Bad Day, champagne,4 fluid ounces
+452,Poinsettias, brut Champagne,4 ounces
+453,Poinsettias, cranberry juice,1 1/2 tablespoons
+454,Rise n Shine Juice, quart orange juice,1
+455,Rise n Shine Juice, (750 milliliter) bottle champagne,1
+456,Champagne Punch III, frozen cranberry juice concentrate,1 (12 fluid ounce) can
+457,Champagne Punch III, frozen pink lemonade concentrate,1 (12 fluid ounce) can
+458,Champagne Punch III, frozen limeade concentrate,1 (6 ounce) can
+459,Champagne Punch III," (750 milliliter) bottle white wine, chilled",1
+460,Champagne Punch III," liter carbonated water, chilled",1
+461,Champagne Punch III," (750 milliliter) bottles champagne, chilled",2
+462,Champagne Punch III," lemon - sliced, for garnish",1
+463,Champagne Punch III," fresh mint, garnish",1/2 cup
+464,Party Mimosa, apricot-mango nectar,1 (12 ounce) can
+465,Party Mimosa, pineapple juice,1 (12 ounce) can
+466,Party Mimosa, cold water,3/4 cup
+467,Party Mimosa," frozen orange juice concentrate, thawed and undiluted",1 (6 ounce) can
+468,Party Mimosa, (750 milliliter) bottle cold champagne,1
+469,Mimosa," champagne, chilled",3/4 cup
+470,Mimosa, orange juice,1/4 cup
+471,New Years Champagne Punch, quart orange sherbet,1
+472,New Years Champagne Punch, quarts fresh orange juice,2
+473,New Years Champagne Punch," (2 liter) bottle ginger ale, chilled",1
+474,New Years Champagne Punch," (750 milliliter) bottles champagne, chilled",2
+475,Champagne Peach Punch, peach nectar,3 (11.5 ounce) cans
+476,Champagne Peach Punch, frozen orange juice concentrate,1 (6 ounce) can
+477,Champagne Peach Punch, lemon juice,1/4 cup
+478,Champagne Peach Punch, peach brandy,1/2 cup
+479,Champagne Peach Punch, grenadine syrup,1/4 cup
+480,Champagne Peach Punch,) bottle carbonated water,1 (32 fluid ounce
+481,Champagne Peach Punch, (750 milliliter) bottles champagne,3
+482,Lava Lamps,) package red or blue colored instant Jell-O® mix,1 (3 ounce
+483,Lava Lamps, boiling water,1 cup
+484,Lava Lamps, vodka,1 cup
+485,Lava Lamps, (750 milliliter) bottle champagne,1
+486,Strawberry SauaRita, frozen limeade concentrate,1 (12 ounce) can
+487,Strawberry SauaRita, champagne,12 ounces
+488,Strawberry SauaRita, Sauza® Blanco Tequila,8 ounces
+489,Strawberry SauaRita, DeKuyper® Strawberry Liqueur,4 ounces
+490,Strawberry SauaRita, water,12 ounces
+491,Champagne Punch I, gallon raspberry sherbet,1/2
+492,Champagne Punch I," (750 milliliter) bottles champagne, chilled",2
+493,Champagne Punch I, (750 milliliter) bottle sweet red wine,1
+494,Champagne Punch I," (2 liter) bottle ginger ale, chilled",1
+495,Grandpa Harrys Holiday Punch, sugar,1 cup
+496,Grandpa Harrys Holiday Punch, (750 milliliter) bottle Burgundy wine,1
+497,Grandpa Harrys Holiday Punch," (750 milliliter) bottles champagne, chilled",2
+498,Grandpa Harrys Holiday Punch, brandy,8 fluid ounces
+499,Grandpa Harrys Holiday Punch, quart club soda,1
+500,Bellini Meanie Martini, good quality vodka,1/4 cup
+501,Bellini Meanie Martini, peach schnapps,2 fluid ounces
+502,Bellini Meanie Martini, ice cubes,1 cup
+503,Bellini Meanie Martini, champagne,2 fluid ounces
+504,Bellini Meanie Martini, fresh raspberries for garnish,3
+505,Anytime Punch, liters ginger ale,2
+506,Anytime Punch," (750 milliliter) bottle champagne, chilled",1
+507,Anytime Punch, quart lime sherbet,1
+508,Pomosa, brut Champagne,1/2 cup
+509,Pomosa, bottled pomegranate juice,2 tablespoons
+510,Pomosa, pomegranate seeds (optional),1 teaspoon
+511,French ,cracked ice,N/A
+512,French , gin,2 fluid ounces
+513,French , simple syrup,1 teaspoon
+514,French , lemon juice,1/2 fluid ounce
+515,French ," brut champagne, chilled",5 fluid ounces
+516,French , slice lemon (optional),1
+517,Froen Mudslide, crushed ice,4 cups
+518,Froen Mudslide, vodka,2 (1.5 fluid ounce) jiggers
+519,Froen Mudslide, coffee flavored liqueur,2 (1.5 fluid ounce) jiggers
+520,Froen Mudslide, Irish cream liqueur,2 (1.5 fluid ounce) jiggers
+521,Froen Mudslide, chocolate syrup,2 tablespoons
+522,Froen Mudslide, whipped cream,1/2 cup
+523,Classic Daiquiri, ice cubes,1 cup
+524,Classic Daiquiri, light rum,1 1/2 fluid ounces
+525,Classic Daiquiri, lime juice,1 fluid ounce
+526,Classic Daiquiri, triple sec,1 fluid ounce
+527,Classic Daiquiri, white sugar,1 teaspoon
+528,Classic Daiquiri, lime wedge (optional),1
+529,Classic Daiquiri," white sugar, or as needed (optional)",2 tablespoons
+530,Blended Strawberry Daiquiri, ice,1 cup
+531,Blended Strawberry Daiquiri, strawberries,5
+532,Blended Strawberry Daiquiri, white rum,2 fluid ounces
+533,Blended Strawberry Daiquiri, lime juice,1 fluid ounce
+534,Blended Strawberry Daiquiri, triple sec,1/2 fluid ounce
+535,Blended Strawberry Daiquiri, confectioners' sugar,1/2 teaspoon
+536,Blue Hawaiian Cocktail, light rum,1 fluid ounce
+537,Blue Hawaiian Cocktail, blue Curacao liqueur,1 fluid ounce
+538,Blue Hawaiian Cocktail, pineapple juice,2 fluid ounces
+539,Blue Hawaiian Cocktail, cream of coconut,1 fluid ounce
+540,Blue Hawaiian Cocktail, crushed ice,1 cup
+541,Blue Hawaiian Cocktail, pineapple slice,1
+542,Blue Hawaiian Cocktail, maraschino cherry,1
+543,Grasshopper Cocktail, creme de menthe,3/4 fluid ounce
+544,Grasshopper Cocktail, white creme de cacao,3/4 fluid ounce
+545,Grasshopper Cocktail, heavy cream,1/4 fluid ounce
+546,Grasshopper Cocktail, ice,1 cup
+547,Pina Colada IV, crushed ice,1/2 cup
+548,Pina Colada IV, pineapple juice,6 fluid ounces
+549,Pina Colada IV, rum,2 fluid ounces
+550,Pina Colada IV, sweetened coconut cream,1 fluid ounce
+551,Pina Colada IV, heavy cream,1 fluid ounce
+552,Pina Colada IV, pineapple wedge,1
+553,Pina Colada IV, maraschino cherry,1
+554,Froen Melon Margaritas, ice cubes,4 cups
+555,Froen Melon Margaritas, frozen limeade concentrate,1 (12 ounce) can
+556,Froen Melon Margaritas, tequila,2/3 cup
+557,Froen Melon Margaritas, melon-flavored schnapps,1/2 cup
+558,Creamy Brandy Alexander, brandy,1 tablespoon
+559,Creamy Brandy Alexander, creme de cacao,1 tablespoon
+560,Creamy Brandy Alexander, milk,1 1/2 cups
+561,Creamy Brandy Alexander, French vanilla ice cream,1 pint
+562,Creamy Brandy Alexander, sweetened whipped cream,1/4 cup
+563,Creamy Brandy Alexander, pinch ground cinnamon,1
+564,Jewels Watermelon Margaritas, white sugar,1/2 cup
+565,Jewels Watermelon Margaritas, water,1/2 cup
+566,Jewels Watermelon Margaritas, strips orange zest,3
+567,Jewels Watermelon Margaritas, cubed seeded watermelon,2 cups
+568,Jewels Watermelon Margaritas, white tequila,3/4 cup
+569,Jewels Watermelon Margaritas, lime juice,1/4 cup
+570,Jewels Watermelon Margaritas,salt or sugar for rimming glasses (optional),N/A
+571,Jewels Watermelon Margaritas," lime, cut into wedges",1
+572,Jewels Watermelon Margaritas," crushed ice, or as needed",2 cups
+573,Strawberry Basil Margarita, hulled strawberries,1 cup
+574,Strawberry Basil Margarita, tequila,1/4 cup
+575,Strawberry Basil Margarita," orange-flavored liqueur, such as Cointreau ®",1 tablespoon
+576,Strawberry Basil Margarita, lemon juice,1 tablespoon
+577,Strawberry Basil Margarita, white sugar,2 tablespoons
+578,Strawberry Basil Margarita, large basil leaves,3
+579,Strawberry Basil Margarita, ice cubes,8
+580,Classic Old Fashioned, simple syrup,2 teaspoons
+581,Classic Old Fashioned, water,1 teaspoon
+582,Classic Old Fashioned, bitters,2 dashes
+583,Classic Old Fashioned, ice cubes,1 cup
+584,Classic Old Fashioned, bourbon whiskey,1 (1.5 fluid ounce) jigger
+585,Classic Old Fashioned, slice orange,1
+586,Classic Old Fashioned, maraschino cherry,1
+587,Watermelon Vodka Slush," watermelon flesh, seeds removed",4 cups
+588,Watermelon Vodka Slush, simple syrup,2 fluid ounces
+589,Watermelon Vodka Slush, lemon juice,2 tablespoons
+590,Watermelon Vodka Slush, vodka,1 cup
+591,Watermelon Vodka Slush, melon liqueur,2 fluid ounces
+592,Watermelon Vodka Slush," twists lemon zest, garnish",4
+593,Rhubarb Margarita, diced rhubarb,4 cups
+594,Rhubarb Margarita, water,1/2 cup
+595,Rhubarb Margarita, white sugar,1/2 cup
+596,Rhubarb Margarita, ice,4 cups
+597,Rhubarb Margarita, tequila,2/3 cup
+598,Kiwi Margarita, superfine sugar,1/2 cup
+599,Kiwi Margarita, gold tequila,1/3 cup
+600,Kiwi Margarita, triple sec,1/3 cup
+601,Kiwi Margarita," large kiwis, peeled",2
+602,Kiwi Margarita, fresh lime juice,1 cup
+603,Kiwi Margarita, small ice cubes,2 cups
+604,Grapefruit Margaritas, frozen limeade,1 (12 fluid ounce) can
+605,Grapefruit Margaritas, tequila,1 1/2 cups
+606,Grapefruit Margaritas, ruby red grapefruit juice,1 1/2 cups
+607,Grapefruit Margaritas, ice,1 1/2 cups
+608,Grapefruit Margaritas," lime wedges, for garnish",4
+609,Coconut Margaritas, ice,2 cups
+610,Coconut Margaritas, sweetened coconut cream,3/4 cup
+611,Coconut Margaritas, tequila,4 1/2 fluid ounces
+612,Coconut Margaritas, triple sec,1 1/2 fluid ounces
+613,Coconut Margaritas, sweetened flaked coconut,1/4 cup
+614,Cocojito Froen Mojito, ice cubes,4 cups
+615,Cocojito Froen Mojito," 1/ limes, rind removed",2
+616,Cocojito Froen Mojito, sweetened cream of coconut (such as Coco Lopez®),7 fluid ounces
+617,Cocojito Froen Mojito, white rum (such as Bacardi®),2 1/2 (1.5 fluid ounce) jiggers
+618,Cocojito Froen Mojito, sprigs fresh mint leaves,5
+619,Cocojito Froen Mojito," mint sprigs, for garnish (optional)",2
+620,Cocojito Froen Mojito," lime wedges, for garnish (optional)",2
+621,AMAJOs Creamsicle Martini, vodka,1 fluid ounce
+622,AMAJOs Creamsicle Martini, triple sec,1 fluid ounce
+623,AMAJOs Creamsicle Martini, orange juice,1 fluid ounce
+624,AMAJOs Creamsicle Martini, fat free half-and-half,1 fluid ounce
+625,AMAJOs Creamsicle Martini, slice orange,1
+626,Next Best Thing to Lulus Pina Colada, frozen pina colada mix,1 (10 ounce) can
+627,Next Best Thing to Lulus Pina Colada," crushed pineapple in juice, undrained",1 cup
+628,Next Best Thing to Lulus Pina Colada, vanilla ice cream,1 cup
+629,Next Best Thing to Lulus Pina Colada, (750 milliliter) bottle mango flavored rum,1
+630,Next Best Thing to Lulus Pina Colada, cubes  ice,8
+631,Next Best Thing to Lulus Pina Colada, whipping cream,1/4 cup
+632,Next Best Thing to Lulus Pina Colada, cherries with stems,4
+633,Strawberry Shortcake Drink," frozen strawberries, thawed",1/4 cup
+634,Strawberry Shortcake Drink, amaretto liqueur,1 1/4 fluid ounces
+635,Strawberry Shortcake Drink,) scoops vanilla ice cream,2 (1/2 cup
+636,Strawberry Shortcake Drink, vanilla extract,1 dash
+637,Strawberry Shortcake Drink, crushed ice,1/2 cup
+638,Strawberry Shortcake Drink, vanilla-flavored vodka (optional),1/4 fluid ounce
+639,Strawberry Shortcake Drink, whipped cream,1 tablespoon
+640,Strawberry Shortcake Drink, fresh strawberry,1
+641,Creamy Coconut Margarita, cream of coconut (such as Coco Lopez®),1 (15 ounce) can
+642,Creamy Coconut Margarita, ice,1 cup
+643,Creamy Coconut Margarita, tequila (such as Sauza® 100% Blue Agave),3/4 cup
+644,Creamy Coconut Margarita, freshly squeezed lime juice,1/2 cup
+645,Creamy Coconut Margarita, brandy-based orange liqueur (such as Grand Marnier®),1/4 cup
+646,Froen Banana Margaritas, lemon juice,2 tablespoons
+647,Froen Banana Margaritas, lime juice,2 tablespoons
+648,Froen Banana Margaritas, banana liqueur,3/4 cup
+649,Froen Banana Margaritas, tequila,1/2 cup
+650,Froen Banana Margaritas, triple sec (orange-flavored liqueur),1/4 cup
+651,Froen Banana Margaritas, ice cubes,6
+652,Froen Banana Margaritas, large bananas,2
+653,Lava Flow, strawberries,1/2 cup
+654,Lava Flow, light rum,1 fluid ounce
+655,Lava Flow, coconut rum,1 fluid ounce
+656,Lava Flow, banana,1
+657,Lava Flow, pineapple juice,2 fluid ounces
+658,Lava Flow, cream of coconut,2 fluid ounces
+659,Lemon Whiskey Slush, Irish whiskey,1/2 cup
+660,Lemon Whiskey Slush, white sugar,3 tablespoons
+661,Lemon Whiskey Slush, fresh lemon juice,1/2 cup
+662,Lemon Whiskey Slush, ice cubes,4 cups
+663,Magnificent Froen Mango Margaritas," ice, or as needed",1 cup
+664,Magnificent Froen Mango Margaritas, frozen mango chunks,1 cup
+665,Magnificent Froen Mango Margaritas, tequila,3 fluid ounces
+666,Magnificent Froen Mango Margaritas, triple sec,3 fluid ounces
+667,Magnificent Froen Mango Margaritas, ginger ale (such as Vernors®),3 fluid ounces
+668,Magnificent Froen Mango Margaritas, simple syrup,3 fluid ounces
+669,Magnificent Froen Mango Margaritas, lemon juice,1 1/2 fluid ounces
+670,A Fantastic Margarita, limeade prepared from concentrate,2 cups
+671,A Fantastic Margarita, pineapple juice,1/2 cup
+672,A Fantastic Margarita, orange juice,1/2 cup
+673,A Fantastic Margarita, tequila,2 fluid ounces
+674,A Fantastic Margarita, orange liqueur,1 fluid ounce
+675,Tequila Sunrise, tequila,1 (1.5 fluid ounce) jigger
+676,Tequila Sunrise, freshly squeezed orange juice,3/4 cup
+677,Tequila Sunrise,ice cubes,N/A
+678,Tequila Sunrise, grenadine syrup,1/2 (1.5 fluid ounce) jigger
+679,Tequila Sunrise," slice orange, for garnish",1
+680,Tequila Sunrise, maraschino cherry for garnish,1
+681,Grilled Grapefruit Paloma Cocktail, limes,2
+682,Grilled Grapefruit Paloma Cocktail, white sugar,1/4 cup
+683,Grilled Grapefruit Paloma Cocktail," red grapefruit, halved widthwise",1
+684,Grilled Grapefruit Paloma Cocktail, kosher salt,1/4 cup
+685,Grilled Grapefruit Paloma Cocktail," ice cubes, or as needed",1 cup
+686,Grilled Grapefruit Paloma Cocktail, tequila,4 fluid ounces
+687,Grilled Grapefruit Paloma Cocktail," simple syrup, or to taste",2 tablespoons
+688,Grilled Grapefruit Paloma Cocktail, club soda,4 fluid ounces
+689,Margaritas on the Rocks, sweet and sour mix,2 cups
+690,Margaritas on the Rocks, triple sec,1 cup
+691,Margaritas on the Rocks, gold tequila,1 1/2 cups
+692,Margaritas on the Rocks, brandy-based orange liqueur (such as Grand Marnier®),1/3 cup
+693,Margaritas on the Rocks," limes, quartered",2
+694,The BEST Raspberry Margarita, sweet-and-sour cocktail mix,5 fluid ounces
+695,The BEST Raspberry Margarita, premium tequila,2 fluid ounces
+696,The BEST Raspberry Margarita, cointreau,1 fluid ounce
+697,The BEST Raspberry Margarita, Chambord (raspberry liqueur),1 fluid ounce
+698,The BEST Raspberry Margarita, ice cubes,2 cups
+699,The BEST Raspberry Margarita,margarita salt,N/A
+700,The BEST Raspberry Margarita," lime, cut into 4 wedges",1
+701,Salty Chihuahua, wedge lime,1
+702,Salty Chihuahua,coarse salt,N/A
+703,Salty Chihuahua,ice,N/A
+704,Salty Chihuahua, tequila,1 (1.5 fluid ounce) jigger
+705,Salty Chihuahua, lemonade,5 fluid ounces
+706,Top Shelf Sparkling Margarita JellO,) packages lime-flavored gelatin mix (such as Jell-O®),3 (3 ounce
+707,Top Shelf Sparkling Margarita JellO,) package lemon-flavored gelatin mix (such as Jell-O®),1 (3 ounce
+708,Top Shelf Sparkling Margarita JellO, boiling water,2 1/2 cups
+709,Top Shelf Sparkling Margarita JellO, premium tequila,1 2/3 cups
+710,Top Shelf Sparkling Margarita JellO, triple sec,2/3 cup
+711,Top Shelf Sparkling Margarita JellO, brandy-based orange liqueur (such as Grand Marnier®),2/3 cup
+712,Top Shelf Sparkling Margarita JellO, sweetened lime juice,1/2 cup
+713,Top Shelf Sparkling Margarita JellO, sparkling water,2 cups
+714,Top Shelf Sparkling Margarita JellO," lime, zested",1
+715,Top Shelf Sparkling Margarita JellO," pinch margarita salt, or as needed",1
+716,Beer Margaritas, frozen limeade concentrate,1 (12 fluid ounce) can
+717,Beer Margaritas, tequila,12 fluid ounces
+718,Beer Margaritas, water,12 fluid ounces
+719,Beer Margaritas, beer,12 fluid ounces
+720,Beer Margaritas,ice,N/A
+721,Beer Margaritas," lime, cut into wedges",1
+722,Margaritas, frozen limeade concentrate,1 (6 ounce) can
+723,Margaritas, tequila,6 fluid ounces
+724,Margaritas, triple sec,2 fluid ounces
+725,Ultimate Froen Strawberry Margarita, tequila,6 fluid ounces
+726,Ultimate Froen Strawberry Margarita, triple sec,2 fluid ounces
+727,Ultimate Froen Strawberry Margarita, frozen sliced strawberries in syrup,8 ounces
+728,Ultimate Froen Strawberry Margarita, frozen limeade concentrate,4 fluid ounces
+729,Italian Amaretto Margaritas," amaretto liqueur, plus additional",4 fluid ounces
+730,Italian Amaretto Margaritas,white sugar,N/A
+731,Italian Amaretto Margaritas, frozen limeade concentrate,6 fluid ounces
+732,Italian Amaretto Margaritas, tequila,6 fluid ounces
+733,Italian Amaretto Margaritas, orange juice,1/2 cup
+734,Italian Amaretto Margaritas, ice,6 cups
+735,Parkers Famous Margaritas, tequila,5 fluid ounces
+736,Parkers Famous Margaritas, fresh lime juice,3 fluid ounces
+737,Parkers Famous Margaritas, sweetened lime juice,1 fluid ounce
+738,Parkers Famous Margaritas, triple sec (orange-flavored liqueur),3 fluid ounces
+739,Parkers Famous Margaritas,ice cubes,N/A
+740,Parkers Famous Margaritas," lime, cut into wedges",1
+741,Parkers Famous Margaritas,rimming salt,N/A
+742,Easy Froen Margaritas, quarts ice cubes,2
+743,Easy Froen Margaritas, frozen limeade concentrate,1 (12 fluid ounce) can
+744,Easy Froen Margaritas,),12 fluid ounces tequila (measure with empty limeade can
+745,Easy Froen Margaritas, Cointreau,1/4 cup
+746,Easy Froen Margaritas,Garnish:,N/A
+747,Easy Froen Margaritas,margarita or kosher salt for the rims,N/A
+748,Easy Froen Margaritas,lime slices cut in half,N/A
+749,Froen Strawberry Margarita, tequila,6 fluid ounces
+750,Froen Strawberry Margarita, triple sec,2 fluid ounces
+751,Froen Strawberry Margarita, frozen strawberries,8 ounces
+752,Froen Strawberry Margarita, frozen limeade concentrate,4 fluid ounces
+753,Froen Strawberry Margarita, ice,6 cups
+754,Margaritas to Die For, limes,2
+755,Margaritas to Die For, white sugar,1/4 cup
+756,Margaritas to Die For, water,3 tablespoons
+757,Margaritas to Die For, premium tequila,1 cup
+758,Margaritas to Die For, brandy-based orange liqueur (such as Grand Marnier®),2 tablespoons
+759,Margaritas to Die For," lime, sliced into rounds",1
+760,Margaritas to Die For,coarse salt,N/A
+761,Mexicali Beer Margaritas, limeade concentrate,1 (12 fluid ounce) can
+762,Mexicali Beer Margaritas, gold tequila,1 1/2 cups
+763,Mexicali Beer Margaritas, beer,3 (12 fluid ounce) cans Mexican
+764,Mexicali Beer Margaritas," whole lime, cut into 6 wedges",1
+765,Yummy Margaritas, frozen limeade concentrate,1 (12 fluid ounce) can
+766,Yummy Margaritas, beer,6 fluid ounces
+767,Yummy Margaritas, tequila,6 fluid ounces
+768,Yummy Margaritas, ice,4 cups
+769,Yummy Margaritas," lime, sliced",1
+770,Banana Margaritas, tequila,6 fluid ounces
+771,Banana Margaritas, frozen limeade concentrate,1 (6 ounce) can
+772,Banana Margaritas, triple sec liqueur,4 fluid ounces
+773,Banana Margaritas, ice,6 cups
+774,Banana Margaritas, bananas,2
+775,Banana Margaritas, coarse granulated sugar,1/4 cup
+776,Wonderful Margaritas, frozen limeade concentrate,2 (12 fluid ounce) cans
+777,Wonderful Margaritas, liter artificially sweetened citrus soda,1
+778,Wonderful Margaritas, tequila,12 fluid ounces
+779,Mangorita, tequila,2 (1.5 fluid ounce) jiggers
+780,Mangorita, triple sec liqueur,1 (1.5 fluid ounce) jigger
+781,Mangorita, fresh lime juice,1 (1.5 fluid ounce) jigger
+782,Mangorita," mango - peeled, seeded, and sliced",1
+783,Mangorita, ice cubes,4
+784,Mangorita, mango nectar,1/4 cup
+785,Lemon Drop Shots, vodka (such as Absolut®),3/4 fluid ounce
+786,Lemon Drop Shots, lemon juice,3/4 fluid ounce
+787,Lemon Drop Shots," white sugar, or to taste",2 1/2 teaspoons
+788,Lemon Drop Shots," lemon, cut into wedges",1
+789,Sparkling Sea Breee,ice cubes,N/A
+790,Sparkling Sea Breee, vodka,1 (1.5 fluid ounce) jigger
+791,Sparkling Sea Breee, cranberry juice,1 (1.5 fluid ounce) jigger
+792,Sparkling Sea Breee, grapefruit juice,1 (1.5 fluid ounce) jigger
+793,Sparkling Sea Breee, sparkling water,2 (1.5 fluid ounce) jiggers
+794,Sparkling Sea Breee, lime wedge,1
+795,French Martini,ice cubes,N/A
+796,French Martini, vodka,2 fluid ounces
+797,French Martini, fresh pineapple juice,2 fluid ounces
+798,French Martini, raspberry-flavored liqueur (such as Chambord®),1/2 fluid ounce
+799,French Martini, slice fresh pineapple,1
+800,French Martini, (3 inch) lemon peel,1
+801,Grilled Gapacho Bloody Mary, pound tomatoes,1
+802,Grilled Gapacho Bloody Mary," olive oil, divided",1/4 cup
+803,Grilled Gapacho Bloody Mary," salt, divided",1 teaspoon
+804,Grilled Gapacho Bloody Mary, red bell pepper,1
+805,Grilled Gapacho Bloody Mary," small onion, quartered",1
+806,Grilled Gapacho Bloody Mary, poblano pepper,1
+807,Grilled Gapacho Bloody Mary," cloves garlic, unpeeled",3
+808,Grilled Gapacho Bloody Mary," lemon, halved",1
+809,Grilled Gapacho Bloody Mary, grated fresh horseradish,1 1/2 teaspoons
+810,Grilled Gapacho Bloody Mary, seafood seasoning (such as Old Bay®),1 teaspoon
+811,Grilled Gapacho Bloody Mary, celery salt,1/2 teaspoon
+812,Grilled Gapacho Bloody Mary, Worcestershire sauce,1 dash
+813,Grilled Gapacho Bloody Mary," hot sauce (such as Tabasco®), or to taste (optional)",1 dash
+814,Grilled Gapacho Bloody Mary,ice,N/A
+815,Grilled Gapacho Bloody Mary," vodka, divided",6 fluid ounces
+816,The Shaner Bill," ice, or as desired",1/4 cup
+817,The Shaner Bill, vodka,1 (1.5 fluid ounce) jigger
+818,The Shaner Bill, cranberry juice,1 (1.5 fluid ounce) jigger
+819,The Shaner Bill, citrus-flavored soda (such as Fresca®),1 (1.5 fluid ounce) jigger
+820,The Shaner Bill, wedge lime,1
+821,Happy Birthday Martini, white sugar,1 teaspoon
+822,Happy Birthday Martini, fresh lemon juice,1 teaspoon
+823,Happy Birthday Martini, pomegranate juice,1 fluid ounce
+824,Happy Birthday Martini, vodka (such as Tito's®),2 fluid ounces
+825,Happy Birthday Martini, ice cubes,3
+826,Happy Birthday Martini, strips lemon peel,2
+827,Hard Lemonade, lemon,1
+828,Hard Lemonade," water, or as needed, divided",4 cups
+829,Hard Lemonade, white sugar,1 cup
+830,Hard Lemonade," large lemons, juiced",6
+831,Hard Lemonade, vodka,1 1/2 cups
+832,Hard Lemonade," ice cubes, or as needed",1 cup
+833,Hard Lemonade," large lemon, sliced",1
+834,Madras Cocktail, vodka,1 1/2 fluid ounces
+835,Madras Cocktail, cranberry juice,4 fluid ounces
+836,Madras Cocktail, orange juice,1 fluid ounce
+837,Madras Cocktail, ice,1/2 cup
+838,Madras Cocktail, lime wedge,1
+839,White Peach Sangria, (750 milliliter) bottle dry white wine,1
+840,White Peach Sangria, peach flavored vodka,3/4 cup
+841,White Peach Sangria," frozen lemonade concentrate, thawed",6 tablespoons
+842,White Peach Sangria, white sugar,1/4 cup
+843,White Peach Sangria," pound white peaches, pitted and sliced",1
+844,White Peach Sangria," seedless red grapes, halved",3/4 cup
+845,White Peach Sangria," seedless green grapes, halved",3/4 cup
+846,Amaretto, water,1 cup
+847,Amaretto, white sugar,1 cup
+848,Amaretto, brown sugar,1/2 cup
+849,Amaretto, vodka,2 cups
+850,Amaretto, almond extract,2 tablespoons
+851,Amaretto, vanilla extract,2 teaspoons
+852,Summer Beer II," frozen pink lemonade concentrate, thawed",1 (12 fluid ounce) can
+853,Summer Beer II, water,12 fluid ounces
+854,Summer Beer II, vodka,12 fluid ounces
+855,Summer Beer II, or bottle beer,1 (12 fluid ounce) can
+856,Grandmas Apple Pie Ala Mode Moonshine, gallon apple cider,1/2
+857,Grandmas Apple Pie Ala Mode Moonshine, gallon apple juice,1/2
+858,Grandmas Apple Pie Ala Mode Moonshine, cinnamon sticks,4
+859,Grandmas Apple Pie Ala Mode Moonshine, whole clove,1
+860,Grandmas Apple Pie Ala Mode Moonshine, white sugar,1 cup
+861,Grandmas Apple Pie Ala Mode Moonshine, brown sugar,1 cup
+862,Grandmas Apple Pie Ala Mode Moonshine, 190 proof grain alcohol (such as Everclear®),3 cups
+863,Grandmas Apple Pie Ala Mode Moonshine, vanilla vodka,2 cups
+864,Cosmopolitan, vodka,1 (1.5 fluid ounce) jigger
+865,Cosmopolitan, cointreau,1/2 fluid ounce
+866,Cosmopolitan, fresh lime juice,1 teaspoon
+867,Cosmopolitan, cranberry juice,1 1/2 fluid ounces
+868,Cosmopolitan," twist lime zest, garnish",1
+869,Limoncello, lemons,10
+870,Limoncello, liter vodka,1
+871,Limoncello, white sugar,3 cups
+872,Limoncello, water,4 cups
+873,Red Rooster, ice cubes,1 cup
+874,Red Rooster, vodka,2 fluid ounces
+875,Red Rooster, cranberry juice,4 fluid ounces
+876,Red Rooster, orange juice,1/2 fluid ounce
+877,Party Punch IV, frozen pineapple juice concentrate,1 (16 ounce) can
+878,Party Punch IV, frozen orange juice concentrate,1 (12 fluid ounce) can
+879,Party Punch IV, vodka,12 fluid ounces
+880,Party Punch IV," ( liter) bottles lemon-lime flavored carbonated beverage, chilled",2
+881,Party Punch IV,) jar maraschino cherries,1 (4 ounce
+882,Party Punch IV," oranges, sliced into rounds",4
+883,Party Punch IV, trays ice cubes,2
+884,Cranberry Martini, vodka,1 (1.5 fluid ounce) jigger
+885,Cranberry Martini, orange liqueur,1/2 fluid ounce
+886,Cranberry Martini, dry vermouth,1/2 fluid ounce
+887,Cranberry Martini, cranberry juice,2 (1.5 fluid ounce) jiggers
+888,Cranberry Martini, ice,1 cup
+889,Cranberry Martini,cranberries,N/A
+890,Dirty Martini, vodka,6 fluid ounces
+891,Dirty Martini, dry vermouth,1 dash
+892,Dirty Martini, brine from olive jar,1 fluid ounce
+893,Dirty Martini, stuffed green olives,4
+894,Summer Beer I, ice cubes,4 cups
+895,Summer Beer I, frozen lemonade concentrate,1 (6 ounce) can
+896,Summer Beer I, or bottle beer,1 (12 fluid ounce) can
+897,Summer Beer I, vodka,12 fluid ounces
+898,Chocolate Cake Shot, hazelnut liqueur,1 fluid ounce
+899,Chocolate Cake Shot, vodka,1/2 fluid ounce
+900,Chocolate Cake Shot," lemon, cut into wedges",1
+901,Chocolate Cake Shot,white sugar,N/A
+902,Sex on the Beach III, vodka,1 fluid ounce
+903,Sex on the Beach III, peach schnapps,1 fluid ounce
+904,Sex on the Beach III, orange juice,3 fluid ounces
+905,Sex on the Beach III, cranberry juice,3 fluid ounces
+906,Rebeccas Rockin Vodka Lemonade, frozen raspberry lemonade concentrate,1 (12 fluid ounce) can
+907,Rebeccas Rockin Vodka Lemonade, vodka,12 fluid ounces
+908,Rebeccas Rockin Vodka Lemonade, lime,1
+909,White Russian, coffee flavored liqueur,1 fluid ounce
+910,White Russian, vodka,1 fluid ounce
+911,White Russian, cream or milk,1/2 cup
+912,Moscow Mule Cocktail, vodka,1 1/2 fluid ounces
+913,Moscow Mule Cocktail, lime juice,1/2 fluid ounce
+914,Moscow Mule Cocktail,ice cubes,N/A
+915,Moscow Mule Cocktail, ginger beer,1/2 cup
+916,Moscow Mule Cocktail, lime wedge for garnish,1
+917,Lynchburg Lemonade Cocktail, Tennessee whiskey (such as Jack Daniels ®),1 fluid ounce
+918,Lynchburg Lemonade Cocktail, triple sec,1 fluid ounce
+919,Lynchburg Lemonade Cocktail, sweet and sour mix,1 fluid ounce
+920,Lynchburg Lemonade Cocktail, ice,1 1/2 cups
+921,Lynchburg Lemonade Cocktail, lemon-lime soda,2 fluid ounces
+922,Lynchburg Lemonade Cocktail, lemon wheel,1
+923,Whiskey Sours," frozen orange juice concentrate, thawed",3 (12 fluid ounce) cans
+924,Whiskey Sours," frozen lemonade concentrate, thawed",1 (12 fluid ounce) can
+925,Whiskey Sours, water,18 cups
+926,Whiskey Sours, whiskey,2 cups
+927,Whiskey Sours, maraschino cherries,26
+928,Whiskey Sours, orange slices for garnish,26
+929,Rob Roy, blended Scotch whiskey,1/4 cup
+930,Rob Roy, sweet vermouth,2 tablespoons
+931,Rob Roy, ice cubes,4
+932,Rob Roy, Angostura bitters,2 dashes
+933,Rob Roy, maraschino cherry,1
+934,Original Irish Cream, heavy cream,1 cup
+935,Original Irish Cream, sweetened condensed milk,1 (14 ounce) can
+936,Original Irish Cream, Irish whiskey,1 2/3 cups
+937,Original Irish Cream, instant coffee granules,1 teaspoon
+938,Original Irish Cream, chocolate syrup,2 tablespoons
+939,Original Irish Cream, vanilla extract,1 teaspoon
+940,Original Irish Cream, almond extract,1 teaspoon
+941,Hot Toddy, honey,1 teaspoon
+942,Hot Toddy, boiling water,2 fluid ounces
+943,Hot Toddy, whiskey,1 1/2 fluid ounces
+944,Hot Toddy, whole cloves,3
+945,Hot Toddy, cinnamon stick,1
+946,Hot Toddy, slice lemon,1
+947,Hot Toddy, pinch ground nutmeg,1
+948,Whiskey Slush, frozen lemonade concentrate,1 (12 fluid ounce) can
+949,Whiskey Slush, frozen orange juice concentrate,1 (6 ounce) can
+950,Whiskey Slush, strong brewed black tea,2 cups
+951,Whiskey Slush, white sugar,1 cup
+952,Whiskey Slush, whiskey,2 cups
+953,Whiskey Slush, water,7 cups
+954,Whiskey Slush, liter ginger ale soda,1
+955,Whiskey Slush," lemons - cut into wedges, for garnish",2
+956,Whisky Tea, boiling water,1 cup
+957,Whisky Tea, tea bag,1
+958,Whisky Tea, Irish whiskey,1 (1.5 fluid ounce) jigger
+959,Whisky Tea, milk,1 tablespoon
+960,Whisky Tea, white sugar,1 teaspoon
+961,Classic Whiskey Sour, simple syrup,1 fluid ounce
+962,Classic Whiskey Sour, fresh lemon juice,2 fluid ounces
+963,Classic Whiskey Sour, whiskey,5 fluid ounces
+964,Classic Whiskey Sour,ice cubes,N/A
+965,Classic Whiskey Sour, maraschino cherries for garnish,3
+966,Red Apple Martini, sour apple schnapps,1 (1.5 fluid ounce) jigger
+967,Red Apple Martini, Canadian whiskey,1 (1.5 fluid ounce) jigger
+968,Red Apple Martini, cranberry juice,1 (1.5 fluid ounce) jigger
+969,Eggnog Blend, half-and-half,4 cups
+970,Eggnog Blend, white sugar,1 cup
+971,Eggnog Blend," egg yolks, beaten",11
+972,Eggnog Blend, vanilla extract,1 teaspoon
+973,Eggnog Blend, heavy cream,2 cups
+974,Eggnog Blend, dark rum,2/3 cup
+975,Eggnog Blend, Scotch whiskey,1/2 cup
+976,Eggnog Blend, vanilla ice cream,1 pint
+977,Irish Coffee, Irish cream liqueur,1 (1.5 fluid ounce) jigger
+978,Irish Coffee, Irish whiskey,1 (1.5 fluid ounce) jigger
+979,Irish Coffee, hot brewed coffee,1 cup
+980,Irish Coffee, whipped cream,1 tablespoon
+981,Irish Coffee, ground nutmeg,1 dash
+982,True Manhattan, whiskey,2 fluid ounces
+983,True Manhattan, sweet vermouth,1/2 fluid ounce
+984,True Manhattan, bitters (optional),1 dash
+985,True Manhattan, ice cubes,1 cup
+986,True Manhattan, maraschino cherry for garnish,1
+987,Bourbolicious," frozen lemonade concentrate, thawed",1 (12 fluid ounce) can
+988,Bourbolicious, frozen orange juice concentrate,1 (6 ounce) can
+989,Bourbolicious, white sugar,1 cup
+990,Bourbolicious, bourbon whiskey,1 1/2 cups
+991,Bourbolicious, brewed tea,2 1/4 cups
+992,Bourbolicious, water,6 cups
+993,Irish Car Bomb II, Irish whiskey,3/4 fluid ounce
+994,Irish Car Bomb II, Irish cream liqueur,3/4 fluid ounce
+995,Irish Car Bomb II, Irish stout beer,6 fluid ounces
+996,Hop Skip and Go Naked, or bottles beer,6 (12 fluid ounce) cans
+997,Hop Skip and Go Naked, frozen lemonade concentrate,1 (12 fluid ounce) can
+998,Hop Skip and Go Naked, whiskey,1 pint
+999,Liquid Hot Apple Pie, gallon apple juice,1
+1000,Liquid Hot Apple Pie, (2 liter) bottle cold ginger ale,1
+1001,Liquid Hot Apple Pie, brown sugar,1 cup
+1002,Liquid Hot Apple Pie, whiskey,1 pint
+1003,Liquid Hot Apple Pie, spiced rum,1 pint
+1004,Liquid Hot Apple Pie, ( inch) cinnamon sticks,3
+1005,Whiskey Paralyer, ice cubes,1 cup
+1006,Whiskey Paralyer," Canadian whiskey, such as Crown Royal™",1 fluid ounce
+1007,Whiskey Paralyer, Kahlua or other coffee flavored liqueur,1 fluid ounce
+1008,Whiskey Paralyer, root beer,1/2 cup
+1009,Whiskey Paralyer, milk,2 fluid ounces
