@@ -1,1962 +1,1842 @@
-entry_id,drink_name,ingredient,measurement
-0,Diesel,Lager,1/2 pint 
-1,Diesel,Cider,1/2 pint 
-2,Diesel,Blackcurrant cordial,1 dash 
-8,Kiwi Papaya Smoothie,Kiwi,3 
-9,Kiwi Papaya Smoothie,Papaya,1/2 
-16,Homemade Kahlua,Sugar,2 1/2 cups 
-17,Homemade Kahlua,Corn syrup,1 cup 
-18,Homemade Kahlua,Coffee,1 1/2 oz instant 
-19,Homemade Kahlua,Vanilla extract,2 oz 
-20,Homemade Kahlua,Water,3 cups boiling 
-21,Homemade Kahlua,Vodka,1 fifth 
-24,Zimadori Zinger,Midori melon liqueur,1.5 oz 
-25,Zimadori Zinger,Zima,12 oz 
-32,Brave Bull Shooter,Tequila,1/2 oz 
-33,Brave Bull Shooter,Tabasco sauce,1/2 oz 
-40,Abilene,Dark rum,1 1/2 oz 
-41,Abilene,Peach nectar,2 oz 
-42,Abilene,Orange juice,3 oz 
-48,Bobby Burns Cocktail,Sweet Vermouth,1 1/2 oz 
-49,Bobby Burns Cocktail,Scotch,1 1/2 oz 
-50,Bobby Burns Cocktail,Benedictine,1 1/4 tsp 
-51,Bobby Burns Cocktail,Lemon peel,1 twist of 
-56,Rum Punch,Rum,mikey bottle 
-57,Rum Punch,Ginger ale,large bottle 
-58,Rum Punch,Fruit punch,355 ml frozen 
-59,Rum Punch,Orange juice,355 ml frozen 
-60,Rum Punch,Ice,crushed 
-64,Shot-gun,Jim Beam,1 part 
-65,Shot-gun,Jack Daniels,1 part 
-66,Shot-gun,Wild Turkey,1 oz 
-72,Boulevardier,Campari,1 oz
-73,Boulevardier,Sweet Vermouth,1 oz
-74,Boulevardier,Rye whiskey,1 1/4 oz
-75,Boulevardier,Orange Peel,1
-80,Caipirissima,Lime,2 
-81,Caipirissima,Sugar,2 tblsp 
-82,Caipirissima,White rum,2-3 oz 
-83,Caipirissima,Ice,crushed 
-88,Boozy Snickers Milkshake,Vanilla Ice-Cream,3 cups 
-89,Boozy Snickers Milkshake,Milk,1 cup 
-90,Boozy Snickers Milkshake,Godiva liqueur,1/2 cup 
-91,Boozy Snickers Milkshake,Whipped Cream,for topping
-92,Boozy Snickers Milkshake,caramel sauce,"4 tablespoons
-"
-93,Boozy Snickers Milkshake,chocolate sauce,"4 tablespoons
-"
-94,Boozy Snickers Milkshake,Mini-snickers bars,"15
-"
-96,Stone Sour,Apricot brandy,1 oz 
-97,Stone Sour,Orange juice,1 oz 
-98,Stone Sour,Sweet and sour,1 oz 
-104,Rum Old-fashioned,Light rum,1 1/2 oz 
-105,Rum Old-fashioned,151 proof rum,1 tsp 
-106,Rum Old-fashioned,Powdered sugar,1/2 tsp 
-107,Rum Old-fashioned,Bitters,1 dash 
-108,Rum Old-fashioned,Water,1 tsp 
-109,Rum Old-fashioned,Lime peel,Twist of 
-112,Bellini Martini,Ice,8 cubes 
-113,Bellini Martini,Vodka,3 oz 
-114,Bellini Martini,Peach nectar,1.5 oz 
-115,Bellini Martini,Peach schnapps,1.5 oz 
-116,Bellini Martini,Lemon peel,1 
-120,Apricot Lady,Light rum,1 1/2 oz 
-121,Apricot Lady,Apricot brandy,1 oz 
-122,Apricot Lady,Triple sec,1 tsp 
-123,Apricot Lady,Lemon juice,1/2 oz 
-124,Apricot Lady,Egg white,1 
-125,Apricot Lady,Orange,1 
-128,Midnight Mint,Bailey's irish cream,1 oz 
-129,Midnight Mint,White Creme de Menthe,3/4 oz 
-130,Midnight Mint,Cream,3/4 oz double 
-136,Pink Penocha,Everclear,750 ml 
-137,Pink Penocha,Vodka,1750 ml 
-138,Pink Penocha,Peach schnapps,1750 ml 
-139,Pink Penocha,Orange juice,1 gal 
-140,Pink Penocha,Cranberry juice,1 gal 
-144,After Dinner Cocktail,Apricot brandy,1 oz 
-145,After Dinner Cocktail,Triple sec,1 oz 
-146,After Dinner Cocktail,Lime,Juice of 1 
-147,After Dinner Cocktail,Lime,1 
-152,Whiskey Sour,Blended whiskey,2 oz 
-153,Whiskey Sour,Lemon,Juice of 1/2 
-154,Whiskey Sour,Powdered sugar,1/2 tsp 
-155,Whiskey Sour,Cherry,1 
-156,Whiskey Sour,Lemon,1/2 slice 
-160,Applejack,Jack Daniels,1 oz 
-161,Applejack,Midori melon liqueur,1/2 oz 
-162,Applejack,Sour mix,2 oz 
-168,Tipperary,Irish Whiskey,2 oz
-169,Tipperary,Sweet Vermouth,1 oz
-170,Tipperary,Green Chartreuse,1/2 oz
-176,Lemouroudji,Ginger,2 pieces 
-177,Lemouroudji,Water,1 gal 
-178,Lemouroudji,Lemon,1 lb 
-179,Lemouroudji,Sugar,1 cup 
-180,Lemouroudji,Cayenne pepper,ground 
-184,Quaker's Cocktail,Light rum,3/4 oz 
-185,Quaker's Cocktail,Brandy,3/4 oz 
-186,Quaker's Cocktail,Lemon,Juice of 1/4 
-187,Quaker's Cocktail,Raspberry syrup,2 tsp 
-192,Brandon and Will's Coke Float,Vanilla ice-cream,2 scoops 
-193,Brandon and Will's Coke Float,Coca-Cola,1 can 
-194,Brandon and Will's Coke Float,Bourbon,2 oz 
-200,Strawberry Daiquiri,Strawberry schnapps,1/2 oz 
-201,Strawberry Daiquiri,Light rum,1 oz 
-202,Strawberry Daiquiri,Lime juice,1 oz 
-203,Strawberry Daiquiri,Powdered sugar,1 tsp 
-204,Strawberry Daiquiri,Strawberries,1 oz 
-208,Caipirinha,Sugar,2 tsp
-209,Caipirinha,Lime,1 
-210,Caipirinha,Cachaca,2 1/2 oz 
-216,Mint Julep,Mint,4 fresh 
-217,Mint Julep,Bourbon,2 1/2 oz 
-218,Mint Julep,Powdered sugar,1 tsp 
-219,Mint Julep,Water,2 tsp 
-224,Jitterbug,Gin,2 jiggers 
-225,Jitterbug,Vodka,1 jigger 
-226,Jitterbug,Grenadine,3 dashes 
-227,Jitterbug,Lime juice,1 shot 
-228,Jitterbug,Sugar,Around rim put 1 pinch 
-229,Jitterbug,Sugar syrup,3 dashes 
-230,Jitterbug,Soda water,Fill to top with 
-232,Godchild,Vodka,1 oz 
-233,Godchild,Amaretto,1 oz 
-234,Godchild,Heavy cream,1 oz 
-240,Queen Bee,Coffee brandy,1 oz 
-241,Queen Bee,Lime vodka,1 1/2 oz 
-242,Queen Bee,Sherry,1/2 oz cream 
-248,National Aquarium,Rum,1/2 oz 
-249,National Aquarium,Vodka,1/2 oz 
-250,National Aquarium,Gin,1/2 oz 
-251,National Aquarium,Blue Curacao,1/2 oz 
-252,National Aquarium,Sour mix,2 oz 
-253,National Aquarium,Lemon-lime soda,1 splash 
-256,Jackhammer,Jack Daniels,1 oz 
-257,Jackhammer,Amaretto,1 oz 
-264,Talos Coffee,Grand Marnier,3 parts 
-265,Talos Coffee,Coffee,1 part 
-272,Vodka Martini,Vodka,1 1/2 oz 
-273,Vodka Martini,Dry Vermouth,3/4 oz 
-274,Vodka Martini,Olive,1 
-280,Masala Chai,Water,2 cups 
-281,Masala Chai,Tea,3-4 tsp 
-282,Masala Chai,Ginger,1 chunk dried 
-283,Masala Chai,Cardamom,3-4 crushed 
-284,Masala Chai,Cloves,3 
-285,Masala Chai,Cinnamon,1 piece 
-286,Masala Chai,Black pepper,1-2 whole 
-287,Masala Chai,Sugar," to taste
-"
-288,Miami Vice,151 proof rum,5 oz Bacardi 
-289,Miami Vice,Pina colada mix,frozen 
-290,Miami Vice,Daiquiri mix,frozen 
-296,Snakebite and Black,Lager,1/2 pint 
-297,Snakebite and Black,Cider,1/2 pint 
-298,Snakebite and Black,Blackcurrant squash,A little bit of 
-304,Godfather,Scotch,1 1/2 oz 
-305,Godfather,Amaretto,3/4 oz 
-312,Champagne Cocktail,Champagne,Chilled 
-313,Champagne Cocktail,Sugar,1 piece 
-314,Champagne Cocktail,Bitters,2 dashes 
-315,Champagne Cocktail,Lemon peel,1 twist of 
-316,Champagne Cocktail,Cognac,1 dash
-320,Scotch Sour,Scotch,1 1/2 oz 
-321,Scotch Sour,Lime,Juice of 1/2 
-322,Scotch Sour,Powdered sugar,1/2 tsp 
-323,Scotch Sour,Lemon,1/2 slice 
-324,Scotch Sour,Cherry,1 
-328,Affinity,Scotch,1 1/2 oz 
-329,Affinity,Sweet Vermouth,1 oz 
-330,Affinity,Dry Vermouth,1 oz 
-331,Affinity,Orange bitters,2 dashes 
-336,Japanese Fizz,Blended whiskey,1 1/2 oz 
-337,Japanese Fizz,Lemon,Juice of 1/2 
-338,Japanese Fizz,Powdered sugar,1 tsp 
-339,Japanese Fizz,Port,1 tblsp 
-340,Japanese Fizz,Egg white,1 
-341,Japanese Fizz,Carbonated water,"
-"
-344,Bob Marley,Midori melon liqueur,1/2 oz 
-345,Bob Marley,Jägermeister,1/2 oz 
-346,Bob Marley,Goldschlager,1/2 oz 
-352,Swedish Coffee,Coffee,1 cup
-353,Swedish Coffee,Aquavit,4 cl 
-354,Swedish Coffee,Sugar,By taste 
-360,Fruit Shake,Yoghurt,1 cup fruit 
-361,Fruit Shake,Banana,1 
-362,Fruit Shake,Orange juice,4 oz frozen 
-363,Fruit Shake,Fruit,1/2 piece textural 
-364,Fruit Shake,Ice,6 
-368,Golden dream,Galliano,2 parts
-369,Golden dream,Triple Sec,2 parts
-370,Golden dream,orange juice,2 parts
-371,Golden dream,Cream,1 part
-376,69 Special,Gin,2 oz dry 
-377,69 Special,7-Up,4 oz 
-378,69 Special,Lemon juice,0.75 oz 
-384,Singapore Sling,Cherry brandy,1/2 oz 
-385,Singapore Sling,Grenadine,1/2 oz 
-386,Singapore Sling,Gin,1 oz 
-387,Singapore Sling,Sweet and sour,2 oz 
-388,Singapore Sling,Carbonated water,N/A
-389,Singapore Sling,Cherry,N/A
-392,Gin Rickey,Gin,2 oz 
-393,Gin Rickey,Grenadine,1 tsp 
-394,Gin Rickey,lemon,Juice of 1/2 
-395,Gin Rickey,Soda Water,Top up with
-396,Gin Rickey,Lime,Garnish
-400,Radler,Beer,12 oz 
-401,Radler,7-Up,12 oz 
-408,Lone Tree Cooler,Carbonated water,"
-"
-409,Lone Tree Cooler,Gin,"
-"
-410,Lone Tree Cooler,Dry Vermouth,"
-"
-411,Lone Tree Cooler,Powdered sugar,"
-"
-412,Lone Tree Cooler,Orange spiral,"
-"
-413,Lone Tree Cooler,Lemon peel,"
-"
-416,Angel Face,Apricot brandy,1/2 oz 
-417,Angel Face,Apple brandy,1/2 oz 
-418,Angel Face,Gin,1 oz 
-424,Chicago Fizz,Light rum,1 oz 
-425,Chicago Fizz,Port,1 oz 
-426,Chicago Fizz,Lemon,Juice of 1/2 
-427,Chicago Fizz,Powdered sugar,1 tsp 
-428,Chicago Fizz,Egg white,1 
-429,Chicago Fizz,Carbonated water,"
-"
-432,Bloody Mary,Vodka,1 1/2 oz 
-433,Bloody Mary,Tomato juice,3 oz 
-434,Bloody Mary,Lemon juice,1 dash 
-435,Bloody Mary,Worcestershire sauce,1/2 tsp 
-436,Bloody Mary,Tabasco sauce,2-3 drops 
-437,Bloody Mary,Lime,1 wedge 
-440,Paradise,Gin,7 parts
-441,Paradise,Apricot Brandy,4 parts
-442,Paradise,Orange Juice,3 parts 
-448,Alice in Wonderland,Amaretto,1 shot 
-449,Alice in Wonderland,Grand Marnier,1 shot 
-450,Alice in Wonderland,Southern Comfort,1 shot 
-456,Frappé,Coffee,1/2 cup black 
-457,Frappé,Milk,1/2 cup 
-458,Frappé,Sugar,1-2 tsp 
-464,Mocha-Berry,Coffee,6 oz 
-465,Mocha-Berry,Chambord raspberry liqueur,2 oz 
-466,Mocha-Berry,Cocoa powder,2 tblsp 
-467,Mocha-Berry,Whipped cream,"
-"
-472,Grasshopper,Green Creme de Menthe,3/4 oz 
-473,Grasshopper,Creme de Cacao,3/4 oz white 
-474,Grasshopper,Light cream,3/4 oz 
-480,Gin Toddy,Gin,2 oz 
-481,Gin Toddy,Water,2 tsp 
-482,Gin Toddy,Powdered sugar,1/2 tsp 
-483,Gin Toddy,Lemon peel,1 twist of 
-488,Tommy's Margarita,Tequila,4.5 cl
-489,Tommy's Margarita,Lime Juice,1.5 cl
-490,Tommy's Margarita,Agave syrup,2 spoons
-496,A.D.M. (After Dinner Mint),White Creme de Menthe,1/2 oz 
-497,A.D.M. (After Dinner Mint),Southern Comfort,3/4 oz 
-498,A.D.M. (After Dinner Mint),Vodka,1/2 oz 
-499,A.D.M. (After Dinner Mint),Hot chocolate,Fill with 
-504,501 Blue,Blue Curacao,"
-"
-505,501 Blue,Blueberry schnapps,"
-"
-506,501 Blue,Vodka,"
-"
-507,501 Blue,Sour mix,"
-"
-508,501 Blue,7-Up,"
-"
-512,Flaming Dr. Pepper,Amaretto,1 oz 
-513,Flaming Dr. Pepper,Vodka,1 oz 
-514,Flaming Dr. Pepper,151 proof rum,1 oz Bacardi 
-515,Flaming Dr. Pepper,Dr. Pepper,1 oz 
-516,Flaming Dr. Pepper,Beer,1 oz 
-520,Absolutely Cranberry Smash,Absolut Vodka,2 oz 
-521,Absolutely Cranberry Smash,Cranberry juice,4 oz 
-522,Absolutely Cranberry Smash,Ginger ale,2 oz 
-523,Absolutely Cranberry Smash,Ice,Add 
-528,Foxy Lady,Amaretto,1/2 oz 
-529,Foxy Lady,Creme de Cacao,1/2 oz 
-530,Foxy Lady,Light cream,2 oz 
-536,Absolut limousine,Absolut Citron,2/3 
-537,Absolut limousine,Lime juice,1/3 
-538,Absolut limousine,Ice,Fill with 
-539,Absolut limousine,Tonic water,Top it up with 
-544,English Rose Cocktail,Apricot brandy,3/4 oz 
-545,English Rose Cocktail,Gin,1 1/2 oz 
-546,English Rose Cocktail,Dry Vermouth,3/4 oz 
-547,English Rose Cocktail,Grenadine,1 tsp 
-548,English Rose Cocktail,Lemon juice,1/4 tsp 
-549,English Rose Cocktail,Cherry,1 
-552,Grass Skirt,Gin,1 1/2 oz 
-553,Grass Skirt,Triple sec,1 oz 
-554,Grass Skirt,Pineapple juice,1 oz 
-555,Grass Skirt,Grenadine,1/2 tsp 
-556,Grass Skirt,Pineapple,1 
-560,Bloody Maria,Tequila,1 oz 
-561,Bloody Maria,Tomato juice,2 oz 
-562,Bloody Maria,Lemon juice,1 dash 
-563,Bloody Maria,Tabasco sauce,1 dash 
-564,Bloody Maria,Celery salt,1 dash 
-565,Bloody Maria,Lemon,1 slice 
-568,Bubble Gum,Vodka,1/4 
-569,Bubble Gum,Banana liqueur,1/4 
-570,Bubble Gum,Orange juice,1/4 
-571,Bubble Gum,Peach schnapps,1/4 
-576,Lord And Lady,Dark rum,1 1/2 oz 
-577,Lord And Lady,Tia maria,1/2 oz 
-584,Apple Cider Punch #1,Apple cider,4 qt 
-585,Apple Cider Punch #1,Brown sugar,1 cup 
-586,Apple Cider Punch #1,Lemonade,6 oz frozen 
-587,Apple Cider Punch #1,Orange juice,6 oz frozen 
-588,Apple Cider Punch #1,Cloves,6 whole 
-589,Apple Cider Punch #1,Allspice,6 whole 
-590,Apple Cider Punch #1,Nutmeg,1 tsp ground 
-591,Apple Cider Punch #1,Cinnamon,3 sticks 
-592,Texas Sling,Kahlua,1/2 oz 
-593,Texas Sling,Irish cream,1/2 oz 
-594,Texas Sling,Amaretto,1/2 oz 
-595,Texas Sling,151 proof rum,1/2 oz Bacardi 
-596,Texas Sling,Cream,1 oz 
-600,A midsummernight dream,Vodka,2 oz 
-601,A midsummernight dream,Kirschwasser,1 oz 
-602,A midsummernight dream,Strawberry liqueur,1 tsp 
-603,A midsummernight dream,Strawberries,5 
-604,A midsummernight dream,Schweppes Russchian,"
-"
-608,Dark and Stormy,Dark Rum,5 cl
-609,Dark and Stormy,Ginger Beer,10 cl
-616,Owen's Grandmother's Revenge,Whiskey,12 oz 
-617,Owen's Grandmother's Revenge,Beer,12 oz 
-618,Owen's Grandmother's Revenge,Lemonade,12 oz frozen 
-619,Owen's Grandmother's Revenge,Ice,1 cup crushed 
-624,Sweet Sangria,Red wine,2 bottles 
-625,Sweet Sangria,Sugar,1 cup 
-626,Sweet Sangria,Water,2 cups hot 
-627,Sweet Sangria,Apple,1 cup 
-628,Sweet Sangria,Orange," wedges
-"
-629,Sweet Sangria,Lime," wedges
-"
-630,Sweet Sangria,Lemon,"
-"
-631,Sweet Sangria,Fresca,"
-"
-632,Cosmopolitan,Absolut Citron,1 1/4 oz 
-633,Cosmopolitan,Lime juice,1/4 oz 
-634,Cosmopolitan,Cointreau,1/4 oz 
-635,Cosmopolitan,Cranberry juice,1/4 cup 
-640,Hunter's Moon,Vermouth,25 ml
-641,Hunter's Moon,Maraschino Cherry,15 ml
-642,Hunter's Moon,Sugar Syrup,10 ml
-643,Hunter's Moon,Lemonade,100 ml
-644,Hunter's Moon,Blackberries,2
-648,Cherry Electric Lemonade,Gin,1 oz
-649,Cherry Electric Lemonade,Tequila,1 oz
-650,Cherry Electric Lemonade,Vodka,1 oz
-651,Cherry Electric Lemonade,White rum,1 oz
-652,Cherry Electric Lemonade,Triple Sec,1 oz
-653,Cherry Electric Lemonade,Cherry Grenadine,1 oz
-654,Cherry Electric Lemonade,Sweet and sour,1 oz
-655,Cherry Electric Lemonade,Club soda,3 oz
-656,Lemon Drop,Absolut Vodka,1 1/2 shot 
-657,Lemon Drop,Cointreau,1 1/2 shot 
-658,Lemon Drop,Lemon,Juice of 1 wedge 
-664,New York Lemonade,Absolut Citron,2 oz 
-665,New York Lemonade,Grand Marnier,1 oz 
-666,New York Lemonade,Lemon juice,2 oz sweetened 
-667,New York Lemonade,Club soda,1 oz 
-672,Pina Colada,Light rum,3 oz 
-673,Pina Colada,Coconut milk,3 tblsp 
-674,Pina Colada,Pineapple,3 tblsp 
-680,Flander's Flake-Out,Sambuca,1/4 glass 
-681,Flander's Flake-Out,Sarsaparilla,3/4 glass 
-688,Sea breeze,Vodka,1 1/2 oz 
-689,Sea breeze,Cranberry juice,4 oz 
-690,Sea breeze,Grapefruit juice,1 oz 
-696,Orange Whip,Orange juice,4 oz 
-697,Orange Whip,Rum,1 oz 
-698,Orange Whip,Vodka,1 oz 
-699,Orange Whip,Cream,1 package 
-700,Orange Whip,Ice,Over 
-704,Lassi - Sweet,Yoghurt,1 cup 
-705,Lassi - Sweet,Water,2 cups cold 
-706,Lassi - Sweet,Sugar,4 tblsp 
-707,Lassi - Sweet,Salt,pinch 
-708,Lassi - Sweet,Lemon juice,2 tblsp 
-712,Rum Sour,Light rum,2 oz 
-713,Rum Sour,Lemon juice,1 oz 
-714,Rum Sour,Sugar,1/2 tsp superfine 
-715,Rum Sour,Orange,1 
-716,Rum Sour,Maraschino cherry,1 
-720,Moscow Mule,Vodka,2 oz 
-721,Moscow Mule,Lime juice,2 oz 
-722,Moscow Mule,Ginger ale,8 oz 
-728,Screwdriver,Vodka,2 oz 
-729,Screwdriver,Orange juice,N/A
-736,Rosemary Blue,Gin,50 ml
-737,Rosemary Blue,Blue Curacao,15 ml
-738,Rosemary Blue,Tonic Water,100 ml
-739,Rosemary Blue,Rosemary,Garnish with
-744,Almond Joy,Amaretto,1/2 oz 
-745,Almond Joy,Creme de Cacao,1/2 oz white 
-746,Almond Joy,Light cream,2 oz 
-752,Avalon,Vodka,3 parts
-753,Avalon,Pisang Ambon,1 part 
-754,Avalon,Apple juice,6 parts 
-755,Avalon,Lemon juice,1 1/2 part 
-756,Avalon,Lemonade,"
-"
-760,The Jimmy Conway,Irish Whiskey,50 ml
-761,The Jimmy Conway,Amaretto,50 ml
-762,The Jimmy Conway,Cranberry Juice,4 oz
-768,Kool-Aid Shot,Vodka,1 shot 
-769,Kool-Aid Shot,Amaretto,1 shot 
-770,Kool-Aid Shot,Sloe gin,1 shot 
-771,Kool-Aid Shot,Triple sec,1 shot 
-772,Kool-Aid Shot,Cranberry juice,"
-"
-776,Kiwi Lemon,Kiwi liqueur,1 part 
-777,Kiwi Lemon,Bitter lemon,2 parts 
-778,Kiwi Lemon,Ice," cubes
-"
-784,Absolut Evergreen,Absolut Citron,2/3 part 
-785,Absolut Evergreen,Pisang Ambon,1/3 part 
-786,Absolut Evergreen,Ice," cubes
-"
-787,Absolut Evergreen,Bitter lemon,"
-"
-792,Iced Coffee,Coffee,1/4 cup instant 
-793,Iced Coffee,Sugar,1/4 cup 
-794,Iced Coffee,Water,1/4 cup hot 
-795,Iced Coffee,Milk,4 cups cold 
-800,"French ""75""",Gin,1 1/2 oz 
-801,"French ""75""",Sugar,2 tsp superfine 
-802,"French ""75""",Lemon juice,1 1/2 oz 
-803,"French ""75""",Champagne,4 oz Chilled 
-804,"French ""75""",Orange,1 
-805,"French ""75""",Maraschino cherry,1 
-808,Spanish chocolate,Milk,2 cups 
-809,Spanish chocolate,Chocolate,2 oz sweet 
-810,Spanish chocolate,Cinnamon,1/2 tsp 
-811,Spanish chocolate,Egg yolk,2 beaten 
-816,Wine Cooler,Red wine,2 oz white or 
-817,Wine Cooler,Lemon-lime soda,5 oz 
-818,Wine Cooler,Ice," cubes
-"
-824,Scooter,Brandy,1 oz 
-825,Scooter,Amaretto,1 oz 
-826,Scooter,Light cream,1 oz 
-832,Quick F**K,Kahlua,1 part 
-833,Quick F**K,Midori melon liqueur,1 part 
-834,Quick F**K,Bailey's irish cream,1 part 
-840,Vodka Fizz,Vodka,2 oz 
-841,Vodka Fizz,Half-and-half,2 oz 
-842,Vodka Fizz,Limeade,2 oz 
-843,Vodka Fizz,Ice,"
-"
-844,Vodka Fizz,Nutmeg,"
-"
-848,Long vodka,Vodka,5 cl 
-849,Long vodka,Lime,1/2 
-850,Long vodka,Angostura bitters,4 dashes 
-851,Long vodka,Tonic water,1 dl Schweppes 
-852,Long vodka,Ice,4 
-856,Kurant Tea,Absolut Kurant,4 cl 
-857,Kurant Tea,Tea,Turkish apple 
-858,Kurant Tea,Sugar," (if needed)
-"
-864,Tia-Maria,Water,1 cup 
-865,Tia-Maria,Brown sugar,3/4-1 cup 
-866,Tia-Maria,Coffee,4 tsp 
-867,Tia-Maria,Rum,1 cup 
-868,Tia-Maria,Vanilla extract,4 tsp 
-872,White Russian,Vodka,2 oz 
-873,White Russian,Coffee liqueur,1 oz 
-874,White Russian,Light cream,"
-"
-880,Irish Spring,Irish whiskey,1 oz 
-881,Irish Spring,Peach brandy,1/2 oz 
-882,Irish Spring,Orange juice,1 oz 
-883,Irish Spring,Sweet and sour,1 oz 
-884,Irish Spring,Orange,1 slice 
-885,Irish Spring,Cherry,1 
-888,Mulled Wine,Water,3 cups 
-889,Mulled Wine,Sugar,1 cup 
-890,Mulled Wine,Cloves,12 
-891,Mulled Wine,Cinnamon,2 
-892,Mulled Wine,Lemon peel,1 
-893,Mulled Wine,Red wine,750 ml 
-894,Mulled Wine,Brandy,1/4 cup 
-896,Pysch Vitamin Light,Orange juice,1 part 
-897,Pysch Vitamin Light,Apple juice,1 part 
-898,Pysch Vitamin Light,Pineapple juice,1 part 
-899,Pysch Vitamin Light,Ice,"
-"
-904,Paloma,Grape Soda,3 oz
-905,Paloma,Tequila,1 1/2 oz
-912,The Laverstoke,Gin,50 ml
-913,The Laverstoke,Elderflower cordial,15 ml
-914,The Laverstoke,Rosso Vermouth,15 ml
-915,The Laverstoke,Tonic Water,75 ml
-916,The Laverstoke,Lime,2 Wedges
-917,The Laverstoke,Ginger,1 Slice
-918,The Laverstoke,Mint,1 Large Sprig
-920,Boxcar,Gin,1 1/2 oz 
-921,Boxcar,Triple sec,1 oz 
-922,Boxcar,Lemon juice,1 tsp 
-923,Boxcar,Grenadine,1/2 tsp 
-924,Boxcar,Egg white,1 
-928,Tequila Fizz,Tequila,2 oz 
-929,Tequila Fizz,Lemon juice,1 tblsp 
-930,Tequila Fizz,Grenadine,3/4 oz 
-931,Tequila Fizz,Egg white,1 
-932,Tequila Fizz,Ginger ale,"
-"
-936,Sunny Holiday Punch,Pineapple juice,46 oz chilled 
-937,Sunny Holiday Punch,Club soda,28 oz 
-938,Sunny Holiday Punch,Orange juice,6 oz frozen 
-939,Sunny Holiday Punch,Lemon,1 
-940,Sunny Holiday Punch,Berries,2 cups 
-941,Sunny Holiday Punch,Champagne,1 bottle 
-944,Sidecar,Cognac,2 oz 
-945,Sidecar,Cointreau,1/2 oz 
-946,Sidecar,Lemon juice,1 oz 
-952,Black Russian,Coffee liqueur,3/4 oz 
-953,Black Russian,Vodka,1 1/2 oz 
-960,Autodafé,Vodka,4 cl 
-961,Autodafé,Lime juice,1 dash 
-962,Autodafé,Soda water,"
-"
-968,Green Goblin,Cider,1/2 pint hard 
-969,Green Goblin,Lager,1/2 pint 
-970,Green Goblin,Blue Curacao,1 shot 
-976,Kill the cold Smoothie,Ginger,1 inch 
-977,Kill the cold Smoothie,Lemon,1/4 
-978,Kill the cold Smoothie,Water,1 cup hot 
-984,Brigadier,Hot Chocolate,4 oz
-985,Brigadier,Green Chartreuse,1 oz
-986,Brigadier,Cherry Heering,1 oz
-992,John Collins,Bourbon,2 oz 
-993,John Collins,Lemon juice,1 oz 
-994,John Collins,Sugar,1 tsp superfine 
-995,John Collins,Club soda,3 oz 
-996,John Collins,Maraschino cherry,1 
-997,John Collins,Orange,1 
-1000,Tuxedo Cocktail,Dry Vermouth,1 1/2 oz 
-1001,Tuxedo Cocktail,Gin,1 1/2 oz 
-1002,Tuxedo Cocktail,Maraschino liqueur,1/4 tsp 
-1003,Tuxedo Cocktail,Anis,1/4 tsp 
-1004,Tuxedo Cocktail,Orange bitters,2 dashes 
-1005,Tuxedo Cocktail,Cherry,1 
-1008,Monkey Wrench,Light rum,1 1/2 oz 
-1009,Monkey Wrench,Grapefruit juice,3 oz 
-1010,Monkey Wrench,Bitters,1 dash 
-1016,Pink Gin,Bitters,3 dashes 
-1017,Pink Gin,Gin,2 oz 
-1024,Gin Squirt,Gin,1 1/2 oz 
-1025,Gin Squirt,Grenadine,1 tsp 
-1026,Gin Squirt,Powdered sugar,1 tblsp 
-1027,Gin Squirt,Pineapple,3 chunks 
-1028,Gin Squirt,Strawberries,2 
-1029,Gin Squirt,Carbonated water,"
-"
-1032,Mudslinger,Southern Comfort,750 ml 
-1033,Mudslinger,Orange juice,1 L 
-1034,Mudslinger,Pepsi Cola,750 ml 
-1040,Jello shots,Vodka,2 cups 
-1041,Jello shots,Jello,3 packages 
-1042,Jello shots,Water,3 cups 
-1048,Apello,Orange juice,4 cl 
-1049,Apello,Grapefruit juice,3 cl 
-1050,Apello,Apple juice,1 cl 
-1051,Apello,Maraschino cherry,1 
-1056,A Day at the Beach,Coconut rum,1 oz 
-1057,A Day at the Beach,Amaretto,1/2 oz 
-1058,A Day at the Beach,Orange juice,4 oz 
-1059,A Day at the Beach,Grenadine,1/2 oz 
-1064,Dubonnet Cocktail,Dubonnet Rouge,1 1/2 oz 
-1065,Dubonnet Cocktail,Gin,3/4 oz 
-1066,Dubonnet Cocktail,Bitters,1 dash 
-1067,Dubonnet Cocktail,Lemon peel,1 twist of 
-1072,Bramble,Gin,4 cl
-1073,Bramble,lemon juice,1.5 cl
-1074,Bramble,Sugar syrup,1 cl
-1075,Bramble,Creme de Mure,1.5 cl
-1080,Veteran,Dark rum,2 oz 
-1081,Veteran,Cherry brandy,1/2 oz 
-1088,Angelica Liqueur,Angelica root,3 tblsp chopped
-1089,Angelica Liqueur,Almond,1 tblsp chopped 
-1090,Angelica Liqueur,Allspice,1 cracked 
-1091,Angelica Liqueur,Cinnamon,1 one-inch 
-1092,Angelica Liqueur,Anise,3-6 crushed 
-1093,Angelica Liqueur,Coriander,1/8 tsp powdered 
-1094,Angelica Liqueur,Marjoram leaves,1 tblsp fresh chopped 
-1095,Angelica Liqueur,Vodka,1.5 cup 
-1096,Arthur Tompkins,Gin,2 oz 
-1097,Arthur Tompkins,Grand Marnier,1/2 oz 
-1098,Arthur Tompkins,Lemon juice,2 tsp 
-1099,Arthur Tompkins,Lemon peel,1 twist of 
-1104,Margarita,Tequila,1 1/2 oz 
-1105,Margarita,Triple sec,1/2 oz 
-1106,Margarita,Lime juice,1 oz 
-1107,Margarita,Salt,N/A
-1112,Wine Punch,Red wine,1 bottle 
-1113,Wine Punch,Lemon,2 
-1114,Wine Punch,Orange juice,1 cup 
-1115,Wine Punch,Orange,3 
-1116,Wine Punch,Pineapple juice,1 cup 
-1120,Alabama Slammer,Southern Comfort,1 oz 
-1121,Alabama Slammer,Amaretto,1 oz 
-1122,Alabama Slammer,Sloe gin,1/2 oz 
-1123,Alabama Slammer,Lemon juice,1 dash 
-1128,Boston Sour,Blended whiskey,2 oz 
-1129,Boston Sour,Lemon,Juice of 1/2 
-1130,Boston Sour,Powdered sugar,1 tsp 
-1131,Boston Sour,Egg white,1 
-1132,Boston Sour,Lemon,1 slice 
-1133,Boston Sour,Cherry,1 
-1136,Derby,gin,6 cl
-1137,Derby,Peach Bitters,2 dashes
-1138,Derby,Mint,2 Fresh leaves
-1144,Ace,Gin,2 shots 
-1145,Ace,Grenadine,1/2 shot 
-1146,Ace,Heavy cream,1/2 shot 
-1147,Ace,Milk,1/2 shot 
-1148,Ace,Egg White,1/2 Fresh
-1152,Manhattan,Sweet Vermouth,3/4 oz 
-1153,Manhattan,Bourbon,2 1/2 oz Blended 
-1154,Manhattan,Angostura bitters,dash 
-1155,Manhattan,Ice,2 or 3 
-1156,Manhattan,Maraschino cherry,1 
-1157,Manhattan,Orange peel,1 twist of 
-1160,Pink Panty Pulldowns,Sprite,1 L 
-1161,Pink Panty Pulldowns,Pink lemonade,2 cups 
-1162,Pink Panty Pulldowns,Vodka,2 cups 
-1168,Lone Tree Cocktail,Sweet Vermouth,3/4 oz 
-1169,Lone Tree Cocktail,Gin,1 1/2 oz 
-1176,Royal Gin Fizz,Gin,2 oz 
-1177,Royal Gin Fizz,Lemon,Juice of 1/2 
-1178,Royal Gin Fizz,Powdered sugar,1 tsp 
-1179,Royal Gin Fizz,Egg,1 whole 
-1180,Royal Gin Fizz,Carbonated water,"
-"
-1184,Kool First Aid,151 proof rum,2 oz light 
-1185,Kool First Aid,Kool-Aid,1/2 tsp Tropical 
-1192,Thai Iced Coffee,Coffee,black
-1193,Thai Iced Coffee,Sugar,"
-"
-1194,Thai Iced Coffee,Cream," pods
-"
-1195,Thai Iced Coffee,Cardamom,"
-"
-1200,Jamaica Kiss,Coffee liqueur,1 shot 
-1201,Jamaica Kiss,Light rum,1 shot Jamaican 
-1202,Jamaica Kiss,Ice," cubes
-"
-1203,Jamaica Kiss,Milk,"
-"
-1208,Greyhound,Vodka,1 1/2 oz
-1209,Greyhound,Grapefruit Juice,3 oz
-1216,Long Island Iced Tea,Vodka,1/2 oz 
-1217,Long Island Iced Tea,Tequila,1/2 oz 
-1218,Long Island Iced Tea,Light rum,1/2 oz 
-1219,Long Island Iced Tea,Gin,1/2 oz 
-1220,Long Island Iced Tea,Coca-Cola,1 dash 
-1221,Long Island Iced Tea,Lemon peel,Twist of 
-1224,Arctic Fish,Vodka,1/3 part 
-1225,Arctic Fish,Grape soda,1/3 part 
-1226,Arctic Fish,Orange juice,1/3 part 
-1227,Arctic Fish,Ice,lots 
-1228,Arctic Fish,Candy,1 dash 
-1232,Bahama Mama,Rum,3 parts
-1233,Bahama Mama,Dark Rum,1 part
-1234,Bahama Mama,Banana liqueur,1 part
-1235,Bahama Mama,Grenadine,1 part
-1236,Bahama Mama,Pineapple Juice,2 parts
-1237,Bahama Mama,Orange Juice,2 parts
-1238,Bahama Mama,Sweet and Sour,1 part
-1240,Port Wine Cocktail,Port,2 1/2 oz 
-1241,Port Wine Cocktail,Brandy,1/2 tsp 
-1248,Waikiki Beachcomber,Triple sec,3/4 oz 
-1249,Waikiki Beachcomber,Gin,3/4 oz 
-1250,Waikiki Beachcomber,Pineapple juice,1 tblsp 
-1256,Alice Cocktail,Grenadine,1 cl 
-1257,Alice Cocktail,Orange juice,1 cl 
-1258,Alice Cocktail,Pineapple juice,2 cl 
-1259,Alice Cocktail,Cream,4 cl 
-1264,24k nightmare,Goldschlager,1/2 oz 
-1265,24k nightmare,Jägermeister,1/2 oz 
-1266,24k nightmare,Rumple Minze,1/2 oz 
-1267,24k nightmare,151 proof rum,1/2 oz Bacardi 
-1272,Long Island Tea,Vodka,1/2 oz 
-1273,Long Island Tea,Light rum,1/2 oz 
-1274,Long Island Tea,Gin,1/2 oz 
-1275,Long Island Tea,Tequila,1/2 oz 
-1276,Long Island Tea,Lemon,Juice of 1/2 
-1277,Long Island Tea,Coca-Cola,1 splash 
-1280,Porto flip,Brandy,3 parts
-1281,Porto flip,Port,9 parts
-1282,Porto flip,Egg Yolk,2 parts
-1288,Bleeding Surgeon,Dark rum,1 shot 
-1289,Bleeding Surgeon,Orange,1 slice 
-1290,Bleeding Surgeon,Surge,1/2 glass 
-1291,Bleeding Surgeon,Cranberry juice,1/2 glass 
-1296,Alexander,Gin,1/2 oz 
-1297,Alexander,Creme de Cacao,1/2 oz white 
-1298,Alexander,Light cream,2 oz 
-1299,Alexander,Nutmeg,N/A
-1304,Turf Cocktail,Dry Vermouth,1 oz 
-1305,Turf Cocktail,Gin,1 oz 
-1306,Turf Cocktail,Anis,1/4 tsp 
-1307,Turf Cocktail,Bitters,2 dashes 
-1308,Turf Cocktail,Orange peel,Twist of 
-1312,Citrus Coke,Bacardi Limon,1 part 
-1313,Citrus Coke,Coca-Cola,2 parts 
-1320,Bijou,Orange Bitters,1 dash
-1321,Bijou,Green Chartreuse,1 oz
-1322,Bijou,Gin,1 oz
-1323,Bijou,Sweet Vermouth,1 oz
-1328,Spiced Peach Punch,Peach nectar,46 oz 
-1329,Spiced Peach Punch,Orange juice,20 oz 
-1330,Spiced Peach Punch,Brown sugar,1/2 cup 
-1331,Spiced Peach Punch,Cinnamon,3 3-inch 
-1332,Spiced Peach Punch,Cloves,1/2 tsp 
-1333,Spiced Peach Punch,Lime juice,2 tblsp 
-1336,Cherry Rum,Light rum,1 1/4 oz 
-1337,Cherry Rum,Cherry brandy,1 1/2 tsp 
-1338,Cherry Rum,Light cream,1 tblsp 
-1344,Shark Attack,Lemonade,1 can 
-1345,Shark Attack,Water,3 cans 
-1346,Shark Attack,Vodka,1 1/2 cup 
-1352,Texas Rattlesnake,Yukon Jack,1 part 
-1353,Texas Rattlesnake,Cherry brandy,1/2 part 
-1354,Texas Rattlesnake,Southern Comfort,1 part 
-1355,Texas Rattlesnake,Sweet and sour,1 splash 
-1360,Jam Donut,Baileys irish cream,2/3 oz
-1361,Jam Donut,Chambord raspberry liqueur,1/3 oz
-1362,Jam Donut,Sugar syrup,1 tsp
-1363,Jam Donut,Sugar,2 pinches
-1368,Grim Reaper,Kahlua,1 oz 
-1369,Grim Reaper,151 proof rum,1 oz Bacardi 
-1370,Grim Reaper,Grenadine,1 dash 
-1376,Herbal flame,Hot Damn,5 shots 
-1377,Herbal flame,Tea,very sweet 
-1384,Cuba Libre,Light rum,2 oz 
-1385,Cuba Libre,Lime,Juice of 1/2 
-1386,Cuba Libre,Coca-Cola,N/A
-1392,Amaretto Stone Sour #3,Sour mix,2 oz 
-1393,Amaretto Stone Sour #3,Amaretto,2 oz 
-1394,Amaretto Stone Sour #3,Tequila,2 oz 
-1395,Amaretto Stone Sour #3,Orange juice,Add splash 
-1400,After Five,Peppermint schnapps,"
-"
-1401,After Five,Kahlua,"
-"
-1402,After Five,Bailey's irish cream,"
-"
-1408,California Lemonade,Blended whiskey,2 oz 
-1409,California Lemonade,Lemon,Juice of 1 
-1410,California Lemonade,Lime,Juice of 1 
-1411,California Lemonade,Powdered sugar,1 tblsp 
-1412,California Lemonade,Grenadine,1/4 tsp 
-1413,California Lemonade,Carbonated water,"
-"
-1416,A1,Gin,1 3/4 shot 
-1417,A1,Grand Marnier,1 Shot 
-1418,A1,Lemon Juice,1/4 Shot
-1419,A1,Grenadine,1/8 Shot
-1424,Strawberry Shivers,Strawberries,1 1/2 cup 
-1425,Strawberry Shivers,Honey,4 tsp 
-1426,Strawberry Shivers,Water,1/2 cup 
-1432,Karsk,Coffee,1 part 
-1433,Karsk,Grain alcohol,2 parts 
-1440,Mojito #3,Mint,1/2 handful 
-1441,Mojito #3,Lemon juice,3 cl 
-1442,Mojito #3,Dark rum,1/8 L Jamaican 
-1443,Mojito #3,Club soda,1/8 L 
-1444,Mojito #3,Angostura bitters,8 drops 
-1448,Havana Cocktail,Light rum,1 oz 
-1449,Havana Cocktail,Pineapple juice,1 oz 
-1450,Havana Cocktail,Lemon juice,1 tsp 
-1456,Gin Smash,Gin,2 oz 
-1457,Gin Smash,Carbonated water,1 oz 
-1458,Gin Smash,Sugar,1 cube 
-1459,Gin Smash,Mint,4 
-1460,Gin Smash,Orange,1 slice 
-1461,Gin Smash,Cherry,1 
-1464,Banana Strawberry Shake Daiquiri-type,Strawberries,1/2 lb frozen 
-1465,Banana Strawberry Shake Daiquiri-type,Banana,1 frozen 
-1466,Banana Strawberry Shake Daiquiri-type,Apple juice,2 cups fresh 
-1472,Martini,Gin,1 2/3 oz 
-1473,Martini,Dry Vermouth,1/3 oz 
-1474,Martini,Olive,1 
-1480,Arizona Twister,Vodka,1 shot 
-1481,Arizona Twister,Malibu rum,1 shot 
-1482,Arizona Twister,Gold tequila,1 shot 
-1483,Arizona Twister,Orange juice,1 splash 
-1484,Arizona Twister,Pineapple juice,1 splash 
-1485,Arizona Twister,Cream of coconut,1 splash 
-1486,Arizona Twister,Grenadine,1 dash 
-1487,Arizona Twister,Ice,crushed 
-1488,Bombay Cassis,Gin,50 ml
-1489,Bombay Cassis,Creme de Cassis,20 ml
-1490,Bombay Cassis,Fresh Lime Juice,15 ml
-1491,Bombay Cassis,Ginger beer,75 ml
-1492,Bombay Cassis,Lime,1
-1493,Bombay Cassis,Ginger,1 long strip
-1496,Mai Tai,Light rum,1 oz 
-1497,Mai Tai,Orgeat syrup,1/2 oz 
-1498,Mai Tai,Triple sec,1/2 oz 
-1499,Mai Tai,Sweet and sour,1 1/2 oz 
-1500,Mai Tai,Cherry,1 
-1504,Amaretto Mist,Amaretto,1 1/2 oz 
-1505,Amaretto Mist,Lime,1 
-1512,Scottish Highland Liqueur,Johnnie Walker,1 fifth 
-1513,Scottish Highland Liqueur,Honey,1 1/2 cup mild 
-1514,Scottish Highland Liqueur,Angelica root,2 tsp dried and chopped 
-1515,Scottish Highland Liqueur,Fennel seeds,1/4 tsp crushed 
-1516,Scottish Highland Liqueur,Lemon peel,2 2 inch strips 
-1520,Grand Blue,Malibu rum,1 1/2 cl 
-1521,Grand Blue,Peach schnapps,1 1/2 cl 
-1522,Grand Blue,Blue Curacao,1 1/2 cl 
-1523,Grand Blue,Sweet and sour,3 cl 
-1528,Kioki Coffee,Kahlua,1 oz 
-1529,Kioki Coffee,Brandy,1/2 oz 
-1530,Kioki Coffee,Coffee,"
-"
-1536,Damned if you do,Whiskey,0.75 oz 
-1537,Damned if you do,Hot Damn,0.25 oz 
-1544,Iced Coffee Fillip,Kahlua,2 tsp 
-1545,Iced Coffee Fillip,Coffee,Strong cold 
-1552,Butter Baby,Vanilla Ice-Cream,2 scoops 
-1553,Butter Baby,Butterscotch schnapps,1 part 
-1554,Butter Baby,Milk,full glass 
-1555,Butter Baby,Vodka,2 parts 
-1560,Bellini,Champagne,6 oz 
-1561,Bellini,Peach schnapps,1 oz 
-1568,Jack's Vanilla Coke,Ice,4-5 
-1569,Jack's Vanilla Coke,Tennessee whiskey,2 oz 
-1570,Jack's Vanilla Coke,Vanilla extract,1 tsp 
-1571,Jack's Vanilla Coke,Coca-Cola,10-12 oz 
-1576,Mary Pickford,Light rum,1 1/2 oz 
-1577,Mary Pickford,Pineapple juice,1 oz 
-1578,Mary Pickford,Maraschino liqueur,1/2 tsp 
-1579,Mary Pickford,Grenadine,1/2 tsp 
-1580,Mary Pickford,Maraschino cherry,1 
-1584,Flaming Lamborghini,Kahlua,1 oz 
-1585,Flaming Lamborghini,Sambuca,1 oz 
-1586,Flaming Lamborghini,Blue Curacao,1 oz 
-1587,Flaming Lamborghini,Bailey's irish cream,1 oz 
-1592,Thriller,Scotch,1 1/2 oz 
-1593,Thriller,Wine,1 oz Green Ginger 
-1594,Thriller,Orange juice,1 oz 
-1600,Moranguito,Absinthe,2/5 
-1601,Moranguito,Tequila,2/5 
-1602,Moranguito,Grenadine,1/5 
-1608,ABC,Amaretto,1/3 
-1609,ABC,Bailey's irish cream,1/3 
-1610,ABC,Cognac,1/3 
-1616,Orangeade,Lemon juice,5 cl 
-1617,Orangeade,Orange juice,15 cl 
-1618,Orangeade,Sugar syrup,2-3 cl 
-1619,Orangeade,Soda water,"
-"
-1624,Adonis Cocktail,Sweet Vermouth,3/4 oz 
-1625,Adonis Cocktail,Sherry,1 1/2 oz dry 
-1626,Adonis Cocktail,Orange bitters,1 dash 
-1632,Coffee Liqueur,Coffee,10 tblsp instant 
-1633,Coffee Liqueur,Vanilla extract,4 tblsp 
-1634,Coffee Liqueur,Sugar,2 1/2 cups 
-1635,Coffee Liqueur,Vodka,1 qt 
-1636,Coffee Liqueur,Water,2 1/2 cups 
-1640,Atlantic Sun,Vodka,2 cl Smirnoff 
-1641,Atlantic Sun,Southern Comfort,2 cl 
-1642,Atlantic Sun,Passion fruit syrup,2 cl 
-1643,Atlantic Sun,Sweet and sour,6 cl 
-1644,Atlantic Sun,Club soda,1 dash 
-1648,Quarter Deck Cocktail,Light rum,1 1/2 
-1649,Quarter Deck Cocktail,Sherry,1/3 oz cream 
-1650,Quarter Deck Cocktail,Lime,Juice of 1/2 
-1656,Zambeer,Sambuca,1 1/2 oz 
-1657,Zambeer,Root beer,Add 10 oz 
-1658,Zambeer,Ice," cubes
-"
-1664,Rose,Dry Vermouth,1/2 oz 
-1665,Rose,Gin,1 oz 
-1666,Rose,Apricot brandy,1/2 oz 
-1667,Rose,Lemon juice,1/2 tsp 
-1668,Rose,Grenadine,1 tsp 
-1669,Rose,Powdered sugar,N/A
-1672,Arizona Antifreeze,Vodka,1/3 oz 
-1673,Arizona Antifreeze,Midori melon liqueur,1/3 oz 
-1674,Arizona Antifreeze,Sweet and sour,1/3 oz 
-1680,Mimosa,Champagne,Chilled 
-1681,Mimosa,Orange juice,2 oz 
-1688,Negroni,Gin,1 oz 
-1689,Negroni,Campari,1 oz 
-1690,Negroni,Sweet Vermouth,1 oz 
-1696,Holloween Punch,Grape juice,"
-"
-1697,Holloween Punch,Carbonated soft drink,", orange
-"
-1698,Holloween Punch,Sherbet, 
-1699,Holloween Punch,Sherbet, 
-1704,A Night In Old Mandalay,Light rum,1 oz 
-1705,A Night In Old Mandalay,Añejo rum,1 oz 
-1706,A Night In Old Mandalay,Orange juice,1 oz 
-1707,A Night In Old Mandalay,Lemon juice,1/2 oz 
-1708,A Night In Old Mandalay,Ginger ale,3 oz 
-1709,A Night In Old Mandalay,Lemon peel,1 twist of 
-1712,Amaretto Stinger,Amaretto,1 1/2 oz 
-1713,Amaretto Stinger,White Creme de Menthe,3/4 oz 
-1720,Whisky Mac,Scotch,1 1/2 oz 
-1721,Whisky Mac,Wine,1 oz Green Ginger 
-1728,Lady Love Fizz,Gin,2 oz 
-1729,Lady Love Fizz,Light cream,2 tsp 
-1730,Lady Love Fizz,Powdered sugar,1 tsp 
-1731,Lady Love Fizz,Lemon,Juice of 1/2 
-1732,Lady Love Fizz,Egg white,1 
-1733,Lady Love Fizz,Carbonated water,"
-"
-1736,Royal Flush,Crown Royal,1 1/2 oz 
-1737,Royal Flush,Peach schnapps,1 oz 
-1738,Royal Flush,Chambord raspberry liqueur,1/2 oz 
-1739,Royal Flush,Cranberry juice,1 oz 
-1744,Irish Russian,Vodka,1 shot 
-1745,Irish Russian,Kahlua,1 shot 
-1746,Irish Russian,Coca-Cola,1 dash 
-1747,Irish Russian,Guinness stout,Fill with 
-1752,Corpse Reviver #2,Gin,3/4 oz
-1753,Corpse Reviver #2,Triple Sec,3/4 oz
-1754,Corpse Reviver #2,Lillet Blanc,3/4 oz
-1755,Corpse Reviver #2,Lemon Juice,3/4 oz
-1756,Corpse Reviver #2,Absinthe,1 dash
-1760,Algonquin,Blended whiskey,1 1/2 oz 
-1761,Algonquin,Dry Vermouth,1 oz 
-1762,Algonquin,Pineapple juice,1 oz 
-1768,Victor,Gin,1 1/2 oz 
-1769,Victor,Sweet Vermouth,1/2 oz 
-1770,Victor,Brandy,1/2 oz 
-1776,1-900-FUK-MEUP,Absolut Kurant,1/2 oz 
-1777,1-900-FUK-MEUP,Grand Marnier,1/4 oz 
-1778,1-900-FUK-MEUP,Chambord raspberry liqueur,1/4 oz 
-1779,1-900-FUK-MEUP,Midori melon liqueur,1/4 oz 
-1780,1-900-FUK-MEUP,Malibu rum,1/4 oz 
-1781,1-900-FUK-MEUP,Amaretto,1/4 oz 
-1782,1-900-FUK-MEUP,Cranberry juice,1/2 oz 
-1783,1-900-FUK-MEUP,Pineapple juice,1/4 oz 
-1784,A Piece of Ass,Amaretto,1 shot 
-1785,A Piece of Ass,Southern Comfort,1 shot 
-1786,A Piece of Ass,Ice," cubes
-"
-1787,A Piece of Ass,Sour mix,"
-"
-1792,Rum Cooler,Rum,2 oz light or dark 
-1793,Rum Cooler,Lemon-lime soda,4 oz 
-1794,Rum Cooler,Lemon,1 
-1800,Americano,Campari,1 oz 
-1801,Americano,Sweet Vermouth,1 oz red 
-1802,Americano,Lemon peel,Twist of 
-1803,Americano,Orange peel,Twist of 
-1808,Russian Spring Punch,Vodka,2.5 cl
-1809,Russian Spring Punch,Creme de Cassis,1.5 cl
-1810,Russian Spring Punch,Sugar Syrup,1 cl
-1811,Russian Spring Punch,Lemon Juice,2.5 cl
-1816,Tennesee Mud,Coffee,8 oz 
-1817,Tennesee Mud,Jack Daniels,4 oz 
-1818,Tennesee Mud,Amaretto,4 oz 
-1819,Tennesee Mud,Whipped cream,"
-"
-1824,Espresso Martini,Vodka,5 cl
-1825,Espresso Martini,Kahlua,1 cl
-1826,Espresso Martini,Sugar syrup,1 dash
-1832,Amaretto Tea,Tea,6 oz hot 
-1833,Amaretto Tea,Amaretto,2 oz 
-1834,Amaretto Tea,Whipped cream,Chilled 
-1840,Snake Bite (UK),Lager,1/2 pint 
-1841,Snake Bite (UK),Cider,1/2 pint sweet or dry 
-1848,Daiquiri,Light rum,1 1/2 oz 
-1849,Daiquiri,Lime,Juice of 1/2 
-1850,Daiquiri,Powdered sugar,1 tsp 
-1856,Kentucky B And B,Bourbon,2 oz 
-1857,Kentucky B And B,Benedictine,1/2 oz 
-1864,Microwave Hot Cocoa,Sugar,5 tblsp 
-1865,Microwave Hot Cocoa,Cocoa powder,3 tblsp 
-1866,Microwave Hot Cocoa,Salt,1 dash 
-1867,Microwave Hot Cocoa,Water,3 tblsp hot 
-1868,Microwave Hot Cocoa,Milk,2 cups 
-1869,Microwave Hot Cocoa,Vanilla extract,1/4 tsp 
-1872,Kiss me Quick,Cranberry vodka,4 cl 
-1873,Kiss me Quick,Apfelkorn,2 cl 
-1874,Kiss me Quick,Schweppes Russchian,7 cl 
-1875,Kiss me Quick,Apple juice,8 cl 
-1876,Kiss me Quick,Ice," cubes
-"
-1880,Space Odyssey,151 proof rum,1 shot Bacardi 
-1881,Space Odyssey,Malibu rum,1 shot 
-1882,Space Odyssey,Pineapple juice,1 shot 
-1883,Space Odyssey,Orange juice,"
-"
-1884,Space Odyssey,Grenadine,"
-"
-1885,Space Odyssey,Cherries, 
-1888,Banana Strawberry Shake,Strawberries,1/2 lb frozen 
-1889,Banana Strawberry Shake,Banana,1 frozen 
-1890,Banana Strawberry Shake,Yoghurt,1 cup plain 
-1891,Banana Strawberry Shake,Milk,1 cup 
-1892,Banana Strawberry Shake,Honey," to taste
-"
-1896,Apple Pie with A Crust,Apple juice,3 parts 
-1897,Apple Pie with A Crust,Malibu rum,1 part 
-1898,Apple Pie with A Crust,Cinnamon,3 dashes 
-1904,Jelly Bean,Blackberry brandy,1 oz 
-1905,Jelly Bean,Anis,1 oz 
-1912,Salty Dog,Grapefruit juice,5 oz 
-1913,Salty Dog,Gin,1 1/2 oz 
-1914,Salty Dog,Salt,1/4 tsp 
-1920,English Highball,Brandy,3/4 oz 
-1921,English Highball,Gin,3/4 oz 
-1922,English Highball,Sweet Vermouth,3/4 oz 
-1923,English Highball,Carbonated water,"
-"
-1924,English Highball,Lemon peel,"
-"
-1928,Freddy Kruger,Jägermeister,1/2 oz 
-1929,Freddy Kruger,Sambuca,1/2 oz 
-1930,Freddy Kruger,Vodka,1/2 oz 
-1936,Imperial Fizz,Light rum,1/2 oz 
-1937,Imperial Fizz,Blended whiskey,1 1/2 oz 
-1938,Imperial Fizz,Lemon,Juice of 1/2 
-1939,Imperial Fizz,Powdered sugar,1 tsp 
-1940,Imperial Fizz,Carbonated water,"
-"
-1944,A Splash of Nash,Cranberry juice,2 oz 
-1945,A Splash of Nash,Soda water,2 oz 
-1946,A Splash of Nash,Midori melon liqueur,0.5 oz 
-1947,A Splash of Nash,Creme de Banane,0.5 oz 
-1952,Pineapple Gingerale Smoothie,Ginger,1/4 inch 
-1953,Pineapple Gingerale Smoothie,Pineapple,1/2 
-1960,Royal Bitch,Frangelico,1 part 
-1961,Royal Bitch,Crown Royal,1 part 
-1968,Darkwood Sling,Cherry Heering,1 part 
-1969,Darkwood Sling,Soda water,1 part 
-1970,Darkwood Sling,Orange juice,1 part 
-1971,Darkwood Sling,Ice," cubes
-"
-1976,Red Snapper,Crown Royal,1 shot 
-1977,Red Snapper,Amaretto,1 shot 
-1978,Red Snapper,Cranberry juice,1 shot 
-1984,Limeade,Lime,Juice of 1 
-1985,Limeade,Sugar,1 tblsp 
-1986,Limeade,Soda water," (seltzer water)
-"
-1987,Limeade,Lime peel, 
-1992,Tequila Sunrise,Tequila,2 measures 
-1993,Tequila Sunrise,Orange juice,N/A
-1994,Tequila Sunrise,Grenadine,N/A
-2000,Sidecar Cocktail,Brandy,1 oz 
-2001,Sidecar Cocktail,Triple sec,1/2 oz 
-2002,Sidecar Cocktail,Lemon,Juice of 1/4 
-2008,Brandy Cobbler,Sugar,1 tsp superfine 
-2009,Brandy Cobbler,Club soda,3 oz 
-2010,Brandy Cobbler,Lemon,1 
-2011,Brandy Cobbler,Brandy,2 oz 
-2012,Brandy Cobbler,Maraschino cherry,1 
-2013,Brandy Cobbler,Orange,1 
-2016,Queen Charlotte,Red wine,2 oz 
-2017,Queen Charlotte,Grenadine,1 oz 
-2018,Queen Charlotte,Lemon-lime soda,"
-"
-2024,Chocolate Drink,Chocolate,125 gr
-2025,Chocolate Drink,Milk,3/4 L 
-2026,Chocolate Drink,Water,N/A
-2032,Bacardi Cocktail,Light rum,1 3/4 oz Bacardi 
-2033,Bacardi Cocktail,Lime juice,1 oz 
-2034,Bacardi Cocktail,Sugar syrup,1/2 tsp 
-2035,Bacardi Cocktail,Grenadine,1 dash 
-2040,B-53,Kahlua,1/3 shot 
-2041,B-53,Sambuca,1/3 shot 
-2042,B-53,Grand Marnier,1/3 shot 
-2048,B-52,Bailey's irish cream,1/3 
-2049,B-52,Grand Marnier,1/3 
-2050,B-52,Kahlua,1/4 
-2056,Valencia Cocktail,Apricot brandy,1 1/2 oz 
-2057,Valencia Cocktail,Orange juice,1 tblsp 
-2058,Valencia Cocktail,Orange bitters,2 dashes 
-2064,Atomic Lokade,Lemonade,5 oz 
-2065,Atomic Lokade,Vodka,1 oz 
-2066,Atomic Lokade,Blue Curacao,1/2 oz 
-2067,Atomic Lokade,Triple sec,1/2 oz 
-2068,Atomic Lokade,Sugar,"
-"
-2069,Atomic Lokade,Ice, 
-2072,Absinthe #2,Vodka,1 bottle 
-2073,Absinthe #2,Sugar,50 gr 
-2074,Absinthe #2,Anise,50 ml pure 
-2075,Absinthe #2,Licorice root,1 tblsp 
-2076,Absinthe #2,Wormwood,1 
-2080,Surf City Lifesaver,Ouzo,1 part 
-2081,Surf City Lifesaver,Bailey's irish cream,1 part 
-2082,Surf City Lifesaver,Gin,2 parts 
-2083,Surf City Lifesaver,Grand Marnier,1/2 part 
-2088,AT&amp;T;,Absolut Vodka,1 oz 
-2089,AT&amp;T;,Gin,1 oz 
-2090,AT&amp;T;,Tonic water,4 oz 
-2096,Queen Elizabeth,Dry Vermouth,1/2 oz 
-2097,Queen Elizabeth,Gin,1 1/2 oz 
-2098,Queen Elizabeth,Benedictine,1 1/2 tsp 
-2104,Army special,Vodka,30 ml 
-2105,Army special,Gin,30 ml 
-2106,Army special,Lime juice cordial,45 ml 
-2107,Army special,Ice,1/2 glass crushed 
-2112,Turkeyball,Wild Turkey,1 oz 
-2113,Turkeyball,Amaretto,3/4 oz 
-2114,Turkeyball,Pineapple juice,1 splash 
-2120,Absolut Sex,Absolut Kurant,3/4 oz 
-2121,Absolut Sex,Midori melon liqueur,3/4 oz 
-2122,Absolut Sex,Cranberry juice,1 oz 
-2123,Absolut Sex,Sprite,1 splash 
-2128,Allegheny,Dry Vermouth,1 oz 
-2129,Allegheny,Bourbon,1 oz 
-2130,Allegheny,Blackberry brandy,1 1/2 tsp 
-2131,Allegheny,Lemon juice,1 1/2 tsp 
-2132,Allegheny,Lemon peel,1 twist of 
-2136,Sangria - The World's Best,Red wine,1 1/2 L 
-2137,Sangria - The World's Best,Sugar,1 cup 
-2138,Sangria - The World's Best,Lemon,1 large 
-2139,Sangria - The World's Best,Orange,1 large 
-2140,Sangria - The World's Best,Apple,1 large 
-2141,Sangria - The World's Best,Brandy,3-4 oz plain 
-2142,Sangria - The World's Best,Soda water,"
-"
-2144,French Martini,Vodka,4.5 cl
-2145,French Martini,Raspberry Liqueur,1.5 cl
-2146,French Martini,pineapple juice,1.5 cl
-2152,Empellón Cocina's Fat-Washed Mezcal,Mezcal,2 oz
-2153,Empellón Cocina's Fat-Washed Mezcal,Chocolate liqueur,3/4 oz
-2154,Empellón Cocina's Fat-Washed Mezcal,Coffee liqueur,1/2 oz
-2160,Hot Chocolate to Die for,Chocolate,12 oz fine 
-2161,Hot Chocolate to Die for,Butter,1 tsp 
-2162,Hot Chocolate to Die for,Vanilla extract,1/2 tsp 
-2163,Hot Chocolate to Die for,Half-and-half,1 cup 
-2164,Hot Chocolate to Die for,Marshmallows,mini 
-2168,Avalanche,Crown Royal,1 shot 
-2169,Avalanche,Kahlua,1 shot 
-2170,Avalanche,Cream,Fill with 
-2176,Rum Cobbler,Sugar,1 tsp superfine 
-2177,Rum Cobbler,Club soda,3 oz 
-2178,Rum Cobbler,Lemon,1 
-2179,Rum Cobbler,Dark rum,2 oz 
-2180,Rum Cobbler,Maraschino cherry,1 
-2181,Rum Cobbler,Orange,1 
-2184,Amaretto Liqueur,Sugar,1 cup
-2185,Amaretto Liqueur,Water,3/4 cup 
-2186,Amaretto Liqueur,Apricot,2 
-2187,Amaretto Liqueur,Almond flavoring,1 tblsp 
-2188,Amaretto Liqueur,Grain alcohol,1/2 cup pure 
-2189,Amaretto Liqueur,Water,1/2 cup 
-2190,Amaretto Liqueur,Brandy,1 cup 
-2191,Amaretto Liqueur,Food coloring,3 drops yellow 
-2192,French Connection,Cognac,1 1/2 oz 
-2193,French Connection,Amaretto,3/4 oz 
-2200,A True Amaretto Sour,Amaretto,1 jigger 
-2201,A True Amaretto Sour,Lemon,Juice of 1/2 
-2202,A True Amaretto Sour,Ice,"
-"
-2203,A True Amaretto Sour,Maraschino cherry, 
-2208,Limona Corona,Corona,1 bottle 
-2209,Limona Corona,Bacardi Limon,1 oz 
-2216,White Lady,Gin,4cl
-2217,White Lady,Triple Sec,3cl
-2218,White Lady,Lemon Juice,2cl
-2224,A Gilligan's Island,Vodka,1 oz 
-2225,A Gilligan's Island,Peach schnapps,1 oz 
-2226,A Gilligan's Island,Orange juice,3 oz 
-2227,A Gilligan's Island,Cranberry juice,3 oz 
-2232,Yellow Bird,White Rum,3 cl
-2233,Yellow Bird,Galliano,1.5 cl
-2234,Yellow Bird,Triple Sec,1.5 cl
-2235,Yellow Bird,Lime Juice,1.5 cl
-2240,Tomato Tang,Tomato juice,2 cups 
-2241,Tomato Tang,Lemon juice,1-2 tblsp 
-2242,Tomato Tang,Celery salt,1 dash 
-2248,Cosmopolitan Martini,Cointreau,1/2 oz 
-2249,Cosmopolitan Martini,Vodka,1 oz 
-2250,Cosmopolitan Martini,Lime,Juice of 1/2 
-2251,Cosmopolitan Martini,Cranberry juice,1 splash 
-2256,Baby Guinness,Kahlua,2 1/2 oz 
-2257,Baby Guinness,Bailey's irish cream,1/2 oz 
-2264,Amaretto Sweet &amp; Sour,Amaretto,"
-"
-2265,Amaretto Sweet &amp; Sour,Sweet and sour,"
-"
-2266,Amaretto Sweet &amp; Sour,Midori melon liqueur, 
-2267,Amaretto Sweet &amp; Sour,Pineapple juice, 
-2272,Dirty Martini,Vodka,70ml/2fl oz
-2273,Dirty Martini,Dry Vermouth,1 tbsp
-2274,Dirty Martini,Olive Brine,2 tbsp
-2275,Dirty Martini,Lemon,1 wedge
-2276,Dirty Martini,Olive,1
-2280,Amaretto Rose,Amaretto,1 1/2 oz 
-2281,Amaretto Rose,Lime juice,1/2 oz 
-2282,Amaretto Rose,Club soda,"
-"
-2288,A Furlong Too Late,Light rum,2 oz 
-2289,A Furlong Too Late,Ginger beer,4 oz 
-2290,A Furlong Too Late,Lemon peel,1 twist of 
-2296,Vesper,Gin,6 cl
-2297,Vesper,Vodka,1.5 cl
-2298,Vesper,Lillet Blanc,0.75 cl
-2304,Duchamp's Punch,Pisco,5 cl
-2305,Duchamp's Punch,Lime Juice,2.5 cl
-2306,Duchamp's Punch,Pineapple Syrup,2.5 cl
-2307,Duchamp's Punch,St. Germain,1.5 cl
-2308,Duchamp's Punch,Angostura Bitters,2 Dashes
-2309,Duchamp's Punch,Pepper,Pinch
-2310,Duchamp's Punch,Lavender,2 sprigs
-2312,Banana Daiquiri,Light rum,1 1/2 oz 
-2313,Banana Daiquiri,Triple sec,1 tblsp 
-2314,Banana Daiquiri,Banana,1 
-2315,Banana Daiquiri,Lime juice,1 1/2 oz 
-2316,Banana Daiquiri,Sugar,1 tsp 
-2317,Banana Daiquiri,Cherry,1 
-2320,Gin Sling,Gin,2 oz 
-2321,Gin Sling,Lemon,Juice of 1/2 
-2322,Gin Sling,Powdered sugar,1 tsp 
-2323,Gin Sling,Water,1 tsp 
-2324,Gin Sling,Orange peel,Twist of 
-2328,Port Wine Flip,Port,1 1/2 oz 
-2329,Port Wine Flip,Light cream,2 tsp 
-2330,Port Wine Flip,Powdered sugar,1 tsp 
-2331,Port Wine Flip,Egg,1 whole 
-2332,Port Wine Flip,Nutmeg,"
-"
-2336,Adam &amp; Eve,Gin,1 shot 
-2337,Adam &amp; Eve,Cognac,1 shot 
-2338,Adam &amp; Eve,Creme de Cassis,1 shot 
-2339,Adam &amp; Eve,Fresh Lemon Juice,1/8 shot 
-2344,Addison Special,Vodka,1 shot 
-2345,Addison Special,Grenadine,1 tblsp 
-2346,Addison Special,Orange juice,Fill with 
-2352,Adam Sunrise,Vodka,1/2 
-2353,Adam Sunrise,Lemonade,1/2 can 
-2354,Adam Sunrise,Water,1/2 
-2355,Adam Sunrise,Sugar,10 tsp 
-2360,Abbey Cocktail,Gin,1 1/2 oz 
-2361,Abbey Cocktail,Orange bitters,1 dash 
-2362,Abbey Cocktail,Orange,Juice of 1/4 
-2363,Abbey Cocktail,Cherry,1 
-2368,Salted Toffee Martini,Gin,50 ml 
-2369,Salted Toffee Martini,Chocolate liqueur,30 ml 
-2370,Salted Toffee Martini,Amaretto,15 ml
-2371,Salted Toffee Martini,Chocolate Sauce,Garnish
-2372,Salted Toffee Martini,Salted Chocolate,"Grated
-"
-2376,Vermouth Cassis,Dry Vermouth,1 1/2 oz 
-2377,Vermouth Cassis,Creme de Cassis,3/4 oz 
-2378,Vermouth Cassis,Carbonated water,"
-"
-2384,Bluebird,Gin,1 1/2 oz 
-2385,Bluebird,Triple sec,1/2 oz 
-2386,Bluebird,Blue Curacao,1/2 oz 
-2387,Bluebird,Bitters,2 dashes 
-2388,Bluebird,Maraschino cherry,1 
-2389,Bluebird,Lemon peel,1 twist of 
-2392,Cream Soda,Spiced rum,1 oz 
-2393,Cream Soda,Ginger ale,"
-"
-2400,Bourbon Sling,Sugar,1 tsp superfine 
-2401,Bourbon Sling,Water,2 tsp 
-2402,Bourbon Sling,Lemon juice,1 oz 
-2403,Bourbon Sling,Bourbon,2 oz 
-2404,Bourbon Sling,Lemon peel,1 twist of 
-2408,Oatmeal Cookie,Kahlua,2 parts
-2409,Oatmeal Cookie,Bailey,2 parts
-2410,Oatmeal Cookie,Butterscotch schnapps,4 parts
-2411,Oatmeal Cookie,Jagermeister,1 part
-2412,Oatmeal Cookie,Goldschlager,1/2 part
-2416,Drinking Chocolate,Heavy cream,2 oz 
-2417,Drinking Chocolate,Milk,6-8 oz 
-2418,Drinking Chocolate,Cinnamon,1 stick 
-2419,Drinking Chocolate,Vanilla,1 
-2420,Drinking Chocolate,Chocolate,2 oz finely chopped dark 
-2421,Drinking Chocolate,Whipped cream,Fresh 
-2424,Orange Push-up,Spiced rum,1.5 oz 
-2425,Orange Push-up,Grenadine,0.5 oz 
-2426,Orange Push-up,Orange juice,4 oz 
-2427,Orange Push-up,Sour mix,1 splash 
-2432,Melya,Espresso,"
-"
-2433,Melya,Honey,Unsweetened 
-2434,Melya,Cocoa powder, 
-2440,Sex on the Beach,Vodka,1 oz 
-2441,Sex on the Beach,Peach schnapps,3/4 oz 
-2442,Sex on the Beach,Cranberry juice,N/A
-2443,Sex on the Beach,Grapefruit juice, 
-2448,Bumble Bee #1,Bailey's irish cream,1/3 oz 
-2449,Bumble Bee #1,Kahlua,1/3 oz 
-2450,Bumble Bee #1,Sambuca,1/3 oz 
-2456,Zinger,Peachtree schnapps,4 shots 
-2457,Zinger,Surge,4 shots 
-2464,Absolut Stress #2,Absolut Vodka,1 1/2 oz 
-2465,Absolut Stress #2,Peach schnapps,1/2 oz 
-2466,Absolut Stress #2,Coconut liqueur,1/2 oz 
-2467,Absolut Stress #2,Cranberry juice,1 1/2 oz 
-2468,Absolut Stress #2,Pineapple juice,1 1/2 oz 
-2472,Grizzly Bear,Amaretto,1 part 
-2473,Grizzly Bear,Jägermeister,1 part 
-2474,Grizzly Bear,Kahlua,1 part 
-2475,Grizzly Bear,Milk,2 1/2 parts 
-2480,Godmother,Vodka,1 1/2 oz 
-2481,Godmother,Amaretto,3/4 oz 
-2488,Nutty Irishman,Bailey's irish cream,1 part 
-2489,Nutty Irishman,Frangelico,1 part 
-2490,Nutty Irishman,Milk,1 part 
-2496,Just a Moonmint,Milk,2 cups 
-2497,Just a Moonmint,Chocolate syrup,"
-"
-2498,Just a Moonmint,Mint syrup,"
-"
-2504,Blue Margarita,Tequila,1 1/2 oz 
-2505,Blue Margarita,Blue Curacao,1 oz 
-2506,Blue Margarita,Lime juice,1 oz 
-2507,Blue Margarita,Salt,Coarse 
-2512,Ruby Tuesday,Gin,2 oz 
-2513,Ruby Tuesday,Cranberry juice,5 oz 
-2514,Ruby Tuesday,Grenadine,2 splashes 
-2520,Boomerang,Gin,2 oz 
-2521,Boomerang,Dry Vermouth,1/2 oz 
-2522,Boomerang,Bitters,2 dashes 
-2523,Boomerang,Maraschino liqueur,1/2 tsp 
-2524,Boomerang,Maraschino cherry,1 
-2528,Kentucky Colonel,Bourbon,3 oz 
-2529,Kentucky Colonel,Benedictine,1/2 oz 
-2530,Kentucky Colonel,Lemon peel,1 twist of 
-2536,Alfie Cocktail,Lemon vodka,1 1/2 oz 
-2537,Alfie Cocktail,Triple sec,1 dash 
-2538,Alfie Cocktail,Pineapple juice,1 tblsp 
-2544,Shanghai Cocktail,Light rum,1 oz Jamaican 
-2545,Shanghai Cocktail,Anisette,1 tsp 
-2546,Shanghai Cocktail,Grenadine,1/2 tsp 
-2547,Shanghai Cocktail,Lemon,Juice of 1/4 
-2552,Irish Curdling Cow,Bailey's irish cream,3/4 oz 
-2553,Irish Curdling Cow,Bourbon,3/4 oz 
-2554,Irish Curdling Cow,Vodka,3/4 oz 
-2555,Irish Curdling Cow,Orange juice,2-3 oz 
-2560,The Last Word,Green Chartreuse,1 oz
-2561,The Last Word,Maraschino Liqueur,1 oz
-2562,The Last Word,Lime Juice,1 oz
-2568,Zenmeister,Jägermeister,1/2 oz 
-2569,Zenmeister,Root beer,1/2 oz 
-2576,Brainteaser,Sambuca,30 ml white 
-2577,Brainteaser,Erin Cream,30 ml 
-2578,Brainteaser,Advocaat,5 ml 
-2584,Sweet Bananas,Milk,2 cups 
-2585,Sweet Bananas,Banana,1 
-2586,Sweet Bananas,Honey,1 tblsp 
-2592,151 Florida Bushwacker,Malibu rum,1/2 oz 
-2593,151 Florida Bushwacker,Light rum,1/2 oz 
-2594,151 Florida Bushwacker,151 proof rum,1/2 oz Bacardi 
-2595,151 Florida Bushwacker,Dark Creme de Cacao,1 oz 
-2596,151 Florida Bushwacker,Cointreau,1 oz 
-2597,151 Florida Bushwacker,Milk,3 oz 
-2598,151 Florida Bushwacker,Coconut liqueur,1 oz 
-2599,151 Florida Bushwacker,Vanilla ice-cream,1 cup 
-2600,Big Red,Irish cream,1/2 oz 
-2601,Big Red,Goldschlager,1/2 oz 
-2608,Gin Cooler,Gin,2 oz 
-2609,Gin Cooler,Carbonated water,"
-"
-2610,Gin Cooler,Powdered sugar,"
-"
-2611,Gin Cooler,Orange spiral,"
-"
-2612,Gin Cooler,Lemon peel,"
-"
-2616,Vodka Russian,Vodka,2 oz 
-2617,Vodka Russian,Schweppes Russchian,"
-"
-2624,Lunch Box,Beer,3/4 bottle 
-2625,Lunch Box,Amaretto,1 shot 
-2626,Lunch Box,Orange juice,1 oz 
-2632,Coke and Drops,Coca-Cola,1 dl 
-2633,Coke and Drops,Lemon juice,7 drops 
-2640,Zorro,Sambuca,2 cl 
-2641,Zorro,Bailey's irish cream,2 cl 
-2642,Zorro,White Creme de Menthe,2 cl 
-2648,Frozen Daiquiri,Light rum,1 1/2 oz 
-2649,Frozen Daiquiri,Triple sec,1 tblsp 
-2650,Frozen Daiquiri,Lime juice,1 1/2 oz 
-2651,Frozen Daiquiri,Sugar,1 tsp 
-2652,Frozen Daiquiri,Cherry,1 
-2653,Frozen Daiquiri,Ice,1 cup crushed 
-2656,Caribbean Orange Liqueur,Orange,3 large 
-2657,Caribbean Orange Liqueur,Vodka,3 cups 
-2658,Caribbean Orange Liqueur,Sugar,1 1/3 cup superfine 
-2664,Kamikaze,Vodka,1 oz 
-2665,Kamikaze,Triple sec,1 oz 
-2666,Kamikaze,Lime juice,1 oz 
-2672,Balmoral,Scotch,1 1/2 oz 
-2673,Balmoral,Sweet Vermouth,1/2 oz 
-2674,Balmoral,Dry Vermouth,1/2 oz 
-2675,Balmoral,Bitters,2 dashes 
-2680,Adios Amigos Cocktail,Rum,1 shot 
-2681,Adios Amigos Cocktail,Dry Vermouth,1/2 shot 
-2682,Adios Amigos Cocktail,Cognac,1/2 shot 
-2683,Adios Amigos Cocktail,Gin,1/2 shot 
-2684,Adios Amigos Cocktail,Fresh Lime Juice,1/4 shot
-2685,Adios Amigos Cocktail,Sugar Syrup,1/4 shot
-2686,Adios Amigos Cocktail,Water,1/2 shot 
-2688,Kir,Creme de Cassis,1 part 
-2689,Kir,Champagne,5 parts 
-2696,Alaska Cocktail,Orange bitters,2 dashes 
-2697,Alaska Cocktail,Gin,1 1/2 oz 
-2698,Alaska Cocktail,Yellow Chartreuse,3/4 oz 
-2699,Alaska Cocktail,Lemon peel,Twist of 
-2704,Kool-Aid Slammer,Kool-Aid,1/2 oz Grape 
-2705,Kool-Aid Slammer,Vodka,1/2 oz 
-2712,Egg-Nog - Classic Cooked,Egg,6 
-2713,Egg-Nog - Classic Cooked,Sugar,1/4 cup 
-2714,Egg-Nog - Classic Cooked,Salt,1/4 tsp 
-2715,Egg-Nog - Classic Cooked,Milk,1 qt 
-2716,Egg-Nog - Classic Cooked,Vanilla extract,1 tsp 
-2720,Baby Eskimo,Kahlua,2 oz 
-2721,Baby Eskimo,Milk,8 oz 
-2722,Baby Eskimo,Vanilla ice-cream,2 scoops 
-2728,Acapulco,Light rum,1 1/2 oz 
-2729,Acapulco,Triple sec,1 1/2 tsp 
-2730,Acapulco,Lime juice,1 tblsp 
-2731,Acapulco,Sugar,1 tsp 
-2732,Acapulco,Egg white,1 
-2733,Acapulco,Mint,1 
-2736,Mississippi Planters Punch,Brandy,1 oz 
-2737,Mississippi Planters Punch,Light rum,1/2 oz 
-2738,Mississippi Planters Punch,Bourbon,1/2 oz 
-2739,Mississippi Planters Punch,Lemon,Juice of 1/2 
-2740,Mississippi Planters Punch,Powdered sugar,1 tblsp 
-2741,Mississippi Planters Punch,Carbonated water,"
-"
-2744,Sherry Flip,Sherry,1 1/2 oz cream 
-2745,Sherry Flip,Light cream,2 tsp 
-2746,Sherry Flip,Powdered sugar,1 tsp 
-2747,Sherry Flip,Egg,1 whole 
-2748,Sherry Flip,Nutmeg,"
-"
-2752,Royal Fizz,Gin,1 oz 
-2753,Royal Fizz,Sweet and sour,2 oz 
-2754,Royal Fizz,Egg,1 whole 
-2755,Royal Fizz,Coca-Cola,"
-"
-2760,Horse's Neck,Lemon peel,1 long strip 
-2761,Horse's Neck,Brandy,2 oz 
-2762,Horse's Neck,Ginger ale,5 oz 
-2763,Horse's Neck,Bitters,2 dashes 
-2768,Gideon's Green Dinosaur,Dark rum,1/2 oz 
-2769,Gideon's Green Dinosaur,Vodka,1/2 oz 
-2770,Gideon's Green Dinosaur,Triple sec,1/2 oz 
-2771,Gideon's Green Dinosaur,Tequila,1/2 oz 
-2772,Gideon's Green Dinosaur,Melon liqueur,1/2 oz 
-2773,Gideon's Green Dinosaur,Mountain Dew,Fill with 
-2776,Auburn Headbanger,Jägermeister,1 oz 
-2777,Auburn Headbanger,Goldschlager,1 oz 
-2784,Port And Starboard,Grenadine,1 tblsp 
-2785,Port And Starboard,Green Creme de Menthe,1/2 oz 
-2792,Belgian Blue,Vodka,2 cl 
-2793,Belgian Blue,Coconut liqueur,1 cl 
-2794,Belgian Blue,Blue Curacao,1 cl 
-2795,Belgian Blue,Sprite,Fill with 
-2800,Zombie,Rum,1 1/2 oz
-2801,Zombie,Gold rum,1 1/2 oz
-2802,Zombie,151 proof rum,1 oz
-2803,Zombie,Pernod,1 tsp
-2804,Zombie,Grenadine,1 tsp
-2805,Zombie,Lime Juice,1 tsp
-2806,Zombie,Angostura Bitters,1 drop
-2808,Cafe Savoy,Coffee,"
-"
-2809,Cafe Savoy,Milk,1/2 oz 
-2810,Cafe Savoy,Triple sec,1/2 oz 
-2811,Cafe Savoy,Brandy, 
-2816,Scotch Cobbler,Scotch,2 oz 
-2817,Scotch Cobbler,Brandy,4 dashes 
-2818,Scotch Cobbler,Curacao,4 dashes 
-2819,Scotch Cobbler,Orange,1 slice 
-2820,Scotch Cobbler,Mint,1 
-2824,Clover Club,Gin,1 1/2 oz 
-2825,Clover Club,Grenadine,2 tsp 
-2826,Clover Club,Lemon,Juice of 1/2 
-2827,Clover Club,Egg white,1 
-2832,GG,Galliano,2 1/2 shots 
-2833,GG,Ginger ale,"
-"
-2834,GG,Ice, 
-2840,Pink Lady,Gin,1 1/2 oz 
-2841,Pink Lady,Grenadine,1 tsp 
-2842,Pink Lady,Light cream,1 tsp 
-2843,Pink Lady,Egg white,1 
-2848,Affair,Strawberry schnapps,2 oz 
-2849,Affair,Orange juice,2 oz 
-2850,Affair,Cranberry juice,2 oz 
-2851,Affair,Club soda,"
-"
-2856,Flying Dutchman,Gin,2 oz 
-2857,Flying Dutchman,Triple sec,1/2 oz 
-2864,Caribbean Boilermaker,Corona,1 bottle 
-2865,Caribbean Boilermaker,Light rum,1 shot 
-2872,Zoksel,Beer,"
-"
-2873,Zoksel,Root beer,"
-"
-2874,Zoksel,Lemonade,"
-"
-2875,Zoksel,Coca-Cola," slice
-"
-2876,Zoksel,7-Up,"
-"
-2877,Zoksel,Creme de Cassis,"
-"
-2878,Zoksel,Lemon,"
-"
-2880,Dry Rob Roy,Scotch,2 1/2 oz 
-2881,Dry Rob Roy,Dry Vermouth,1 1/2 tsp 
-2882,Dry Rob Roy,Lemon peel,1 twist of 
-2888,Vampiro,Tequila,6 cl
-2889,Vampiro,Tomato Juice,3 cl
-2890,Vampiro,Orange Juice,3 cl
-2891,Vampiro,Lime Juice,1.5 cl
-2892,Vampiro,Sugar Syrup,1 dash
-2893,Vampiro,Salt,1 pinch
-2896,Van Vleet,Light rum,3 oz 
-2897,Van Vleet,Maple syrup,1 oz 
-2898,Van Vleet,Lemon juice,1 oz 
-2904,Egg Cream,Chocolate syrup,2 tblsp 
-2905,Egg Cream,Milk,6 oz whole 
-2906,Egg Cream,Soda water,6 oz 
-2912,Harvey Wallbanger,Vodka,1 oz 
-2913,Harvey Wallbanger,Galliano,1/2 oz 
-2914,Harvey Wallbanger,Orange juice,4 oz 
-2920,The Evil Blue Thing,Creme de Cacao,1 1/2 oz 
-2921,The Evil Blue Thing,Blue Curacao,1 oz 
-2922,The Evil Blue Thing,Light rum,1/2 oz 
-2928,Highland Fling Cocktail,Scotch,1 1/2 oz 
-2929,Highland Fling Cocktail,Sweet Vermouth,3/4 oz 
-2930,Highland Fling Cocktail,Orange bitters,2 dashes 
-2931,Highland Fling Cocktail,Olive,1 
-2936,Kir Royale,Creme de Cassis,1 part 
-2937,Kir Royale,Champagne,5 parts 
-2944,Vodka And Tonic,Vodka,2 oz 
-2945,Vodka And Tonic,Tonic water,"
-"
-2952,Addison,Gin,1 1/2 shot 
-2953,Addison,Vermouth,1 1/2 shot 
-2960,Cuba Libra,Dark rum,1-2 shot 
-2961,Cuba Libra,Lime,Squeeze 
-2962,Cuba Libra,Coca-Cola,Fill with 
-2963,Cuba Libra,Ice,"
-"
-2968,Popped cherry,Vodka,2 oz 
-2969,Popped cherry,Cherry liqueur,2 oz 
-2970,Popped cherry,Cranberry juice,4 oz 
-2971,Popped cherry,Orange juice,4 oz 
-2976,After Supper Cocktail,Triple sec,1 oz 
-2977,After Supper Cocktail,Apricot brandy,1 oz 
-2978,After Supper Cocktail,Lemon juice,1/2 tsp 
-2984,Gentleman's Club,Gin,1 1/2 oz 
-2985,Gentleman's Club,Brandy,1 oz 
-2986,Gentleman's Club,Sweet Vermouth,1 oz 
-2987,Gentleman's Club,Club soda,1 oz 
-2992,Jack Rose Cocktail,Apple brandy,1 1/2 oz 
-2993,Jack Rose Cocktail,Grenadine,1 tsp 
-2994,Jack Rose Cocktail,Lime,Juice of 1/2 
-3000,Arctic Mouthwash,Maui,5 oz blue 
-3001,Arctic Mouthwash,Mountain Dew,5 oz 
-3002,Arctic Mouthwash,Ice," cubes
-"
-3008,Brandy Sour,Brandy,2 oz 
-3009,Brandy Sour,Lemon,Juice of 1/2 
-3010,Brandy Sour,Powdered sugar,1/2 tsp 
-3011,Brandy Sour,Lemon,1/2 slice 
-3012,Brandy Sour,Cherry,1 
-3016,Bible Belt,Southern Comfort,2 oz 
-3017,Bible Belt,Triple sec,1/2 oz 
-3018,Bible Belt,Lime,2 wedges 
-3019,Bible Belt,Sour mix,2 oz 
-3024,Chocolate Milk,Chocolate liqueur,1/2 shot 
-3025,Chocolate Milk,Milk,1/2 shot 
-3026,Chocolate Milk,Amaretto,1 dash 
-3032,Boston Sidecar,Light rum,3/4 oz 
-3033,Boston Sidecar,Brandy,3/4 oz 
-3034,Boston Sidecar,Triple sec,3/4 oz 
-3035,Boston Sidecar,Lime,Juice of 1/2 
-3040,155 Belmont,Dark rum,1 shot 
-3041,155 Belmont,Light rum,2 shots 
-3042,155 Belmont,Vodka,1 shot 
-3043,155 Belmont,Orange juice,1 shot 
-3048,A. J.,Applejack,1 1/2 oz 
-3049,A. J.,Grapefruit juice,1 oz 
-3056,Girl From Ipanema,Cachaca,25 ml
-3057,Girl From Ipanema,Lemon Juice,15 ml
-3058,Girl From Ipanema,Agave Syrup,10 ml
-3059,Girl From Ipanema,Champagne,top up with
-3064,Midnight Manx,Kahlua,1 oz 
-3065,Midnight Manx,Bailey's irish cream,1 oz 
-3066,Midnight Manx,Goldschlager,dash 
-3067,Midnight Manx,Heavy cream,2 oz 
-3068,Midnight Manx,Coffee,2 oz Hazlenut 
-3072,Martinez Cocktail,Gin,1 oz 
-3073,Martinez Cocktail,Dry Vermouth,1 oz 
-3074,Martinez Cocktail,Triple sec,1/4 tsp 
-3075,Martinez Cocktail,Orange bitters,1 dash 
-3076,Martinez Cocktail,Cherry,1 
-3080,French 75,Gin,1 1/2 oz 
-3081,French 75,Sugar,2 tsp superfine 
-3082,French 75,Lemon juice,1 1/2 oz 
-3083,French 75,Champagne,4 oz Chilled 
-3084,French 75,Orange,1 
-3085,French 75,Maraschino cherry,1 
-3088,Pegu Club,Gin,1 1/2 oz
-3089,Pegu Club,Orange Curacao,3/4 oz
-3090,Pegu Club,Lime Juice,3/4 oz
-3091,Pegu Club,Angostura Bitters,1 dash
-3092,Pegu Club,Orange Bitters,1 dash
-3096,Frisco Sour,Blended whiskey,2 oz 
-3097,Frisco Sour,Benedictine,1/2 oz 
-3098,Frisco Sour,Lemon,Juice of 1/4 
-3099,Frisco Sour,Lime,Juice of 1/2 
-3100,Frisco Sour,Lemon,1 slice 
-3101,Frisco Sour,Lime,1 slice 
-3104,Zizi Coin-coin,Cointreau,5 cl 
-3105,Zizi Coin-coin,Lemon juice,2 cl 
-3106,Zizi Coin-coin,Ice," cubes
-"
-3107,Zizi Coin-coin,Lemon," or lime
-"
-3112,Radioactive Long Island Iced Tea,Rum,1 oz 
-3113,Radioactive Long Island Iced Tea,Vodka,1 oz 
-3114,Radioactive Long Island Iced Tea,Tequila,1 oz 
-3115,Radioactive Long Island Iced Tea,Gin,1 oz 
-3116,Radioactive Long Island Iced Tea,Triple sec,1 oz 
-3117,Radioactive Long Island Iced Tea,Chambord raspberry liqueur,1 oz 
-3118,Radioactive Long Island Iced Tea,Midori melon liqueur,1 oz 
-3119,Radioactive Long Island Iced Tea,Malibu rum,1 oz 
-3120,Bermuda Highball,Brandy,3/4 oz 
-3121,Bermuda Highball,Gin,3/4 oz 
-3122,Bermuda Highball,Dry Vermouth,3/4 oz 
-3123,Bermuda Highball,Carbonated water,"
-"
-3124,Bermuda Highball,Lemon peel,"
-"
-3128,Archbishop,Gin,2 oz 
-3129,Archbishop,Wine,1 oz Green Ginger 
-3130,Archbishop,Benedictine,1 tsp 
-3131,Archbishop,Lime,1 
-3136,Rum Toddy,Rum,2 oz light or dark 
-3137,Rum Toddy,Powdered sugar,2 tsp 
-3138,Rum Toddy,Lemon peel,1 twist of 
-3139,Rum Toddy,Water,2 tsp 
-3144,Sangria #1,Red wine,1 bottle 
-3145,Sangria #1,Sugar,1/2 cup 
-3146,Sangria #1,Orange juice,1 cup 
-3147,Sangria #1,Lemon juice,1 cup 
-3148,Sangria #1,Cloves,"
-"
-3149,Sangria #1,Cinnamon, 
-3152,Banana Milk Shake,Milk,10 cl cold 
-3153,Banana Milk Shake,Orange juice,4 cl 
-3154,Banana Milk Shake,Sugar syrup,2 tsp 
-3155,Banana Milk Shake,Banana,1/2 
-3160,Strawberry Lemonade,Lemon,Juice of 1 
-3161,Strawberry Lemonade,Sugar,1 tblsp 
-3162,Strawberry Lemonade,Strawberries,8-10 ripe 
-3163,Strawberry Lemonade,Water,1 cup 
-3168,Quick-sand,Black Sambuca,25 ml 
-3169,Quick-sand,Orange juice,Add 250 ml 
-3176,Apple Slammer,7-Up,1 part 
-3177,Apple Slammer,Apple schnapps,1 part 
-3184,Brandy Alexander,Brandy,1 oz 
-3185,Brandy Alexander,Creme de Cacao,1 oz white 
-3186,Brandy Alexander,Light cream,1 oz 
-3187,Brandy Alexander,Nutmeg,"
-"
-3192,Screaming Orgasm,Vodka,1 oz 
-3193,Screaming Orgasm,Bailey's irish cream,1 1/2 oz 
-3194,Screaming Orgasm,Kahlua,1/2 oz 
-3200,Aviation,Gin,4.5 cl
-3201,Aviation,lemon juice,1.5 cl
-3202,Aviation,maraschino liqueur,1.5 cl
-3208,Victory Collins,Vodka,1 1/2 oz 
-3209,Victory Collins,Lemon juice,3 oz 
-3210,Victory Collins,Grape juice,3 oz unsweetened 
-3211,Victory Collins,Powdered sugar,1 tsp 
-3212,Victory Collins,Orange,1 slice 
-3216,Black &amp; Tan,Ale,1 part Bass pale 
-3217,Black &amp; Tan,Guinness stout,1 part 
-3224,Ziemes Martini Apfelsaft,Vermouth,4 cl 
-3225,Ziemes Martini Apfelsaft,Apple juice,16 cl 
-3232,252,151 proof rum,1/2 shot Bacardi 
-3233,252,Wild Turkey,1/2 shot 
-3240,Ipamena,Lime,½
-3241,Ipamena,Brown sugar,2 tsp
-3242,Ipamena,Passion fruit juice,4 cl
-3243,Ipamena,Ginger ale,top up with
-3244,Ipamena,Ice,fill
-3248,Bailey's Dream Shake,Bailey's irish cream,2 oz 
-3249,Bailey's Dream Shake,Vanilla ice-cream,2 scoops 
-3250,Bailey's Dream Shake,Cream,"
-"
-3256,Bourbon Sour,Bourbon,2 oz 
-3257,Bourbon Sour,Lemon juice,1 oz 
-3258,Bourbon Sour,Sugar,1/2 tsp superfine 
-3259,Bourbon Sour,Orange,1 
-3260,Bourbon Sour,Maraschino cherry,1 
-3264,Coffee-Vodka,Water,2 cups 
-3265,Coffee-Vodka,Sugar,2 cups white 
-3266,Coffee-Vodka,Coffee,1/2 cup instant 
-3267,Coffee-Vodka,Vanilla,1/2 
-3268,Coffee-Vodka,Vodka,1 1/2 cup 
-3269,Coffee-Vodka,Caramel coloring,"
-"
-3272,Amaretto Sunset,Triple sec,1/2 jigger 
-3273,Amaretto Sunset,Amaretto,3 shots 
-3274,Amaretto Sunset,Cider,1/2 cup 
-3275,Amaretto Sunset,Ice,Add 1/2 cup 
-3280,Whitecap Margarita,Ice,1 cup 
-3281,Whitecap Margarita,Tequila,2 oz 
-3282,Whitecap Margarita,Cream of coconut,1/4 cup 
-3283,Whitecap Margarita,Lime juice,3 tblsp fresh 
-3288,Frozen Pineapple Daiquiri,Light rum,1 1/2 oz 
-3289,Frozen Pineapple Daiquiri,Pineapple,4 chunks 
-3290,Frozen Pineapple Daiquiri,Lime juice,1 tblsp 
-3291,Frozen Pineapple Daiquiri,Sugar,1/2 tsp 
-3296,Mother's Milk,Goldschlager,1 oz 
-3297,Mother's Milk,Butterscotch schnapps,1 oz 
-3298,Mother's Milk,Milk,1 oz 
-3304,Downshift,Fruit punch,2 part 
-3305,Downshift,Sprite,1 part 
-3306,Downshift,Tequila,2 shots 
-3307,Downshift,151 proof rum,Float Bacardi 
-3312,Thai Iced Tea,Tea,1/4 cup Thai 
-3313,Thai Iced Tea,Water,1/2 cup boiling 
-3314,Thai Iced Tea,Condensed milk,2 tsp sweetened 
-3315,Thai Iced Tea,Ice," cubes
-"
-3316,Thai Iced Tea,Mint, 
-3320,Apricot punch,Apricot brandy,1 qt 
-3321,Apricot punch,Champagne,4 fifth 
-3322,Apricot punch,Vodka,1 fifth 
-3323,Apricot punch,7-Up,4 L 
-3324,Apricot punch,Orange juice,1/2 gal 
-3328,Spritz,Prosecco,6 cl
-3329,Spritz,Campari,4 cl
-3330,Spritz,Soda Water,splash
-3336,Spiking coffee,Coffee,"
-"
-3337,Spiking coffee,Cinnamon, 
-3344,Fuzzy Asshole,Coffee,1/2 
-3345,Fuzzy Asshole,Peach schnapps,1/2 
-3352,Midnight Cowboy,Bourbon,2 oz 
-3353,Midnight Cowboy,Dark rum,1 oz 
-3354,Midnight Cowboy,Heavy cream,1/2 oz 
-3360,Almeria,Dark rum,2 oz 
-3361,Almeria,Kahlua,1 oz 
-3362,Almeria,Egg white,1 
-3368,San Francisco,Vodka,2 cl 
-3369,San Francisco,Creme de Banane,2 cl 
-3370,San Francisco,Grenadine,"
-"
-3371,San Francisco,Orange juice, 
-3376,Gin Sour,Gin,2 oz 
-3377,Gin Sour,Lemon juice,1 oz 
-3378,Gin Sour,Sugar,1/2 tsp superfine 
-3379,Gin Sour,Orange,1 
-3380,Gin Sour,Maraschino cherry,1 
-3384,Rum Screwdriver,Light rum,1 1/2 oz 
-3385,Rum Screwdriver,Orange juice,5 oz 
-3392,Snowball,Advocaat,1 1/2 oz 
-3393,Snowball,Lemonade,8-10 oz cold 
-3394,Snowball,Lemon,1 slice 
-3395,Snowball,Ice," cubes
-"
-3400,Hot Creamy Bush,Irish whiskey,1 shot 
-3401,Hot Creamy Bush,Bailey's irish cream,3/4 shot 
-3402,Hot Creamy Bush,Coffee,6 oz hot 
-3408,Artillery Punch,Tea,1 quart black 
-3409,Artillery Punch,Rye whiskey,1 quart 
-3410,Artillery Punch,Red wine,1 fifth 
-3411,Artillery Punch,Rum,1 pint Jamaican 
-3412,Artillery Punch,Brandy,1/2 pint 
-3413,Artillery Punch,Benedictine,1 1/2 oz 
-3414,Artillery Punch,Orange juice,1 pint 
-3415,Artillery Punch,Lemon juice,1/2 pint 
-3416,Mango Orange Smoothie,Mango,1 
-3417,Mango Orange Smoothie,Orange,2 
-3424,Blackthorn,Sweet Vermouth,1 oz 
-3425,Blackthorn,Sloe gin,1 1/2 oz 
-3426,Blackthorn,Lemon peel,1 twist of 
-3432,Orange Oasis,Cherry brandy,1/2 oz 
-3433,Orange Oasis,Gin,1 1/2 oz 
-3434,Orange Oasis,Orange juice,4 oz 
-3435,Orange Oasis,Ginger ale,"
-"
-3440,50/50,Vanilla vodka,2 1/2 oz 
-3441,50/50,Grand Marnier,1 splash 
-3442,50/50,Orange juice,Fill with 
-3448,Strawberry Margarita,Strawberry schnapps,1/2 oz 
-3449,Strawberry Margarita,Tequila,1 oz 
-3450,Strawberry Margarita,Triple sec,1/2 oz 
-3451,Strawberry Margarita,Lemon juice,1 oz 
-3452,Strawberry Margarita,Strawberries,1 oz 
-3453,Strawberry Margarita,Salt,"
-"
-3456,Quentin,Dark rum,1 1/2 oz 
-3457,Quentin,Kahlua,1/2 oz 
-3458,Quentin,Light cream,1 oz 
-3459,Quentin,Nutmeg,1/8 tsp grated 
-3464,Banana Cantaloupe Smoothie,Cantaloupe,Juice of 1/2 
-3465,Banana Cantaloupe Smoothie,Banana,1 
-3472,410 Gone,Peach Vodka,2-3 oz
-3473,410 Gone,Coca-Cola,N/A
-3480,Sherry Eggnog,Sherry,2 oz cream 
-3481,Sherry Eggnog,Powdered sugar,1 tsp 
-3482,Sherry Eggnog,Egg,1 whole 
-3483,Sherry Eggnog,Milk,"
-"
-3484,Sherry Eggnog,Nutmeg, 
-3488,Old Pal,Rye whiskey,2 oz
-3489,Old Pal,Campari,1 oz
-3490,Old Pal,Dry Vermouth,1 oz
-3496,City Slicker,Brandy,2 oz 
-3497,City Slicker,Triple sec,1/2 oz 
-3498,City Slicker,Lemon juice,1 tblsp 
-3504,Tequila Surprise,Tequila,full glass 
-3505,Tequila Surprise,Tabasco sauce,About 8 drops 
-3512,Vesuvio,Light rum,1 oz 
-3513,Vesuvio,Sweet Vermouth,1/2 oz 
-3514,Vesuvio,Lemon,Juice of 1/2 
-3515,Vesuvio,Powdered sugar,1 tsp 
-3516,Vesuvio,Egg white,1 
-3520,Sol Y Sombra,Brandy,1 1/2 oz 
-3521,Sol Y Sombra,Anisette,1 1/2 oz 
-3528,Amaretto Shake,Chocolate ice-cream,2 scoops 
-3529,Amaretto Shake,Brandy,2 oz 
-3530,Amaretto Shake,Amaretto,2 oz 
-3536,New York Sour,Blended whiskey,2 oz 
-3537,New York Sour,Lemon,Juice of 1/2 
-3538,New York Sour,Sugar,1 tsp 
-3539,New York Sour,Red wine," (Claret)
-"
-3540,New York Sour,Lemon,"
-"
-3541,New York Sour,Cherry,"
-"
-3544,Zima Blaster,Zima,12 oz 
-3545,Zima Blaster,Chambord raspberry liqueur,3 oz 
-3552,Thai Coffee,Coffee,6 tblsp ground
-3553,Thai Coffee,Coriander,1/4 tsp 
-3554,Thai Coffee,Cardamom,4-5 whole green 
-3555,Thai Coffee,Sugar,N/A
-3556,Thai Coffee,Whipping cream,N/A
-3557,Thai Coffee,Ice,N/A
-3560,Apple Grande,Tequila,3 oz 
-3561,Apple Grande,Apple cider,12 oz 
-3568,Gagliardo,Peach Vodka,5 parts 
-3569,Gagliardo,Lemon juice,3 parts 
-3570,Gagliardo,Galliano,1 part 
-3571,Gagliardo,Sirup of roses,1 part 
-3576,London Town,Gin,1 1/2 oz 
-3577,London Town,Maraschino liqueur,1/2 oz 
-3578,London Town,Orange bitters,2 dashes 
-3584,Rail Splitter,Sugar syrup,2 tsp 
-3585,Rail Splitter,Lemon juice,"
-"
-3586,Rail Splitter,Ginger ale, 
-3592,Apple Berry Smoothie,Berries,1 cup 
-3593,Apple Berry Smoothie,Apple,2 
-3600,Irish Coffee,Irish whiskey,1 1/2 oz 
-3601,Irish Coffee,Coffee,8 oz 
-3602,Irish Coffee,Sugar,1 tsp 
-3603,Irish Coffee,Whipped cream,1 tblsp 
-3608,Allies Cocktail,Dry Vermouth,1 oz 
-3609,Allies Cocktail,Gin,1 oz 
-3610,Allies Cocktail,Kummel,1/2 tsp 
-3616,Addington,Sweet Vermouth,2 shots 
-3617,Addington,Dry Vermouth,1 shot 
-3618,Addington,Soda Water,"Top up with
-"
-3624,Apple Karate,Apple juice,2 cups 
-3625,Apple Karate,Carrot,1 large 
-3632,Bruce's Puce,Grenadine,"
-"
-3633,Bruce's Puce,Kahlua,"
-"
-3634,Bruce's Puce,Bailey's irish cream,"
-"
-3640,Afterglow,Grenadine,1 part 
-3641,Afterglow,Orange juice,4 parts 
-3642,Afterglow,Pineapple juice,4 parts 
-3648,Loch Lomond,Scotch,2 oz 
-3649,Loch Lomond,Drambuie,1/2 oz 
-3650,Loch Lomond,Dry Vermouth,1/2 oz 
-3651,Loch Lomond,Lemon peel,1 twist of 
-3656,Fruit Cooler,Apple juice,1 can frozen 
-3657,Fruit Cooler,Strawberries,1 cup 
-3658,Fruit Cooler,Sugar,2 tblsp 
-3659,Fruit Cooler,Lemon,1 
-3660,Fruit Cooler,Apple,1 
-3661,Fruit Cooler,Soda water,1 L 
-3662,Fruit Cooler,Ice,"
-"
-3664,H.D.,Whisky,4 cl 
-3665,H.D.,Bailey's irish cream,8 cl 
-3666,H.D.,Coffee,"
-"
-3672,Egg Nog #4,Egg yolk,6 
-3673,Egg Nog #4,Sugar,1/4 cup 
-3674,Egg Nog #4,Milk,2 cups 
-3675,Egg Nog #4,Light rum,1/2 cup 
-3676,Egg Nog #4,Bourbon,1/2 cup 
-3677,Egg Nog #4,Vanilla extract,1 tsp 
-3678,Egg Nog #4,Salt,1/4 tsp 
-3679,Egg Nog #4,Whipping cream,1 cup 
-3680,Bruised Heart,Vodka,1/2 oz 
-3681,Bruised Heart,Chambord raspberry liqueur,1/2 oz 
-3682,Bruised Heart,Peachtree schnapps,1/2 oz 
-3683,Bruised Heart,Cranberry juice,1/2 oz 
-3688,Pisco Sour,Pisco,2 oz 
-3689,Pisco Sour,Lemon juice,1 oz 
-3690,Pisco Sour,Sugar,1-2 tblsp 
-3691,Pisco Sour,Ice,N/A
-3696,Adam Bomb,Rum,1 part 
-3697,Adam Bomb,Vodka,1 part 
-3698,Adam Bomb,Tequila,1 part 
-3699,Adam Bomb,Triple sec,1/2 part 
-3700,Adam Bomb,Fruit,"
-"
-3701,Adam Bomb,Ice,"
-"
-3702,Adam Bomb,Salt,1-3 pint 
-3703,Adam Bomb,Fruit juice, 
-3704,Arizona Stingers,Absolut Vodka,2 shots 
-3705,Arizona Stingers,Iced tea,12 oz lemon 
-3712,747,Kahlua,1/3 part 
-3713,747,Bailey's irish cream,1/3 part 
-3714,747,Frangelico,1/3 part 
-3720,Irish Cream,Scotch,1 cup 
-3721,Irish Cream,Half-and-half,1 1/4 cup 
-3722,Irish Cream,Condensed milk,1 can sweetened 
-3723,Irish Cream,Coconut syrup,3 drops 
-3724,Irish Cream,Chocolate syrup,1 tblsp 
-3728,Fruit Flip-Flop,Yoghurt,1 cup 
-3729,Fruit Flip-Flop,Fruit juice,1 cup 
-3736,Danbooka,Coffee,3 parts 
-3737,Danbooka,Everclear,1 part 
+drink_name,ingredient,measurement,unit
+Spanish chocolate,Milk,2.0,cups
+Spanish chocolate,Chocolate,2.0,oz
+Spanish chocolate,Cinnamon,0.5,
+Spanish chocolate,Egg yolk,2.0,
+Martini,Gin,4.0,oz
+Martini,Dry Vermouth,0.3333333333333333,oz
+Martini,Olive,1.0,
+Coke and Drops,Coca-Cola,1.0,
+Coke and Drops,Lemon juice,7.0,
+Pink Lady,Gin,5.5,oz
+Pink Lady,Grenadine,1.0,
+Pink Lady,Light cream,1.0,
+Pink Lady,Egg white,1.0,
+Mojito,Light rum,2.0,-3 oz
+Mojito,Lime,1.0,
+Mojito,Sugar,2.0,
+Mojito,Mint,2.0,
+Mojito,Soda water,nan,N/A
+Irish Spring,Irish whiskey,1.0,oz
+Irish Spring,Peach brandy,0.5,oz
+Irish Spring,Orange juice,1.0,oz
+Irish Spring,Sweet and sour,1.0,oz
+Irish Spring,Orange,1.0,
+Irish Spring,Cherry,1.0,
+Chocolate Milk,Chocolate liqueur,0.5,shot
+Chocolate Milk,Milk,0.5,shot
+Chocolate Milk,Amaretto,1.0,dash
+Chocolate Beverage,Milk,6.0,cups
+Chocolate Beverage,Chocolate,3.0,oz Mexican
+Chocolate Beverage,Cinnamon,1.0,
+Chocolate Beverage,Egg,3.0,
+Sazerac,Ricard,1.0,
+Sazerac,Sugar,0.5,
+Sazerac,Peychaud bitters,2.0,dashes
+Sazerac,Water,1.0,
+Sazerac,Bourbon,2.0,oz
+Sazerac,Lemon peel,1.0,
+Amaretto Mist,Amaretto,5.5,oz
+Amaretto Mist,Lime,1.0,
+Lone Tree Cocktail,Sweet Vermouth,0.75,oz
+Lone Tree Cocktail,Gin,5.5,oz
+Afternoon,Kahlua,1.0,
+Afternoon,Bailey's irish cream,1.0,
+Afternoon,Frangelico,5.5,
+Afternoon,Coffee,4.0,
+Afternoon,Cream,nan,N/A
+Vodka And Tonic,Vodka,2.0,oz
+Vodka And Tonic,Tonic water,nan,N/A
+Tom Collins,Gin,2.0,oz
+Tom Collins,Lemon juice,1.0,oz
+Tom Collins,Sugar,1.0,
+Tom Collins,Club soda,3.0,oz
+Tom Collins,Maraschino cherry,1.0,
+Tom Collins,Orange,1.0,
+Flying Dutchman,Gin,2.0,oz
+Flying Dutchman,Triple sec,0.5,oz
+Allegheny,Dry Vermouth,1.0,oz
+Allegheny,Bourbon,1.0,oz
+Allegheny,Blackberry brandy,5.5,
+Allegheny,Lemon juice,5.5,
+Allegheny,Lemon peel,1.0,
+Bobby Burns Cocktail,Sweet Vermouth,5.5,oz
+Bobby Burns Cocktail,Scotch,5.5,oz
+Bobby Burns Cocktail,Benedictine,2.75,
+Bobby Burns Cocktail,Lemon peel,1.0,
+Irish Russian,Vodka,1.0,shot
+Irish Russian,Kahlua,1.0,shot
+Irish Russian,Coca-Cola,1.0,dash
+Irish Russian,Guinness stout,N/A,N/A
+Bijou,Orange Bitters,1.0,dash
+Bijou,Green Chartreuse,1.0,oz
+Bijou,Gin,1.0,oz
+Bijou,Sweet Vermouth,1.0,oz
+Bleeding Surgeon,Dark rum,1.0,shot
+Bleeding Surgeon,Orange,1.0,
+Bleeding Surgeon,Surge,0.5,glass
+Bleeding Surgeon,Cranberry juice,0.5,glass
+Mississippi Planters Punch,Brandy,1.0,oz
+Mississippi Planters Punch,Light rum,0.5,oz
+Mississippi Planters Punch,Bourbon,0.5,oz
+Mississippi Planters Punch,Lemon,0.5,
+Mississippi Planters Punch,Powdered sugar,1.0,
+Mississippi Planters Punch,Carbonated water,nan,N/A
+Ruby Tuesday,Gin,2.0,oz
+Ruby Tuesday,Cranberry juice,5.0,oz
+Ruby Tuesday,Grenadine,2.0,
+Rum Old-fashioned,Light rum,5.5,oz
+Rum Old-fashioned,151 proof rum,1.0,
+Rum Old-fashioned,Powdered sugar,0.5,
+Rum Old-fashioned,Bitters,1.0,dash
+Rum Old-fashioned,Water,1.0,
+Rum Old-fashioned,Lime peel,N/A,N/A
+Kiwi Papaya Smoothie,Kiwi,3.0,
+Kiwi Papaya Smoothie,Papaya,0.5,
+Adam Sunrise,Vodka,0.5,
+Adam Sunrise,Lemonade,0.5,can
+Adam Sunrise,Water,0.5,
+Adam Sunrise,Sugar,10.0,
+Vermouth Cassis,Dry Vermouth,5.5,oz
+Vermouth Cassis,Creme de Cassis,0.75,oz
+Vermouth Cassis,Carbonated water,nan,N/A
+Whiskey Sour,Blended whiskey,2.0,oz
+Whiskey Sour,Lemon,0.5,
+Whiskey Sour,Powdered sugar,0.5,
+Whiskey Sour,Cherry,1.0,
+Whiskey Sour,Lemon,0.5,
+Hawaiian Cocktail,Gin,2.0,oz
+Hawaiian Cocktail,Triple sec,0.5,oz
+Hawaiian Cocktail,Pineapple juice,1.0,
+Queen Charlotte,Red wine,2.0,oz
+Queen Charlotte,Grenadine,1.0,oz
+Queen Charlotte,Lemon-lime soda,nan,N/A
+Caribbean Boilermaker,Corona,1.0,bottle
+Caribbean Boilermaker,Light rum,1.0,shot
+Apple Berry Smoothie,Berries,1.0,cup
+Apple Berry Smoothie,Apple,2.0,
+Applejack,Jack Daniels,1.0,oz
+Applejack,Midori melon liqueur,0.5,oz
+Applejack,Sour mix,2.0,oz
+Golden dream,Galliano,2.0,
+Golden dream,Triple Sec,2.0,
+Golden dream,orange juice,2.0,
+Golden dream,Cream,1.0,
+Pegu Club,Gin,5.5,oz
+Pegu Club,Orange Curacao,0.75,oz
+Pegu Club,Lime Juice,0.75,oz
+Pegu Club,Angostura Bitters,1.0,dash
+Pegu Club,Orange Bitters,1.0,dash
+Jitterbug,Gin,2.0,jiggers
+Jitterbug,Vodka,1.0,jigger
+Jitterbug,Grenadine,3.0,dashes
+Jitterbug,Lime juice,1.0,shot
+Jitterbug,Sugar,1.0,pinch
+Jitterbug,Sugar syrup,3.0,dashes
+Jitterbug,Soda water,N/A,N/A
+Karsk,Coffee,1.0,
+Karsk,Grain alcohol,2.0,
+Blue Hurricane,Rum,4.0,
+Blue Hurricane,Dark Rum,2.0,
+Blue Hurricane,Passoa,1.0,
+Blue Hurricane,Blue Curacao,1.0,
+Blue Hurricane,Sweet and Sour,6.0,
+Blue Hurricane,Ice,N/A,N/A
+Grasshopper,Green Creme de Menthe,0.75,oz
+Grasshopper,Creme de Cacao,0.75,oz
+Grasshopper,Light cream,0.75,oz
+Amaretto Stone Sour #3,Sour mix,2.0,oz
+Amaretto Stone Sour #3,Amaretto,2.0,oz
+Amaretto Stone Sour #3,Tequila,2.0,oz
+Amaretto Stone Sour #3,Orange juice,N/A,N/A
+Midnight Manx,Kahlua,1.0,oz
+Midnight Manx,Bailey's irish cream,1.0,oz
+Midnight Manx,Goldschlager,N/A,N/A
+Midnight Manx,Heavy cream,2.0,oz
+Midnight Manx,Coffee,2.0,oz
+3 Wise Men,Jack Daniels,0.3333333333333333,oz
+3 Wise Men,Johnnie Walker,0.3333333333333333,oz
+3 Wise Men,Jim Beam,0.3333333333333333,oz
+Orange Oasis,Cherry brandy,0.5,oz
+Orange Oasis,Gin,5.5,oz
+Orange Oasis,Orange juice,4.0,oz
+Orange Oasis,Ginger ale,nan,N/A
+Banana Cantaloupe Smoothie,Cantaloupe,0.5,
+Banana Cantaloupe Smoothie,Banana,1.0,
+Bora Bora,Pineapple juice,10.0,
+Bora Bora,Passion fruit juice,6.0,
+Bora Bora,Lemon juice,1.0,
+Bora Bora,Grenadine,1.0,
+Affair,Strawberry schnapps,2.0,oz
+Affair,Orange juice,2.0,oz
+Affair,Cranberry juice,2.0,oz
+Affair,Club soda,nan,N/A
+Fahrenheit 5000,Firewater,0.5,oz
+Fahrenheit 5000,Absolut Peppar,0.5,oz
+Fahrenheit 5000,Tabasco sauce,1.0,dash
+Stinger,Brandy,5.5,oz
+Stinger,White Creme de Menthe,0.5,oz
+Zima Blaster,Zima,12.0,oz
+Zima Blaster,Chambord raspberry liqueur,3.0,oz
+Kamikaze,Vodka,1.0,oz
+Kamikaze,Triple sec,1.0,oz
+Kamikaze,Lime juice,1.0,oz
+Orange Whip,Orange juice,4.0,oz
+Orange Whip,Rum,1.0,oz
+Orange Whip,Vodka,1.0,oz
+Orange Whip,Cream,1.0,
+Orange Whip,Ice,N/A,N/A
+Sea breeze,Vodka,5.5,oz
+Sea breeze,Cranberry juice,4.0,oz
+Sea breeze,Grapefruit juice,1.0,oz
+Whisky Mac,Scotch,5.5,oz
+Whisky Mac,Wine,1.0,oz
+Gin And Tonic,Gin,2.0,oz
+Gin And Tonic,Tonic water,5.0,oz
+Gin And Tonic,Lime,1.0,
+Planter's Punch,Dark rum,1.0,
+Planter's Punch,Orgeat syrup,0.5,
+Planter's Punch,Orange juice,2.0,
+Planter's Punch,Pineapple juice,1.0,
+Black and Brown,Guinness stout,0.5,
+Black and Brown,Root beer,0.5,
+English Highball,Brandy,0.75,oz
+English Highball,Gin,0.75,oz
+English Highball,Sweet Vermouth,0.75,oz
+English Highball,Carbonated water,N/A,N/A
+Kool First Aid,151 proof rum,2.0,oz
+Kool First Aid,Kool-Aid,0.5,
+John Collins,Bourbon,2.0,oz
+John Collins,Lemon juice,1.0,oz
+John Collins,Sugar,1.0,
+John Collins,Club soda,3.0,oz
+John Collins,Maraschino cherry,1.0,
+John Collins,Orange,1.0,
+Hemingway Special,Rum,12.0,
+Hemingway Special,Grapefruit Juice,8.0,
+Hemingway Special,Maraschino Liqueur,3.0,
+Hemingway Special,Lime Juice,3.0,
+Scottish Highland Liqueur,Johnnie Walker,1.0,
+Scottish Highland Liqueur,Honey,5.5,cup
+Scottish Highland Liqueur,Angelica root,2.0,
+Scottish Highland Liqueur,Fennel seeds,0.25,
+Scottish Highland Liqueur,Lemon peel,22.0,inch
+Caipirissima,Lime,2.0,
+Caipirissima,Sugar,2.0,
+Caipirissima,White rum,2.0,-3 oz
+Caipirissima,Ice,N/A,N/A
+Kentucky Colonel,Bourbon,3.0,oz
+Kentucky Colonel,Benedictine,0.5,oz
+Kentucky Colonel,Lemon peel,1.0,
+Green Goblin,Cider,0.5,pint
+Green Goblin,Lager,0.5,pint
+Green Goblin,Blue Curacao,1.0,shot
+Arthur Tompkins,Gin,2.0,oz
+Arthur Tompkins,Grand Marnier,0.5,oz
+Arthur Tompkins,Lemon juice,2.0,
+Arthur Tompkins,Lemon peel,1.0,
+London Town,Gin,5.5,oz
+London Town,Maraschino liqueur,0.5,oz
+London Town,Orange bitters,2.0,dashes
+Grizzly Bear,Amaretto,1.0,
+Grizzly Bear,Jägermeister,1.0,
+Grizzly Bear,Kahlua,1.0,
+Grizzly Bear,Milk,10.5,
+Bailey's Dream Shake,Bailey's irish cream,2.0,oz
+Bailey's Dream Shake,Vanilla ice-cream,2.0,
+Bailey's Dream Shake,Cream,nan,N/A
+Penicillin,Blended Scotch,2.0,oz
+Penicillin,Lemon Juice,0.75,oz
+Penicillin,Honey syrup,2.0,
+Penicillin,Ginger Syrup,2.0,
+Penicillin,Islay single malt Scotch,0.25,oz
+Alfie Cocktail,Lemon vodka,5.5,oz
+Alfie Cocktail,Triple sec,1.0,dash
+Alfie Cocktail,Pineapple juice,1.0,
+Brainteaser,Sambuca,30.0,
+Brainteaser,Erin Cream,30.0,
+Brainteaser,Advocaat,5.0,
+Turkeyball,Wild Turkey,1.0,oz
+Turkeyball,Amaretto,0.75,oz
+Turkeyball,Pineapple juice,1.0,
+Vodka Fizz,Vodka,2.0,oz
+Vodka Fizz,Half-and-half,2.0,oz
+Vodka Fizz,Limeade,2.0,oz
+Vodka Fizz,Ice,N/A,N/A
+Egg Cream,Chocolate syrup,2.0,
+Egg Cream,Milk,6.0,oz
+Egg Cream,Soda water,6.0,oz
+Pisco Sour,Pisco,2.0,oz
+Pisco Sour,Lemon juice,1.0,oz
+Pisco Sour,Sugar,1.0,
+Pisco Sour,Ice,nan,N/A
+French Negroni,Gin,1.0,oz
+French Negroni,Lillet,1.0,oz
+French Negroni,Sweet Vermouth,1.0,oz
+French Negroni,Orange Peel,1.0,
+Shanghai Cocktail,Light rum,1.0,oz Jamaican
+Shanghai Cocktail,Anisette,1.0,
+Shanghai Cocktail,Grenadine,0.5,
+Shanghai Cocktail,Lemon,0.25,
+Zinger,Peachtree schnapps,4.0,shots
+Zinger,Surge,4.0,shots
+Arizona Twister,Vodka,1.0,shot
+Arizona Twister,Malibu rum,1.0,shot
+Arizona Twister,Gold tequila,1.0,shot
+Arizona Twister,Orange juice,1.0,
+Arizona Twister,Pineapple juice,1.0,
+Arizona Twister,Cream of coconut,1.0,
+Arizona Twister,Grenadine,1.0,dash
+Arizona Twister,Ice,N/A,N/A
+Arizona Twister,Pineapple,1.0,
+Brandon and Will's Coke Float,Vanilla ice-cream,2.0,
+Brandon and Will's Coke Float,Coca-Cola,1.0,can
+Brandon and Will's Coke Float,Bourbon,2.0,oz
+Black Forest Shake,Ice,N/A,N/A
+Black Forest Shake,Chocolate syrup,N/A,N/A
+Black Forest Shake,Vodka,N/A,N/A
+Pineapple Gingerale Smoothie,Ginger,0.25,inch
+Pineapple Gingerale Smoothie,Pineapple,0.5,
+Tia-Maria,Water,1.0,cup
+Tia-Maria,Brown sugar,0.75,-1 cup
+Tia-Maria,Coffee,4.0,
+Tia-Maria,Rum,1.0,cup
+Tia-Maria,Vanilla extract,4.0,
+Gin Daisy,Gin,2.0,oz
+Gin Daisy,Lemon juice,1.0,oz
+Gin Daisy,Sugar,0.5,
+Gin Daisy,Grenadine,0.5,
+Gin Daisy,Maraschino cherry,1.0,
+Gin Daisy,Orange,1.0,
+ABC,Amaretto,0.3333333333333333,
+ABC,Bailey's irish cream,0.3333333333333333,
+ABC,Cognac,0.3333333333333333,
+Zimadori Zinger,Midori melon liqueur,1.5,oz
+Zimadori Zinger,Zima,12.0,oz
+Bible Belt,Southern Comfort,2.0,oz
+Bible Belt,Triple sec,0.5,oz
+Bible Belt,Lime,2.0,
+Bible Belt,Sour mix,2.0,oz
+Black Russian,Coffee liqueur,0.75,oz
+Black Russian,Vodka,5.5,oz
+After Supper Cocktail,Triple sec,1.0,oz
+After Supper Cocktail,Apricot brandy,1.0,oz
+After Supper Cocktail,Lemon juice,0.5,
+Kool-Aid Shot,Vodka,1.0,shot
+Kool-Aid Shot,Amaretto,1.0,shot
+Kool-Aid Shot,Sloe gin,1.0,shot
+Kool-Aid Shot,Triple sec,1.0,shot
+Kool-Aid Shot,Cranberry juice,nan,N/A
+Black &amp; Tan,Ale,1.0,
+Black &amp; Tan,Guinness stout,1.0,
+Tipperary,Irish Whiskey,2.0,oz
+Tipperary,Sweet Vermouth,1.0,oz
+Tipperary,Green Chartreuse,0.5,oz
+Grim Reaper,Kahlua,1.0,oz
+Grim Reaper,151 proof rum,1.0,oz
+Grim Reaper,Grenadine,1.0,dash
+Chocolate Black Russian,Kahlua,1.0,oz
+Chocolate Black Russian,Vodka,0.5,oz
+Chocolate Black Russian,Chocolate ice-cream,5.0,oz
+Godmother,Vodka,5.5,oz
+Godmother,Amaretto,0.75,oz
+Mulled Wine,Water,3.0,cups
+Mulled Wine,Sugar,1.0,cup
+Mulled Wine,Cloves,12.0,
+Mulled Wine,Cinnamon,2.0,
+Mulled Wine,Lemon peel,1.0,
+Mulled Wine,Red wine,750.0,
+Mulled Wine,Brandy,0.25,cup
+Vampiro,Tequila,6.0,
+Vampiro,Tomato Juice,3.0,
+Vampiro,Orange Juice,3.0,
+Vampiro,Lime Juice,1.5,
+Vampiro,Sugar Syrup,1.0,dash
+Vampiro,Salt,1.0,pinch
+Gin Sour,Gin,2.0,oz
+Gin Sour,Lemon juice,1.0,oz
+Gin Sour,Sugar,0.5,
+Gin Sour,Orange,1.0,
+Gin Sour,Maraschino cherry,1.0,
+B-53,Kahlua,0.3333333333333333,shot
+B-53,Sambuca,0.3333333333333333,shot
+B-53,Grand Marnier,0.3333333333333333,shot
+Apple Pie with A Crust,Apple juice,3.0,
+Apple Pie with A Crust,Malibu rum,1.0,
+Apple Pie with A Crust,Cinnamon,3.0,dashes
+Port Wine Flip,Port,5.5,oz
+Port Wine Flip,Light cream,2.0,
+Port Wine Flip,Powdered sugar,1.0,
+Port Wine Flip,Egg,1.0,
+Port Wine Flip,Nutmeg,nan,N/A
+Bruce's Puce,Grenadine,N/A,N/A
+Bruce's Puce,Bailey's irish cream,nan,N/A
+Stone Sour,Apricot brandy,1.0,oz
+Stone Sour,Orange juice,1.0,oz
+Stone Sour,Sweet and sour,1.0,oz
+155 Belmont,Dark rum,1.0,shot
+155 Belmont,Light rum,2.0,shots
+155 Belmont,Vodka,1.0,shot
+155 Belmont,Orange juice,1.0,shot
+Zizi Coin-coin,Cointreau,5.0,
+Zizi Coin-coin,Lemon juice,2.0,
+Zizi Coin-coin,Ice,N/A,N/A
+Zizi Coin-coin,Lemon,N/A,N/A
+Sherry Flip,Sherry,5.5,oz
+Sherry Flip,Light cream,2.0,
+Sherry Flip,Powdered sugar,1.0,
+Sherry Flip,Egg,1.0,
+Sherry Flip,Nutmeg,nan,N/A
+Snakebite and Black,Lager,0.5,pint
+Snakebite and Black,Cider,0.5,pint
+Snakebite and Black,Blackcurrant squash,N/A,N/A
+Apricot Lady,Light rum,5.5,oz
+Apricot Lady,Apricot brandy,1.0,oz
+Apricot Lady,Triple sec,1.0,
+Apricot Lady,Lemon juice,0.5,oz
+Apricot Lady,Egg white,1.0,
+Apricot Lady,Orange,1.0,
+Barracuda,Rum,4.5,
+Barracuda,Galliano,1.5,
+Barracuda,Pineapple Juice,6.0,
+Barracuda,Lime Juice,1.0,dash
+Barracuda,Prosecco,N/A,N/A
+Royal Flush,Crown Royal,5.5,oz
+Royal Flush,Peach schnapps,1.0,oz
+Royal Flush,Chambord raspberry liqueur,0.5,oz
+Royal Flush,Cranberry juice,1.0,oz
+Sweet Sangria,Red wine,2.0,bottles
+Sweet Sangria,Sugar,1.0,cup
+Sweet Sangria,Water,2.0,cups
+Sweet Sangria,Apple,1.0,cup
+Sweet Sangria,Orange,N/A,N/A
+Sweet Sangria,Lime,N/A,N/A
+Sweet Sangria,Lemon,N/A,N/A
+Frozen Pineapple Daiquiri,Light rum,5.5,oz
+Frozen Pineapple Daiquiri,Pineapple,4.0,
+Frozen Pineapple Daiquiri,Lime juice,1.0,
+Frozen Pineapple Daiquiri,Sugar,0.5,
+Drinking Chocolate,Heavy cream,2.0,oz
+Drinking Chocolate,Milk,6.0,-8 oz
+Drinking Chocolate,Cinnamon,1.0,
+Drinking Chocolate,Vanilla,1.0,
+Drinking Chocolate,Chocolate,2.0,oz
+Drinking Chocolate,Whipped cream,N/A,N/A
+Almeria,Dark rum,2.0,oz
+Almeria,Kahlua,1.0,oz
+Almeria,Egg white,1.0,
+Butter Baby,Vanilla Ice-Cream,2.0,
+Butter Baby,Butterscotch schnapps,1.0,
+Butter Baby,Milk,N/A,N/A
+Butter Baby,Vodka,2.0,
+Adios Amigos Cocktail,Rum,1.0,shot
+Adios Amigos Cocktail,Dry Vermouth,0.5,shot
+Adios Amigos Cocktail,Cognac,0.5,shot
+Adios Amigos Cocktail,Gin,0.5,shot
+Adios Amigos Cocktail,Fresh Lime Juice,0.25,shot
+Adios Amigos Cocktail,Sugar Syrup,0.25,shot
+Adios Amigos Cocktail,Water,0.5,shot
+Waikiki Beachcomber,Triple sec,0.75,oz
+Waikiki Beachcomber,Gin,0.75,oz
+Waikiki Beachcomber,Pineapple juice,1.0,
+Scooter,Brandy,1.0,oz
+Scooter,Amaretto,1.0,oz
+Scooter,Light cream,1.0,oz
+Lady Love Fizz,Gin,2.0,oz
+Lady Love Fizz,Light cream,2.0,
+Lady Love Fizz,Powdered sugar,1.0,
+Lady Love Fizz,Lemon,0.5,
+Lady Love Fizz,Egg white,1.0,
+Lady Love Fizz,Carbonated water,nan,N/A
+Hot Creamy Bush,Irish whiskey,1.0,shot
+Hot Creamy Bush,Bailey's irish cream,0.75,shot
+Hot Creamy Bush,Coffee,6.0,oz
+Salty Dog,Grapefruit juice,5.0,oz
+Salty Dog,Gin,5.5,oz
+Salty Dog,Salt,0.25,
+Bahama Mama,Rum,3.0,
+Bahama Mama,Dark Rum,1.0,
+Bahama Mama,Banana liqueur,1.0,
+Bahama Mama,Grenadine,1.0,
+Bahama Mama,Pineapple Juice,2.0,
+Bahama Mama,Orange Juice,2.0,
+Bahama Mama,Sweet and Sour,1.0,
+Jamaican Coffee,Rum,0.16666666666666666,glass
+Jamaican Coffee,Coffee,0.16666666666666666,glass
+Jamaican Coffee,Water,0.5,glass
+Jamaican Coffee,Whipped cream,nan,N/A
+Sidecar Cocktail,Brandy,1.0,oz
+Sidecar Cocktail,Triple sec,0.5,oz
+Sidecar Cocktail,Lemon,0.25,
+Bourbon Sour,Bourbon,2.0,oz
+Bourbon Sour,Lemon juice,1.0,oz
+Bourbon Sour,Sugar,0.5,
+Bourbon Sour,Orange,1.0,
+Bourbon Sour,Maraschino cherry,1.0,
+Lone Tree Cooler,Carbonated water,N/A,N/A
+Lone Tree Cooler,Dry Vermouth,N/A,N/A
+Lone Tree Cooler,Orange spiral,N/A,N/A
+Absolutly Screwed Up,Absolut Citron,1.0,shot
+Absolutly Screwed Up,Orange juice,1.0,shot
+Absolutly Screwed Up,Triple sec,1.0,shot
+Absolutly Screwed Up,Ginger ale,N/A,N/A
+Oreo Mudslide,Vodka,1.0,oz
+Oreo Mudslide,Kahlua,1.0,oz
+Oreo Mudslide,Bailey's irish cream,1.0,oz
+Oreo Mudslide,Vanilla ice-cream,2.0,
+Oreo Mudslide,Oreo cookie,1.0,
+Arctic Mouthwash,Maui,5.0,oz
+Arctic Mouthwash,Mountain Dew,5.0,oz
+Arctic Mouthwash,Ice,N/A,N/A
+Amaretto Sunrise,Amaretto,1.0,
+Amaretto Sunrise,Orange juice,4.0,oz
+Amaretto Sunrise,Grenadine,0.25,
+New York Lemonade,Absolut Citron,2.0,oz
+New York Lemonade,Grand Marnier,1.0,oz
+New York Lemonade,Lemon juice,2.0,oz
+New York Lemonade,Club soda,1.0,oz
+Amaretto Sunset,Triple sec,0.5,jigger
+Amaretto Sunset,Amaretto,3.0,shots
+Amaretto Sunset,Cider,0.5,cup
+Amaretto Sunset,Ice,0.5,cup
+Absinthe #2,Vodka,1.0,bottle
+Absinthe #2,Sugar,50.0,
+Absinthe #2,Anise,50.0,
+Absinthe #2,Licorice root,1.0,
+Absinthe #2,Wormwood,1.0,
+Coffee Liqueur,Coffee,10.0,
+Coffee Liqueur,Vanilla extract,4.0,
+Coffee Liqueur,Sugar,10.5,cups
+Coffee Liqueur,Vodka,1.0,
+Coffee Liqueur,Water,10.5,cups
+Bermuda Highball,Brandy,0.75,oz
+Bermuda Highball,Gin,0.75,oz
+Bermuda Highball,Dry Vermouth,0.75,oz
+Bermuda Highball,Carbonated water,N/A,N/A
+Tequila Fizz,Tequila,2.0,oz
+Tequila Fizz,Lemon juice,1.0,
+Tequila Fizz,Grenadine,0.75,oz
+Tequila Fizz,Egg white,1.0,
+Tequila Fizz,Ginger ale,nan,N/A
+Gin Cooler,Gin,2.0,oz
+Gin Cooler,Carbonated water,N/A,N/A
+Gin Cooler,Orange spiral,N/A,N/A
+Nutty Irishman,Bailey's irish cream,1.0,
+Nutty Irishman,Frangelico,1.0,
+Nutty Irishman,Milk,1.0,
+747,Kahlua,0.3333333333333333,
+747,Bailey's irish cream,0.3333333333333333,
+747,Frangelico,0.3333333333333333,
+Bacardi Cocktail,Light rum,3.25,oz
+Bacardi Cocktail,Lime juice,1.0,oz
+Bacardi Cocktail,Sugar syrup,0.5,
+Bacardi Cocktail,Grenadine,1.0,dash
+Autodafé,Vodka,4.0,
+Autodafé,Lime juice,1.0,dash
+Autodafé,Soda water,nan,N/A
+Oatmeal Cookie,Kahlua,2.0,
+Oatmeal Cookie,Bailey,2.0,
+Oatmeal Cookie,Butterscotch schnapps,4.0,
+Oatmeal Cookie,Jagermeister,1.0,
+Oatmeal Cookie,Goldschlager,0.5,
+Angelica Liqueur,Angelica root,3.0,
+Angelica Liqueur,Almond,1.0,
+Angelica Liqueur,Allspice,1.0,
+Angelica Liqueur,Cinnamon,1.0,one-inch
+Angelica Liqueur,Anise,3.0,
+Angelica Liqueur,Coriander,0.125,
+Angelica Liqueur,Marjoram leaves,1.0,
+Angelica Liqueur,Vodka,1.5,cup
+Angelica Liqueur,Sugar,0.5,cup
+Angelica Liqueur,Water,0.25,cup
+Angelica Liqueur,Food coloring,1.0,
+Angelica Liqueur,Food coloring,1.0,
+Sherry Eggnog,Sherry,2.0,oz
+Sherry Eggnog,Powdered sugar,1.0,
+Sherry Eggnog,Egg,1.0,
+Sherry Eggnog,Milk,N/A,N/A
+Rum Screwdriver,Light rum,5.5,oz
+Rum Screwdriver,Orange juice,5.0,oz
+Lemon Drop,Absolut Vodka,5.5,shot
+Lemon Drop,Cointreau,5.5,shot
+Lemon Drop,Lemon,1.0,
+Bellini,Champagne,6.0,oz
+Bellini,Peach schnapps,1.0,oz
+Lassi - Sweet,Yoghurt,1.0,cup
+Lassi - Sweet,Water,2.0,cups
+Lassi - Sweet,Sugar,4.0,
+Lassi - Sweet,Salt,N/A,N/A
+Lassi - Sweet,Lemon juice,2.0,
+Jewel Of The Nile,Gin,5.5,oz
+Jewel Of The Nile,Green Chartreuse,0.5,oz
+Jewel Of The Nile,Yellow Chartreuse,0.5,oz
+Sidecar,Cognac,2.0,oz
+Sidecar,Cointreau,0.5,oz
+Sidecar,Lemon juice,1.0,oz
+Affinity,Scotch,5.5,oz
+Affinity,Sweet Vermouth,1.0,oz
+Affinity,Dry Vermouth,1.0,oz
+Affinity,Orange bitters,2.0,dashes
+Boxcar,Gin,5.5,oz
+Boxcar,Triple sec,1.0,oz
+Boxcar,Lemon juice,1.0,
+Boxcar,Grenadine,0.5,
+Boxcar,Egg white,1.0,
+Cosmopolitan Martini,Cointreau,0.5,oz
+Cosmopolitan Martini,Vodka,1.0,oz
+Cosmopolitan Martini,Lime,0.5,
+Cosmopolitan Martini,Cranberry juice,1.0,
+Jam Donut,Baileys irish cream,0.6666666666666666,oz
+Jam Donut,Chambord raspberry liqueur,0.3333333333333333,oz
+Jam Donut,Sugar syrup,1.0,
+Jam Donut,Sugar,2.0,pinches
+252,151 proof rum,0.5,shot
+252,Wild Turkey,0.5,shot
+Rum Milk Punch,Light rum,2.0,oz
+Rum Milk Punch,Milk,1.0,cup
+Rum Milk Punch,Powdered sugar,1.0,
+Rum Milk Punch,Nutmeg,nan,N/A
+Berry Deadly,Everclear,2.0,pint
+Berry Deadly,Wine,1.0,bottle
+Berry Deadly,Orange juice,0.5,
+Berry Deadly,Kool-Aid,1.0,
+Castillian Hot Chocolate,Cocoa powder,0.5,cup
+Castillian Hot Chocolate,Sugar,1.0,cup
+Castillian Hot Chocolate,Cornstarch,7.0,
+Castillian Hot Chocolate,Water,0.5,cup
+Castillian Hot Chocolate,Milk,1.0,
+Brandy Flip,Brandy,2.0,oz
+Brandy Flip,Egg,1.0,
+Brandy Flip,Sugar,1.0,
+Brandy Flip,Light cream,0.5,oz
+Brandy Flip,Nutmeg,0.125,
+Girl From Ipanema,Cachaca,25.0,
+Girl From Ipanema,Lemon Juice,15.0,
+Girl From Ipanema,Agave Syrup,10.0,
+Girl From Ipanema,Champagne,N/A,N/A
+Vodka Russian,Vodka,2.0,oz
+Vodka Russian,Schweppes Russchian,nan,N/A
+Holloween Punch,Grape juice,N/A,N/A
+Holloween Punch,", orange
+",N/A,N/A
+Holloween Punch,Sherbet,nan,N/A
+Kool-Aid Slammer,Kool-Aid,0.5,oz
+Kool-Aid Slammer,Vodka,0.5,oz
+Apricot punch,Apricot brandy,1.0,
+Apricot punch,Champagne,4.0,
+Apricot punch,Vodka,1.0,
+Apricot punch,7-Up,4.0,
+Apricot punch,Orange juice,0.5,
+Absolutely Fabulous,Vodka,1.0,shot
+Absolutely Fabulous,Cranberry Juice,2.0,shots
+Absolutely Fabulous,Champagne,N/A,N/A
+Iced Coffee Fillip,Kahlua,2.0,
+Iced Coffee Fillip,Coffee,N/A,N/A
+Dark and Stormy,Dark Rum,5.0,
+Dark and Stormy,Ginger Beer,10.0,
+ACID,151 proof rum,1.0,oz
+ACID,Wild Turkey,1.0,oz
+Sex on the Beach,Vodka,1.0,oz
+Sex on the Beach,Peach schnapps,0.75,oz
+Sex on the Beach,Cranberry juice,N/A,N/A
+A Night In Old Mandalay,Light rum,1.0,oz
+A Night In Old Mandalay,Añejo rum,1.0,oz
+A Night In Old Mandalay,Orange juice,1.0,oz
+A Night In Old Mandalay,Lemon juice,0.5,oz
+A Night In Old Mandalay,Ginger ale,3.0,oz
+A Night In Old Mandalay,Lemon peel,1.0,
+Lord And Lady,Dark rum,5.5,oz
+Lord And Lady,Tia maria,0.5,oz
+Absolut Stress #2,Absolut Vodka,5.5,oz
+Absolut Stress #2,Peach schnapps,0.5,oz
+Absolut Stress #2,Coconut liqueur,0.5,oz
+Absolut Stress #2,Cranberry juice,5.5,oz
+Absolut Stress #2,Pineapple juice,5.5,oz
+Porto flip,Brandy,3.0,
+Porto flip,Port,9.0,
+Porto flip,Egg Yolk,2.0,
+Egg-Nog - Classic Cooked,Egg,6.0,
+Egg-Nog - Classic Cooked,Sugar,0.25,cup
+Egg-Nog - Classic Cooked,Salt,0.25,
+Egg-Nog - Classic Cooked,Milk,1.0,
+Egg-Nog - Classic Cooked,Vanilla extract,1.0,
+Cream Soda,Spiced rum,1.0,oz
+Cream Soda,Ginger ale,nan,N/A
+A1,Gin,3.25,shot
+A1,Grand Marnier,1.0,
+A1,Lemon Juice,0.25,
+A1,Grenadine,0.125,
+Bombay Cassis,Gin,50.0,
+Bombay Cassis,Creme de Cassis,20.0,
+Bombay Cassis,Fresh Lime Juice,15.0,
+Bombay Cassis,Ginger beer,75.0,
+Bombay Cassis,Lime,1.0,
+Bombay Cassis,Ginger,1.0,
+Creme de Menthe,Sugar,8.0,cups
+Creme de Menthe,Water,6.0,cups
+Creme de Menthe,Grain alcohol,1.0,pint
+Creme de Menthe,Peppermint extract,1.0,oz
+Creme de Menthe,Food coloring,1.0,
+Addison,Gin,5.5,shot
+Addison,Vermouth,5.5,shot
+Amaretto Sweet &amp; Sour,Amaretto,N/A,N/A
+Amaretto Sweet &amp; Sour,Midori melon liqueur,N/A,N/A
+Bob Marley,Midori melon liqueur,0.5,oz
+Bob Marley,Jägermeister,0.5,oz
+Bob Marley,Goldschlager,0.5,oz
+Japanese Fizz,Blended whiskey,5.5,oz
+Japanese Fizz,Lemon,0.5,
+Japanese Fizz,Powdered sugar,1.0,
+Japanese Fizz,Port,1.0,
+Japanese Fizz,Egg white,1.0,
+Japanese Fizz,Carbonated water,nan,N/A
+Rosemary Blue,Gin,50.0,
+Rosemary Blue,Blue Curacao,15.0,
+Rosemary Blue,Tonic Water,100.0,
+Rosemary Blue,Rosemary,N/A,N/A
+Long Island Iced Tea,Vodka,0.5,oz
+Long Island Iced Tea,Tequila,0.5,oz
+Long Island Iced Tea,Light rum,0.5,oz
+Long Island Iced Tea,Gin,0.5,oz
+Long Island Iced Tea,Coca-Cola,1.0,dash
+Long Island Iced Tea,Lemon peel,N/A,N/A
+Old Pal,Rye whiskey,2.0,oz
+Old Pal,Campari,1.0,oz
+Old Pal,Dry Vermouth,1.0,oz
+Jack's Vanilla Coke,Ice,4.0,
+Jack's Vanilla Coke,Tennessee whiskey,2.0,oz
+Jack's Vanilla Coke,Vanilla extract,1.0,
+Jack's Vanilla Coke,Coca-Cola,10.0,-12 oz
+Bourbon Sling,Sugar,1.0,
+Bourbon Sling,Water,2.0,
+Bourbon Sling,Lemon juice,1.0,oz
+Bourbon Sling,Bourbon,2.0,oz
+Bourbon Sling,Lemon peel,1.0,
+Quick F**K,Kahlua,1.0,
+Quick F**K,Midori melon liqueur,1.0,
+Quick F**K,Bailey's irish cream,1.0,
+Lassi - A South Indian Drink,Yoghurt,0.5,cup
+Lassi - A South Indian Drink,Water,2.75,cup
+Lassi - A South Indian Drink,Cumin seed,0.5,
+Lassi - A South Indian Drink,Salt,0.25,
+Lassi - A South Indian Drink,Mint,0.25,
+Lassi Khara,Yoghurt,1.0,cup
+Lassi Khara,Water,2.0,cups
+Lassi Khara,Salt,1.0,
+Lassi Khara,Asafoetida,1.0,pinch
+Rum Cobbler,Sugar,1.0,
+Rum Cobbler,Club soda,3.0,oz
+Rum Cobbler,Lemon,1.0,
+Rum Cobbler,Dark rum,2.0,oz
+Rum Cobbler,Maraschino cherry,1.0,
+Rum Cobbler,Orange,1.0,
+Radioactive Long Island Iced Tea,Rum,1.0,oz
+Radioactive Long Island Iced Tea,Vodka,1.0,oz
+Radioactive Long Island Iced Tea,Tequila,1.0,oz
+Radioactive Long Island Iced Tea,Gin,1.0,oz
+Radioactive Long Island Iced Tea,Triple sec,1.0,oz
+Radioactive Long Island Iced Tea,Chambord raspberry liqueur,1.0,oz
+Radioactive Long Island Iced Tea,Midori melon liqueur,1.0,oz
+Radioactive Long Island Iced Tea,Malibu rum,1.0,oz
+Jello shots,Vodka,2.0,cups
+Jello shots,Jello,3.0,
+Jello shots,Water,3.0,cups
+Banana Milk Shake,Milk,10.0,
+Banana Milk Shake,Orange juice,4.0,
+Banana Milk Shake,Sugar syrup,2.0,
+Banana Milk Shake,Banana,0.5,
+Thai Iced Tea,Tea,0.25,cup
+Thai Iced Tea,Water,0.5,cup
+Thai Iced Tea,Condensed milk,2.0,
+Thai Iced Tea,Ice,N/A,N/A
+Thai Iced Tea,Mint,nan,N/A
+Abbey Cocktail,Gin,5.5,oz
+Abbey Cocktail,Orange bitters,1.0,dash
+Abbey Cocktail,Orange,0.25,
+Abbey Cocktail,Cherry,1.0,
+Avalanche,Crown Royal,1.0,shot
+Avalanche,Kahlua,1.0,shot
+Avalanche,Cream,N/A,N/A
+A Day at the Beach,Coconut rum,1.0,oz
+A Day at the Beach,Amaretto,0.5,oz
+A Day at the Beach,Orange juice,4.0,oz
+A Day at the Beach,Grenadine,0.5,oz
+English Rose Cocktail,Apricot brandy,0.75,oz
+English Rose Cocktail,Gin,5.5,oz
+English Rose Cocktail,Dry Vermouth,0.75,oz
+English Rose Cocktail,Grenadine,1.0,
+English Rose Cocktail,Lemon juice,0.25,
+English Rose Cocktail,Cherry,1.0,
+San Francisco,Vodka,2.0,
+San Francisco,Creme de Banane,2.0,
+San Francisco,Grenadine,N/A,N/A
+Miami Vice,151 proof rum,5.0,oz
+Miami Vice,Pina colada mix,N/A,N/A
+Miami Vice,Daiquiri mix,N/A,N/A
+Bramble,Gin,4.0,
+Bramble,lemon juice,1.5,
+Bramble,Sugar syrup,1.0,
+Bramble,Creme de Mure,1.5,
+Bellini Martini,Ice,8.0,
+Bellini Martini,Vodka,3.0,oz
+Bellini Martini,Peach nectar,1.5,oz
+Bellini Martini,Peach schnapps,1.5,oz
+Bellini Martini,Lemon peel,1.0,
+Corpse Reviver #2,Gin,0.75,oz
+Corpse Reviver #2,Triple Sec,0.75,oz
+Corpse Reviver #2,Lillet Blanc,0.75,oz
+Corpse Reviver #2,Lemon Juice,0.75,oz
+Corpse Reviver #2,Absinthe,1.0,dash
+Dry Rob Roy,Scotch,10.5,oz
+Dry Rob Roy,Dry Vermouth,5.5,
+Dry Rob Roy,Lemon peel,1.0,
+Rum Sour,Light rum,2.0,oz
+Rum Sour,Lemon juice,1.0,oz
+Rum Sour,Sugar,0.5,
+Rum Sour,Orange,1.0,
+Rum Sour,Maraschino cherry,1.0,
+Artillery Punch,Tea,1.0,
+Artillery Punch,Rye whiskey,1.0,
+Artillery Punch,Red wine,1.0,
+Artillery Punch,Rum,1.0,pint Jamaican
+Artillery Punch,Brandy,0.5,pint
+Artillery Punch,Benedictine,5.5,oz
+Artillery Punch,Orange juice,1.0,pint
+Artillery Punch,Lemon juice,0.5,pint
+Malibu Twister,Malibu rum,2.0,
+Malibu Twister,Tropicana,2.0,
+Malibu Twister,Cranberry juice,1.0,
+Casino,Gin,2.0,oz
+Casino,Maraschino liqueur,0.25,
+Casino,Lemon juice,0.25,
+Casino,Orange bitters,2.0,dashes
+Casino,Cherry,1.0,
+Highland Fling Cocktail,Scotch,5.5,oz
+Highland Fling Cocktail,Sweet Vermouth,0.75,oz
+Highland Fling Cocktail,Orange bitters,2.0,dashes
+Highland Fling Cocktail,Olive,1.0,
+Alice Cocktail,Grenadine,1.0,
+Alice Cocktail,Orange juice,1.0,
+Alice Cocktail,Pineapple juice,2.0,
+Alice Cocktail,Cream,4.0,
+Pina Colada,Light rum,3.0,oz
+Pina Colada,Coconut milk,3.0,
+Pina Colada,Pineapple,3.0,
+Queen Elizabeth,Dry Vermouth,0.5,oz
+Queen Elizabeth,Gin,5.5,oz
+Queen Elizabeth,Benedictine,5.5,
+Quentin,Dark rum,5.5,oz
+Quentin,Kahlua,0.5,oz
+Quentin,Light cream,1.0,oz
+Quentin,Nutmeg,0.125,
+Brave Bull Shooter,Tequila,0.5,oz
+Brave Bull Shooter,Tabasco sauce,0.5,oz
+Aztec Punch,Lemonade,1.0,can
+Aztec Punch,Vodka,5.0,oz
+Aztec Punch,Rum,7.0,oz
+Aztec Punch,Ginger ale,1.0,bottle
+A Piece of Ass,Amaretto,1.0,shot
+A Piece of Ass,Southern Comfort,1.0,shot
+A Piece of Ass,Ice,N/A,N/A
+A Piece of Ass,Sour mix,nan,N/A
+Americano,Campari,1.0,oz
+Americano,Sweet Vermouth,1.0,oz
+Americano,Lemon peel,N/A,N/A
+Americano,Orange peel,N/A,N/A
+Chicago Fizz,Light rum,1.0,oz
+Chicago Fizz,Port,1.0,oz
+Chicago Fizz,Lemon,0.5,
+Chicago Fizz,Powdered sugar,1.0,
+Chicago Fizz,Egg white,1.0,
+Chicago Fizz,Carbonated water,nan,N/A
+Daiquiri,Light rum,5.5,oz
+Daiquiri,Lime,0.5,
+Daiquiri,Powdered sugar,1.0,
+Cherry Rum,Light rum,2.75,oz
+Cherry Rum,Cherry brandy,5.5,
+Cherry Rum,Light cream,1.0,
+Zipperhead,Chambord raspberry liqueur,1.0,shot
+Zipperhead,Vodka,1.0,shot
+Zipperhead,Soda water,N/A,N/A
+Port And Starboard,Grenadine,1.0,
+Port And Starboard,Green Creme de Menthe,0.5,oz
+151 Florida Bushwacker,Malibu rum,0.5,oz
+151 Florida Bushwacker,Light rum,0.5,oz
+151 Florida Bushwacker,151 proof rum,0.5,oz
+151 Florida Bushwacker,Dark Creme de Cacao,1.0,oz
+151 Florida Bushwacker,Cointreau,1.0,oz
+151 Florida Bushwacker,Milk,3.0,oz
+151 Florida Bushwacker,Coconut liqueur,1.0,oz
+151 Florida Bushwacker,Vanilla ice-cream,1.0,cup
+Absolutely Cranberry Smash,Absolut Vodka,2.0,oz
+Absolutely Cranberry Smash,Cranberry juice,4.0,oz
+Absolutely Cranberry Smash,Ginger ale,2.0,oz
+Absolutely Cranberry Smash,Ice,N/A,N/A
+National Aquarium,Rum,0.5,oz
+National Aquarium,Vodka,0.5,oz
+National Aquarium,Gin,0.5,oz
+National Aquarium,Blue Curacao,0.5,oz
+National Aquarium,Sour mix,2.0,oz
+National Aquarium,Lemon-lime soda,1.0,
+Strawberry Lemonade,Lemon,1.0,
+Strawberry Lemonade,Sugar,1.0,
+Strawberry Lemonade,Strawberries,8.0,
+Strawberry Lemonade,Water,1.0,cup
+Cuba Libra,Dark rum,1.0,-2 shot
+Cuba Libra,Lime,N/A,N/A
+Cuba Libra,Coca-Cola,N/A,N/A
+Cuba Libra,Ice,nan,N/A
+Arizona Stingers,Absolut Vodka,2.0,shots
+Arizona Stingers,Iced tea,12.0,oz
+Gin Rickey,Gin,2.0,oz
+Gin Rickey,Grenadine,1.0,
+Gin Rickey,lemon,0.5,
+Gin Rickey,Soda Water,N/A,N/A
+Gin Rickey,Lime,N/A,N/A
+Red Snapper,Crown Royal,1.0,shot
+Red Snapper,Amaretto,1.0,shot
+Red Snapper,Cranberry juice,1.0,shot
+Gimlet,Gin,10.5,oz
+Gimlet,Lime Juice,0.5,oz
+Gimlet,Sugar Syrup,0.5,oz
+Gimlet,Lime,1.0,
+Quarter Deck Cocktail,Light rum,5.5,
+Quarter Deck Cocktail,Sherry,0.3333333333333333,oz
+Quarter Deck Cocktail,Lime,0.5,
+Talos Coffee,Grand Marnier,3.0,
+Talos Coffee,Coffee,1.0,
+Lunch Box,Beer,0.75,bottle
+Lunch Box,Amaretto,1.0,shot
+Lunch Box,Orange juice,1.0,oz
+Brandy Cobbler,Sugar,1.0,
+Brandy Cobbler,Club soda,3.0,oz
+Brandy Cobbler,Lemon,1.0,
+Brandy Cobbler,Brandy,2.0,oz
+Brandy Cobbler,Maraschino cherry,1.0,
+Brandy Cobbler,Orange,1.0,
+Shot-gun,Jim Beam,1.0,
+Shot-gun,Jack Daniels,1.0,
+Shot-gun,Wild Turkey,1.0,oz
+Rose,Dry Vermouth,0.5,oz
+Rose,Gin,1.0,oz
+Rose,Apricot brandy,0.5,oz
+Rose,Lemon juice,0.5,
+Rose,Grenadine,1.0,
+Rose,Powdered sugar,nan,N/A
+Limona Corona,Corona,1.0,bottle
+Limona Corona,Bacardi Limon,1.0,oz
+Dragonfly,Gin,5.5,oz
+Dragonfly,Ginger ale,4.0,oz
+Dragonfly,Lime,1.0,
+New York Sour,Blended whiskey,2.0,oz
+New York Sour,Lemon,0.5,
+New York Sour,Sugar,1.0,
+New York Sour,Red wine,N/A,N/A
+New York Sour,Lemon,N/A,N/A
+Zorro,Sambuca,2.0,
+Zorro,Bailey's irish cream,2.0,
+Zorro,White Creme de Menthe,2.0,
+After Five,Peppermint schnapps,N/A,N/A
+After Five,Bailey's irish cream,nan,N/A
+Brandy Alexander,Brandy,1.0,oz
+Brandy Alexander,Creme de Cacao,1.0,oz
+Brandy Alexander,Light cream,1.0,oz
+Brandy Alexander,Nutmeg,nan,N/A
+Artillery,Sweet Vermouth,5.5,
+Artillery,Gin,5.5,oz
+Artillery,Bitters,2.0,dashes
+Bumble Bee #1,Bailey's irish cream,0.3333333333333333,oz
+Bumble Bee #1,Kahlua,0.3333333333333333,oz
+Bumble Bee #1,Sambuca,0.3333333333333333,oz
+Fuzzy Asshole,Coffee,0.5,
+Fuzzy Asshole,Peach schnapps,0.5,
+Addington,Sweet Vermouth,2.0,shots
+Addington,Dry Vermouth,1.0,shot
+Addington,Soda Water,N/A,N/A
+Bruised Heart,Vodka,0.5,oz
+Bruised Heart,Chambord raspberry liqueur,0.5,oz
+Bruised Heart,Peachtree schnapps,0.5,oz
+Bruised Heart,Cranberry juice,0.5,oz
+White Russian,Vodka,2.0,oz
+White Russian,Coffee liqueur,1.0,oz
+White Russian,Light cream,nan,N/A
+Casino Royale,Gin,2.0,oz
+Casino Royale,Lemon juice,0.5,oz
+Casino Royale,Maraschino liqueur,1.0,
+Casino Royale,Orange bitters,1.0,dash
+Casino Royale,Egg yolk,1.0,
+French Connection,Cognac,5.5,oz
+French Connection,Amaretto,0.75,oz
+Sol Y Sombra,Brandy,5.5,oz
+Sol Y Sombra,Anisette,5.5,oz
+Owen's Grandmother's Revenge,Whiskey,12.0,oz
+Owen's Grandmother's Revenge,Beer,12.0,oz
+Owen's Grandmother's Revenge,Lemonade,12.0,oz
+Owen's Grandmother's Revenge,Ice,1.0,cup
+Lemon Shot,Galliano,0.5,oz
+Lemon Shot,Absolut Citron,0.5,oz
+Lemon Shot,Lemon,N/A,N/A
+Lemon Shot,Sugar,N/A,N/A
+Lemon Shot,151 proof rum,nan,N/A
+Irish Coffee,Irish whiskey,5.5,oz
+Irish Coffee,Coffee,8.0,oz
+Irish Coffee,Sugar,1.0,
+Irish Coffee,Whipped cream,1.0,
+Cranberry Cordial,Cranberries,0.5,
+Cranberry Cordial,Sugar,0.75,
+Cranberry Cordial,Light rum,0.5,
+Turf Cocktail,Dry Vermouth,1.0,oz
+Turf Cocktail,Gin,1.0,oz
+Turf Cocktail,Anis,0.25,
+Turf Cocktail,Bitters,2.0,dashes
+Turf Cocktail,Orange peel,N/A,N/A
+Sweet Tooth,Godiva liqueur,2.0,shots
+Sweet Tooth,Milk,nan,N/A
+Frozen Mint Daiquiri,Light rum,2.0,oz
+Frozen Mint Daiquiri,Lime juice,1.0,
+Frozen Mint Daiquiri,Mint,6.0,
+Frozen Mint Daiquiri,Sugar,1.0,
+Rusty Nail,Scotch,5.5,oz
+Rusty Nail,Drambuie,0.5,oz
+Rusty Nail,Lemon peel,1.0,
+Cuba Libre,Light rum,2.0,oz
+Cuba Libre,Lime,0.5,
+Cuba Libre,Coca-Cola,nan,N/A
+Mojito #3,Mint,0.5,
+Mojito #3,Lemon juice,3.0,
+Mojito #3,Dark rum,0.125,L Jamaican
+Mojito #3,Club soda,0.125,
+Mojito #3,Angostura bitters,8.0,
+Sunny Holiday Punch,Pineapple juice,46.0,oz
+Sunny Holiday Punch,Club soda,28.0,oz
+Sunny Holiday Punch,Orange juice,6.0,oz
+Sunny Holiday Punch,Lemon,1.0,
+Sunny Holiday Punch,Berries,2.0,cups
+Sunny Holiday Punch,Champagne,1.0,bottle
+Royal Bitch,Frangelico,1.0,
+Royal Bitch,Crown Royal,1.0,
+Afterglow,Grenadine,1.0,
+Afterglow,Orange juice,4.0,
+Afterglow,Pineapple juice,4.0,
+Microwave Hot Cocoa,Sugar,5.0,
+Microwave Hot Cocoa,Cocoa powder,3.0,
+Microwave Hot Cocoa,Salt,1.0,dash
+Microwave Hot Cocoa,Water,3.0,
+Microwave Hot Cocoa,Milk,2.0,cups
+Microwave Hot Cocoa,Vanilla extract,0.25,
+Herbal flame,Hot Damn,5.0,shots
+Herbal flame,Tea,N/A,N/A
+501 Blue,Blue Curacao,N/A,N/A
+501 Blue,Vodka,N/A,N/A
+501 Blue,7-Up,nan,N/A
+Veteran,Dark rum,2.0,oz
+Veteran,Cherry brandy,0.5,oz
+Van Vleet,Light rum,3.0,oz
+Van Vleet,Maple syrup,1.0,oz
+Van Vleet,Lemon juice,1.0,oz
+Grass Skirt,Gin,5.5,oz
+Grass Skirt,Triple sec,1.0,oz
+Grass Skirt,Pineapple juice,1.0,oz
+Grass Skirt,Grenadine,0.5,
+Grass Skirt,Pineapple,1.0,
+Applecar,Applejack,1.0,oz
+Applecar,Triple sec,1.0,oz
+Applecar,Lemon juice,1.0,oz
+Almond Chocolate Coffee,Amaretto,0.75,oz
+Almond Chocolate Coffee,Dark Creme de Cacao,0.5,oz
+Almond Chocolate Coffee,Coffee,8.0,oz
+Shark Attack,Lemonade,1.0,can
+Shark Attack,Water,3.0,cans
+Shark Attack,Vodka,5.5,cup
+Blue Margarita,Tequila,5.5,oz
+Blue Margarita,Blue Curacao,1.0,oz
+Blue Margarita,Lime juice,1.0,oz
+Blue Margarita,Salt,N/A,N/A
+Absolut Sex,Absolut Kurant,0.75,oz
+Absolut Sex,Midori melon liqueur,0.75,oz
+Absolut Sex,Cranberry juice,1.0,oz
+Absolut Sex,Sprite,1.0,
+Imperial Fizz,Light rum,0.5,oz
+Imperial Fizz,Blended whiskey,5.5,oz
+Imperial Fizz,Lemon,0.5,
+Imperial Fizz,Powdered sugar,1.0,
+Imperial Fizz,Carbonated water,nan,N/A
+Tequila Sunrise,Tequila,2.0,
+Tequila Sunrise,Orange juice,N/A,N/A
+Banana Daiquiri,Light rum,5.5,oz
+Banana Daiquiri,Triple sec,1.0,
+Banana Daiquiri,Banana,1.0,
+Banana Daiquiri,Lime juice,5.5,oz
+Banana Daiquiri,Sugar,1.0,
+Banana Daiquiri,Cherry,1.0,
+Grand Blue,Malibu rum,5.5,
+Grand Blue,Peach schnapps,5.5,
+Grand Blue,Blue Curacao,5.5,
+Grand Blue,Sweet and sour,3.0,
+Adonis Cocktail,Sweet Vermouth,0.75,oz
+Adonis Cocktail,Sherry,5.5,oz
+Adonis Cocktail,Orange bitters,1.0,dash
+Brigadier,Hot Chocolate,4.0,oz
+Brigadier,Green Chartreuse,1.0,oz
+Brigadier,Cherry Heering,1.0,oz
+Brain Fart,Everclear,1.0,
+Brain Fart,Vodka,1.0,
+Brain Fart,Mountain Dew,2.0,
+Brain Fart,Surge,2.0,
+Brain Fart,Lemon juice,1.0,small bottle
+Brain Fart,Rum,1.0,pint
+Radler,Beer,12.0,oz
+Radler,7-Up,12.0,oz
+Mocha-Berry,Coffee,6.0,oz
+Mocha-Berry,Chambord raspberry liqueur,2.0,oz
+Mocha-Berry,Cocoa powder,2.0,
+Mocha-Berry,Whipped cream,nan,N/A
+AT&amp;T;,Absolut Vodka,1.0,oz
+AT&amp;T;,Gin,1.0,oz
+AT&amp;T;,Tonic water,4.0,oz
+Hunter's Moon,Vermouth,25.0,
+Hunter's Moon,Maraschino Cherry,15.0,
+Hunter's Moon,Sugar Syrup,10.0,
+Hunter's Moon,Lemonade,100.0,
+Hunter's Moon,Blackberries,2.0,
+Rum Runner,Malibu rum,5.5,oz
+Rum Runner,Blackberry brandy,1.0,oz
+Rum Runner,Orange juice,3.0,-4 oz
+Rum Runner,Pineapple juice,3.0,-4 oz
+Rum Runner,Cranberry juice,3.0,-4 oz
+Space Odyssey,151 proof rum,1.0,shot
+Space Odyssey,Malibu rum,1.0,shot
+Space Odyssey,Pineapple juice,1.0,shot
+Space Odyssey,Orange juice,N/A,N/A
+Space Odyssey,Cherries,nan,N/A
+Cranberry Punch,Cranberry juice,4.0,cups
+Cranberry Punch,Sugar,5.5,cup
+Cranberry Punch,Pineapple juice,4.0,cups
+Cranberry Punch,Almond flavoring,1.0,
+Cranberry Punch,Ginger ale,2.0,
+Thriller,Scotch,5.5,oz
+Thriller,Wine,1.0,oz
+Thriller,Orange juice,1.0,oz
+Strawberry Margarita,Strawberry schnapps,0.5,oz
+Strawberry Margarita,Tequila,1.0,oz
+Strawberry Margarita,Triple sec,0.5,oz
+Strawberry Margarita,Lemon juice,1.0,oz
+Strawberry Margarita,Strawberries,1.0,oz
+Strawberry Margarita,Salt,nan,N/A
+Strawberry Shivers,Strawberries,5.5,cup
+Strawberry Shivers,Honey,4.0,
+Strawberry Shivers,Water,0.5,cup
+Quaker's Cocktail,Light rum,0.75,oz
+Quaker's Cocktail,Brandy,0.75,oz
+Quaker's Cocktail,Lemon,0.25,
+Quaker's Cocktail,Raspberry syrup,2.0,
+A True Amaretto Sour,Amaretto,1.0,jigger
+A True Amaretto Sour,Lemon,0.5,
+A True Amaretto Sour,Ice,N/A,N/A
+A.D.M. (After Dinner Mint),White Creme de Menthe,0.5,oz
+A.D.M. (After Dinner Mint),Southern Comfort,0.75,oz
+A.D.M. (After Dinner Mint),Vodka,0.5,oz
+A.D.M. (After Dinner Mint),Hot chocolate,N/A,N/A
+Almond Joy,Amaretto,0.5,oz
+Almond Joy,Creme de Cacao,0.5,oz
+Almond Joy,Light cream,2.0,oz
+Old Fashioned,Bourbon,4.5,
+Old Fashioned,Angostura bitters,2.0,dashes
+Old Fashioned,Sugar,1.0,
+Old Fashioned,Water,N/A,N/A
+Amaretto Stone Sour,Amaretto,1.0,
+Amaretto Stone Sour,Sour mix,1.0,
+Amaretto Stone Sour,Orange juice,1.0,
+Adam Bomb,Rum,1.0,
+Adam Bomb,Vodka,1.0,
+Adam Bomb,Tequila,1.0,
+Adam Bomb,Triple sec,0.5,
+Adam Bomb,Fruit,N/A,N/A
+Adam Bomb,Salt,1.0,-3 pint
+Adam Bomb,Fruit juice,nan,N/A
+Moranguito,Absinthe,0.4,
+Moranguito,Tequila,0.4,
+Moranguito,Grenadine,0.2,
+Diesel,Lager,0.5,pint
+Diesel,Cider,0.5,pint
+Diesel,Blackcurrant cordial,1.0,dash
+Smut,Red wine,0.3333333333333333,
+Smut,Peach schnapps,1.0,shot
+Smut,Pepsi Cola,0.3333333333333333,
+Smut,Orange juice,0.3333333333333333,
+California Root Beer,Kahlua,0.75,oz
+California Root Beer,Galliano,0.75,oz
+California Root Beer,Soda water,N/A,N/A
+Irish Cream,Scotch,1.0,cup
+Irish Cream,Half-and-half,2.75,cup
+Irish Cream,Condensed milk,1.0,can
+Irish Cream,Coconut syrup,3.0,
+Irish Cream,Chocolate syrup,1.0,
+Apple Grande,Tequila,3.0,oz
+Apple Grande,Apple cider,12.0,oz
+Screaming Orgasm,Vodka,1.0,oz
+Screaming Orgasm,Bailey's irish cream,5.5,oz
+Screaming Orgasm,Kahlua,0.5,oz
+Amaretto Rose,Amaretto,5.5,oz
+Amaretto Rose,Lime juice,0.5,oz
+Amaretto Rose,Club soda,nan,N/A
+Lassi Raita,Yoghurt,2.0,cups
+Lassi Raita,Ice,4.0,
+Lassi Raita,Sugar,N/A,N/A
+Lassi Raita,Salt,nan,N/A
+Godchild,Vodka,1.0,oz
+Godchild,Amaretto,1.0,oz
+Godchild,Heavy cream,1.0,oz
+Big Red,Irish cream,0.5,oz
+Big Red,Goldschlager,0.5,oz
+Absolut limousine,Absolut Citron,0.6666666666666666,
+Absolut limousine,Lime juice,0.3333333333333333,
+Absolut limousine,Ice,N/A,N/A
+Absolut limousine,Tonic water,N/A,N/A
+Amaretto Liqueur,Sugar,1.0,cup
+Amaretto Liqueur,Water,0.75,cup
+Amaretto Liqueur,Apricot,2.0,
+Amaretto Liqueur,Almond flavoring,1.0,
+Amaretto Liqueur,Grain alcohol,0.5,cup
+Amaretto Liqueur,Water,0.5,cup
+Amaretto Liqueur,Brandy,1.0,cup
+Amaretto Liqueur,Food coloring,3.0,
+Amaretto Liqueur,Food coloring,6.0,
+Amaretto Liqueur,Food coloring,2.0,
+Amaretto Liqueur,Glycerine,0.5,
+Boomerang,Gin,2.0,oz
+Boomerang,Dry Vermouth,0.5,oz
+Boomerang,Bitters,2.0,dashes
+Boomerang,Maraschino liqueur,0.5,
+Boomerang,Maraschino cherry,1.0,
+Army special,Vodka,30.0,
+Army special,Gin,30.0,
+Army special,Lime juice cordial,45.0,
+Army special,Ice,0.5,glass
+Bloody Mary,Vodka,5.5,oz
+Bloody Mary,Tomato juice,3.0,oz
+Bloody Mary,Lemon juice,1.0,dash
+Bloody Mary,Worcestershire sauce,0.5,
+Bloody Mary,Tabasco sauce,2.0,
+Bloody Mary,Lime,1.0,
+Amaretto Tea,Tea,6.0,oz
+Amaretto Tea,Amaretto,2.0,oz
+Amaretto Tea,Whipped cream,N/A,N/A
+Vesper,Gin,6.0,
+Vesper,Vodka,1.5,
+Vesper,Lillet Blanc,0.75,
+Atlantic Sun,Vodka,2.0,
+Atlantic Sun,Southern Comfort,2.0,
+Atlantic Sun,Passion fruit syrup,2.0,
+Atlantic Sun,Sweet and sour,6.0,
+Atlantic Sun,Club soda,1.0,dash
+Orange Scented Hot Chocolate,Milk,2.0,cups
+Orange Scented Hot Chocolate,Chocolate,4.0,oz
+Orange Scented Hot Chocolate,Orange peel,32.0,-inch
+Orange Scented Hot Chocolate,Espresso,0.5,
+Orange Scented Hot Chocolate,Nutmeg,0.125,
+Banana Strawberry Shake,Strawberries,0.5,
+Banana Strawberry Shake,Banana,1.0,
+Banana Strawberry Shake,Yoghurt,1.0,cup
+Banana Strawberry Shake,Milk,1.0,cup
+Banana Strawberry Shake,Honey,N/A,N/A
+Fruit Shake,Yoghurt,1.0,cup
+Fruit Shake,Banana,1.0,
+Fruit Shake,Orange juice,4.0,oz
+Fruit Shake,Fruit,0.5,
+Fruit Shake,Ice,6.0,
+Vesuvio,Light rum,1.0,oz
+Vesuvio,Sweet Vermouth,0.5,oz
+Vesuvio,Lemon,0.5,
+Vesuvio,Powdered sugar,1.0,
+Vesuvio,Egg white,1.0,
+Tomato Tang,Tomato juice,2.0,cups
+Tomato Tang,Lemon juice,1.0,
+Tomato Tang,Celery salt,1.0,dash
+Rum Toddy,Rum,2.0,oz
+Rum Toddy,Powdered sugar,2.0,
+Rum Toddy,Lemon peel,1.0,
+Rum Toddy,Water,2.0,
+Moscow Mule,Vodka,2.0,oz
+Moscow Mule,Lime juice,2.0,oz
+Moscow Mule,Ginger ale,8.0,oz
+Orgasm,Creme de Cacao,0.5,oz
+Orgasm,Amaretto,0.5,oz
+Orgasm,Triple sec,0.5,oz
+Orgasm,Vodka,0.5,oz
+Orgasm,Light cream,1.0,oz
+Banana Strawberry Shake Daiquiri-type,Strawberries,0.5,
+Banana Strawberry Shake Daiquiri-type,Banana,1.0,
+Banana Strawberry Shake Daiquiri-type,Apple juice,2.0,cups
+Paloma,Grape Soda,3.0,oz
+Paloma,Tequila,5.5,oz
+Belgian Blue,Vodka,2.0,
+Belgian Blue,Coconut liqueur,1.0,
+Belgian Blue,Blue Curacao,1.0,
+Belgian Blue,Sprite,N/A,N/A
+410 Gone,Peach Vodka,2.0,-3 oz
+410 Gone,Coca-Cola,nan,N/A
+Champagne Cocktail,Champagne,N/A,N/A
+Champagne Cocktail,Sugar,1.0,
+Champagne Cocktail,Bitters,2.0,dashes
+Champagne Cocktail,Lemon peel,1.0,
+Champagne Cocktail,Cognac,1.0,dash
+Sangria #1,Red wine,1.0,bottle
+Sangria #1,Sugar,0.5,cup
+Sangria #1,Orange juice,1.0,cup
+Sangria #1,Lemon juice,1.0,cup
+Sangria #1,Cloves,N/A,N/A
+Grape lemon pineapple Smoothie,Grapes,1.0,cup
+Grape lemon pineapple Smoothie,Lemon,0.25,
+Grape lemon pineapple Smoothie,Pineapple,0.5,
+Casa Blanca,Light rum,2.0,oz
+Casa Blanca,Triple sec,5.5,
+Casa Blanca,Lime juice,5.5,
+Casa Blanca,Maraschino liqueur,5.5,
+Tequila Surprise,Tequila,N/A,N/A
+Tequila Surprise,Tabasco sauce,8.0,
+Greyhound,Vodka,5.5,oz
+Greyhound,Grapefruit Juice,3.0,oz
+Blind Russian,Bailey's irish cream,0.75,oz
+Blind Russian,Godiva liqueur,0.75,oz
+Blind Russian,Kahlua,0.75,oz
+Blind Russian,Butterscotch schnapps,0.5,oz
+Blind Russian,Milk,N/A,N/A
+Port Wine Cocktail,Port,10.5,oz
+Port Wine Cocktail,Brandy,0.5,
+Cherry Electric Lemonade,Gin,1.0,oz
+Cherry Electric Lemonade,Tequila,1.0,oz
+Cherry Electric Lemonade,Vodka,1.0,oz
+Cherry Electric Lemonade,White rum,1.0,oz
+Cherry Electric Lemonade,Triple Sec,1.0,oz
+Cherry Electric Lemonade,Cherry Grenadine,1.0,oz
+Cherry Electric Lemonade,Sweet and sour,1.0,oz
+Cherry Electric Lemonade,Club soda,3.0,oz
+Screwdriver,Vodka,2.0,oz
+Screwdriver,Orange juice,nan,N/A
+Classic Old-Fashioned,Bitters,3.0,dashes
+Classic Old-Fashioned,Water,1.0,
+Classic Old-Fashioned,Sugar,1.0,
+Classic Old-Fashioned,Bourbon,3.0,oz
+Classic Old-Fashioned,Orange,1.0,
+Classic Old-Fashioned,Maraschino cherry,1.0,
+Mudslinger,Southern Comfort,750.0,
+Mudslinger,Orange juice,1.0,
+Mudslinger,Pepsi Cola,750.0,
+Mint Julep,Mint,4.0,
+Mint Julep,Bourbon,10.5,oz
+Mint Julep,Powdered sugar,1.0,
+Mint Julep,Water,2.0,
+City Slicker,Brandy,2.0,oz
+City Slicker,Triple sec,0.5,oz
+City Slicker,Lemon juice,1.0,
+Homemade Kahlua,Sugar,10.5,cups
+Homemade Kahlua,Corn syrup,1.0,cup
+Homemade Kahlua,Coffee,5.5,oz
+Homemade Kahlua,Vanilla extract,2.0,oz
+Homemade Kahlua,Water,3.0,cups
+Homemade Kahlua,Vodka,1.0,
+Atomic Lokade,Lemonade,5.0,oz
+Atomic Lokade,Vodka,1.0,oz
+Atomic Lokade,Blue Curacao,0.5,oz
+Atomic Lokade,Triple sec,0.5,oz
+Atomic Lokade,Sugar,N/A,N/A
+Zambeer,Sambuca,5.5,oz
+Zambeer,Root beer,10.0,oz
+Zambeer,Ice,N/A,N/A
+Kiwi Lemon,Kiwi liqueur,1.0,
+Kiwi Lemon,Bitter lemon,2.0,
+Kiwi Lemon,Ice,N/A,N/A
+Baby Eskimo,Kahlua,2.0,oz
+Baby Eskimo,Milk,8.0,oz
+Baby Eskimo,Vanilla ice-cream,2.0,
+Blackthorn,Sweet Vermouth,1.0,oz
+Blackthorn,Sloe gin,5.5,oz
+Blackthorn,Lemon peel,1.0,
+After Dinner Cocktail,Apricot brandy,1.0,oz
+After Dinner Cocktail,Triple sec,1.0,oz
+After Dinner Cocktail,Lime,1.0,
+After Dinner Cocktail,Lime,1.0,
+Algonquin,Blended whiskey,5.5,oz
+Algonquin,Dry Vermouth,1.0,oz
+Algonquin,Pineapple juice,1.0,oz
+Thai Coffee,Coffee,6.0,
+Thai Coffee,Coriander,0.25,
+Thai Coffee,Cardamom,4.0,
+Thai Coffee,Sugar,N/A,N/A
+Thai Coffee,Ice,nan,N/A
+Kiss me Quick,Cranberry vodka,4.0,
+Kiss me Quick,Apfelkorn,2.0,
+Kiss me Quick,Schweppes Russchian,7.0,
+Kiss me Quick,Apple juice,8.0,
+Kiss me Quick,Ice,N/A,N/A
+Flaming Lamborghini,Kahlua,1.0,oz
+Flaming Lamborghini,Sambuca,1.0,oz
+Flaming Lamborghini,Blue Curacao,1.0,oz
+Flaming Lamborghini,Bailey's irish cream,1.0,oz
+Between The Sheets,Brandy,1.0,oz
+Between The Sheets,Light rum,1.0,oz
+Between The Sheets,Triple sec,1.0,oz
+Between The Sheets,Lemon juice,1.0,oz
+Foxy Lady,Amaretto,0.5,oz
+Foxy Lady,Creme de Cacao,0.5,oz
+Foxy Lady,Light cream,2.0,oz
+Arctic Fish,Vodka,0.3333333333333333,
+Arctic Fish,Grape soda,0.3333333333333333,
+Arctic Fish,Orange juice,0.3333333333333333,
+Arctic Fish,Ice,N/A,N/A
+Arctic Fish,Candy,1.0,dash
+110 in the shade,Lager,16.0,oz
+110 in the shade,Tequila,1.5,oz
+A Gilligan's Island,Vodka,1.0,oz
+A Gilligan's Island,Peach schnapps,1.0,oz
+A Gilligan's Island,Orange juice,3.0,oz
+A Gilligan's Island,Cranberry juice,3.0,oz
+Gin Swizzle,Lime juice,5.5,oz
+Gin Swizzle,Sugar,1.0,
+Gin Swizzle,Gin,2.0,oz
+Gin Swizzle,Bitters,1.0,dash
+Gin Swizzle,Club soda,3.0,oz
+Absolut Evergreen,Absolut Citron,0.6666666666666666,
+Absolut Evergreen,Pisang Ambon,0.3333333333333333,
+Absolut Evergreen,Ice,N/A,N/A
+Absolut Evergreen,Bitter lemon,nan,N/A
+Buccaneer,Corona,1.0,
+Buccaneer,Bacardi Limon,1.0,shot
+The Laverstoke,Gin,50.0,
+The Laverstoke,Elderflower cordial,15.0,
+The Laverstoke,Rosso Vermouth,15.0,
+The Laverstoke,Tonic Water,75.0,
+The Laverstoke,Lime,2.0,
+The Laverstoke,Ginger,1.0,
+The Laverstoke,Mint,1.0,
+The Last Word,Green Chartreuse,1.0,oz
+The Last Word,Maraschino Liqueur,1.0,oz
+The Last Word,Lime Juice,1.0,oz
+Downshift,Fruit punch,2.0,
+Downshift,Sprite,1.0,
+Downshift,Tequila,2.0,shots
+Downshift,151 proof rum,N/A,N/A
+Gin Smash,Gin,2.0,oz
+Gin Smash,Carbonated water,1.0,oz
+Gin Smash,Sugar,1.0,
+Gin Smash,Mint,4.0,
+Gin Smash,Orange,1.0,
+Gin Smash,Cherry,1.0,
+Imperial Cocktail,Lime juice,4.0,
+Imperial Cocktail,Gin,2.0,
+Imperial Cocktail,Aperol,4.0,
+Derby,gin,6.0,
+Derby,Peach Bitters,2.0,dashes
+Derby,Mint,2.0,
+Zoksel,Beer,N/A,N/A
+Zoksel,Lemonade,N/A,N/A
+Zoksel," slice
+",7.0,
+Zoksel,Creme de Cassis,N/A,N/A
+Fruit Flip-Flop,Yoghurt,1.0,cup
+Fruit Flip-Flop,Fruit juice,1.0,cup
+Paradise,Gin,7.0,
+Paradise,Apricot Brandy,4.0,
+Paradise,Orange Juice,3.0,
+Amaretto Stinger,Amaretto,5.5,oz
+Amaretto Stinger,White Creme de Menthe,0.75,oz
+Zenmeister,Jägermeister,0.5,oz
+Zenmeister,Root beer,0.5,oz
+Auburn Headbanger,Jägermeister,1.0,oz
+Auburn Headbanger,Goldschlager,1.0,oz
+Strawberry Daiquiri,Strawberry schnapps,0.5,oz
+Strawberry Daiquiri,Light rum,1.0,oz
+Strawberry Daiquiri,Lime juice,1.0,oz
+Strawberry Daiquiri,Powdered sugar,1.0,
+Strawberry Daiquiri,Strawberries,1.0,oz
+Happy Skipper,Spiced rum,5.5,
+Happy Skipper,Ginger ale,N/A,N/A
+Happy Skipper,Ice,nan,N/A
+Addison Special,Vodka,1.0,shot
+Addison Special,Grenadine,1.0,
+Addison Special,Orange juice,N/A,N/A
+Pysch Vitamin Light,Orange juice,1.0,
+Pysch Vitamin Light,Apple juice,1.0,
+Pysch Vitamin Light,Pineapple juice,1.0,
+Pysch Vitamin Light,Ice,nan,N/A
+Quick-sand,Black Sambuca,25.0,
+Quick-sand,Orange juice,250.0,
+Kurant Tea,Absolut Kurant,4.0,
+Kurant Tea,Tea,N/A,N/A
+Kurant Tea,Sugar,N/A,N/A
+Melya,Espresso,N/A,N/A
+Melya,Unsweetened ,N/A,N/A
+Poppy Cocktail,Gin,5.5,oz
+Poppy Cocktail,Creme de Cacao,0.75,oz
+Midnight Mint,Bailey's irish cream,1.0,oz
+Midnight Mint,White Creme de Menthe,0.75,oz
+Midnight Mint,Cream,0.75,oz
+Blue Mountain,Añejo rum,5.5,oz
+Blue Mountain,Tia maria,0.5,oz
+Blue Mountain,Vodka,0.5,oz
+Blue Mountain,Orange juice,1.0,oz
+Blue Mountain,Lemon juice,1.0,
+Gentleman's Club,Gin,5.5,oz
+Gentleman's Club,Brandy,1.0,oz
+Gentleman's Club,Sweet Vermouth,1.0,oz
+Gentleman's Club,Club soda,1.0,oz
+Aviation,Gin,4.5,
+Aviation,lemon juice,1.5,
+Aviation,maraschino liqueur,1.5,
+Martinez 2,Gin,5.5,oz
+Martinez 2,Sweet Vermouth,5.5,oz
+Martinez 2,Maraschino Liqueur,1.0,
+Martinez 2,Angostura Bitters,2.0,dashes
+Arise My Love,Champagne,N/A,N/A
+Arise My Love,Green Creme de Menthe,1.0,
+Godfather,Scotch,5.5,oz
+Godfather,Amaretto,0.75,oz
+Yoghurt Cooler,Yoghurt,1.0,cup
+Yoghurt Cooler,Fruit,1.0,cup
+Yoghurt Cooler,Ice,nan,N/A
+Boozy Snickers Milkshake,Vanilla Ice-Cream,3.0,cups
+Boozy Snickers Milkshake,Milk,1.0,cup
+Boozy Snickers Milkshake,Godiva liqueur,0.5,cup
+Boozy Snickers Milkshake,Whipped Cream,N/A,N/A
+Boozy Snickers Milkshake,caramel sauce,4.0,tablespoons
+Boozy Snickers Milkshake,chocolate sauce,4.0,tablespoons
+Boozy Snickers Milkshake,Mini-snickers bars,15.0,
+Caribbean Orange Liqueur,Orange,3.0,
+Caribbean Orange Liqueur,Vodka,3.0,cups
+Caribbean Orange Liqueur,Sugar,3.6666666666666665,cup
+Valencia Cocktail,Apricot brandy,5.5,oz
+Valencia Cocktail,Orange juice,1.0,
+Valencia Cocktail,Orange bitters,2.0,dashes
+Flying Scotchman,Scotch,1.0,oz
+Flying Scotchman,Sweet Vermouth,1.0,oz
+Flying Scotchman,Bitters,1.0,dash
+Flying Scotchman,Sugar syrup,0.25,
+Yellow Bird,White Rum,3.0,
+Yellow Bird,Galliano,1.5,
+Yellow Bird,Triple Sec,1.5,
+Yellow Bird,Lime Juice,1.5,
+Rum Cooler,Rum,2.0,oz
+Rum Cooler,Lemon-lime soda,4.0,oz
+Rum Cooler,Lemon,1.0,
+Long Island Tea,Vodka,0.5,oz
+Long Island Tea,Light rum,0.5,oz
+Long Island Tea,Gin,0.5,oz
+Long Island Tea,Tequila,0.5,oz
+Long Island Tea,Lemon,0.5,
+Long Island Tea,Coca-Cola,1.0,
+Orange Crush,Vodka,1.0,oz
+Orange Crush,Triple sec,1.0,oz
+Orange Crush,Orange juice,1.0,oz
+Clove Cocktail,Sweet Vermouth,1.0,oz
+Clove Cocktail,Sloe gin,0.5,oz
+Clove Cocktail,Wine,0.5,oz
+Kill the cold Smoothie,Ginger,1.0,inch
+Kill the cold Smoothie,Lemon,0.25,
+Kill the cold Smoothie,Water,1.0,cup
+Sloe Gin Cocktail,Sloe gin,2.0,oz
+Sloe Gin Cocktail,Dry Vermouth,0.25,
+Sloe Gin Cocktail,Orange bitters,1.0,dash
+Rum Punch,Rum,N/A,N/A
+Rum Punch,Ginger ale,N/A,N/A
+Rum Punch,Fruit punch,355.0,
+Rum Punch,Orange juice,355.0,
+Rum Punch,Ice,N/A,N/A
+Limeade,Lime,1.0,
+Limeade,Sugar,1.0,
+Limeade,Soda water,N/A,N/A
+Limeade,Lime peel,nan,N/A
+The Evil Blue Thing,Creme de Cacao,5.5,oz
+The Evil Blue Thing,Blue Curacao,1.0,oz
+The Evil Blue Thing,Light rum,0.5,oz
+Popped cherry,Vodka,2.0,oz
+Popped cherry,Cherry liqueur,2.0,oz
+Popped cherry,Cranberry juice,4.0,oz
+Popped cherry,Orange juice,4.0,oz
+Frisco Sour,Blended whiskey,2.0,oz
+Frisco Sour,Benedictine,0.5,oz
+Frisco Sour,Lemon,0.25,
+Frisco Sour,Lime,0.5,
+Frisco Sour,Lemon,1.0,
+Frisco Sour,Lime,1.0,
+Frappé,Coffee,0.5,cup
+Frappé,Milk,0.5,cup
+Frappé,Sugar,1.0,
+Archbishop,Gin,2.0,oz
+Archbishop,Wine,1.0,oz
+Archbishop,Benedictine,1.0,
+Archbishop,Lime,1.0,
+Martinez Cocktail,Gin,1.0,oz
+Martinez Cocktail,Dry Vermouth,1.0,oz
+Martinez Cocktail,Triple sec,0.25,
+Martinez Cocktail,Orange bitters,1.0,dash
+Martinez Cocktail,Cherry,1.0,
+Hot Chocolate to Die for,Chocolate,12.0,oz
+Hot Chocolate to Die for,Butter,1.0,
+Hot Chocolate to Die for,Vanilla extract,0.5,
+Hot Chocolate to Die for,Half-and-half,1.0,cup
+Hot Chocolate to Die for,Marshmallows,N/A,N/A
+Alice in Wonderland,Amaretto,1.0,shot
+Alice in Wonderland,Grand Marnier,1.0,shot
+Alice in Wonderland,Southern Comfort,1.0,shot
+Brandy Sour,Brandy,2.0,oz
+Brandy Sour,Lemon,0.5,
+Brandy Sour,Powdered sugar,0.5,
+Brandy Sour,Lemon,0.5,
+Brandy Sour,Cherry,1.0,
+Monkey Gland,Gin,2.0,oz
+Monkey Gland,Benedictine,1.0,
+Monkey Gland,Orange juice,0.5,oz
+Monkey Gland,Grenadine,1.0,
+Long vodka,Vodka,5.0,
+Long vodka,Lime,0.5,
+Long vodka,Angostura bitters,4.0,dashes
+Long vodka,Tonic water,1.0,
+Long vodka,Ice,4.0,
+Acapulco,Light rum,5.5,oz
+Acapulco,Triple sec,5.5,
+Acapulco,Lime juice,1.0,
+Acapulco,Sugar,1.0,
+Acapulco,Egg white,1.0,
+Acapulco,Mint,1.0,
+Ice Pick #1,Vodka,5.5,oz
+Ice Pick #1,Iced tea,6.0,oz
+Ice Pick #1,Lemon juice,N/A,N/A
+Flander's Flake-Out,Sambuca,0.25,glass
+Flander's Flake-Out,Sarsaparilla,0.75,glass
+Surf City Lifesaver,Ouzo,1.0,
+Surf City Lifesaver,Bailey's irish cream,1.0,
+Surf City Lifesaver,Gin,2.0,
+Surf City Lifesaver,Grand Marnier,0.5,
+Jamaica Kiss,Coffee liqueur,1.0,shot
+Jamaica Kiss,Light rum,1.0,shot Jamaican
+Jamaica Kiss,Ice,N/A,N/A
+Jamaica Kiss,Milk,nan,N/A
+Mimosa,Champagne,N/A,N/A
+Mimosa,Orange juice,2.0,oz
+Apple Cider Punch #1,Apple cider,4.0,
+Apple Cider Punch #1,Brown sugar,1.0,cup
+Apple Cider Punch #1,Lemonade,6.0,oz
+Apple Cider Punch #1,Orange juice,6.0,oz
+Apple Cider Punch #1,Cloves,6.0,
+Apple Cider Punch #1,Allspice,6.0,
+Apple Cider Punch #1,Nutmeg,1.0,
+Apple Cider Punch #1,Cinnamon,3.0,
+Abilene,Dark rum,5.5,oz
+Abilene,Peach nectar,2.0,oz
+Abilene,Orange juice,3.0,oz
+24k nightmare,Goldschlager,0.5,oz
+24k nightmare,Jägermeister,0.5,oz
+24k nightmare,Rumple Minze,0.5,oz
+24k nightmare,151 proof rum,0.5,oz
+White Lady,Gin,4.0,
+White Lady,Triple Sec,3.0,
+White Lady,Lemon Juice,2.0,
+Royal Gin Fizz,Gin,2.0,oz
+Royal Gin Fizz,Lemon,0.5,
+Royal Gin Fizz,Powdered sugar,1.0,
+Royal Gin Fizz,Egg,1.0,
+Royal Gin Fizz,Carbonated water,nan,N/A
+Kioki Coffee,Kahlua,1.0,oz
+Kioki Coffee,Brandy,0.5,oz
+Kioki Coffee,Coffee,nan,N/A
+Pink Penocha,Everclear,750.0,
+Pink Penocha,Vodka,1750.0,
+Pink Penocha,Peach schnapps,1750.0,
+Pink Penocha,Orange juice,1.0,
+Pink Penocha,Cranberry juice,1.0,
+Adam &amp; Eve,Gin,1.0,shot
+Adam &amp; Eve,Cognac,1.0,shot
+Adam &amp; Eve,Creme de Cassis,1.0,shot
+Adam &amp; Eve,Fresh Lemon Juice,0.125,shot
+GG,Galliano,10.5,shots
+GG,Ginger ale,N/A,N/A
+Mary Pickford,Light rum,5.5,oz
+Mary Pickford,Pineapple juice,1.0,oz
+Mary Pickford,Maraschino liqueur,0.5,
+Mary Pickford,Grenadine,0.5,
+Mary Pickford,Maraschino cherry,1.0,
+Havana Cocktail,Light rum,1.0,oz
+Havana Cocktail,Pineapple juice,1.0,oz
+Havana Cocktail,Lemon juice,1.0,
+Caipirinha,Sugar,2.0,
+Caipirinha,Lime,1.0,
+Caipirinha,Cachaca,10.5,oz
+Texas Rattlesnake,Yukon Jack,1.0,
+Texas Rattlesnake,Cherry brandy,0.5,
+Texas Rattlesnake,Southern Comfort,1.0,
+Texas Rattlesnake,Sweet and sour,1.0,
+Lassi - Mango,Mango,2.0,
+Lassi - Mango,Yoghurt,2.0,cups
+Lassi - Mango,Sugar,0.5,cup
+Lassi - Mango,Water,1.0,cup
+Whitecap Margarita,Ice,1.0,cup
+Whitecap Margarita,Tequila,2.0,oz
+Whitecap Margarita,Cream of coconut,0.25,cup
+Whitecap Margarita,Lime juice,3.0,
+Bloody Maria,Tequila,1.0,oz
+Bloody Maria,Tomato juice,2.0,oz
+Bloody Maria,Lemon juice,1.0,dash
+Bloody Maria,Tabasco sauce,1.0,dash
+Bloody Maria,Celery salt,1.0,dash
+Bloody Maria,Lemon,1.0,
+Vodka Martini,Vodka,5.5,oz
+Vodka Martini,Dry Vermouth,0.75,oz
+Vodka Martini,Olive,1.0,
+Gin Sling,Gin,2.0,oz
+Gin Sling,Lemon,0.5,
+Gin Sling,Powdered sugar,1.0,
+Gin Sling,Water,1.0,
+Gin Sling,Orange peel,N/A,N/A
+Ipamena,Lime,N/A,N/A
+Ipamena,Brown sugar,2.0,
+Ipamena,Passion fruit juice,4.0,
+Ipamena,Ginger ale,N/A,N/A
+Ipamena,Ice,N/A,N/A
+Avalon,Vodka,3.0,
+Avalon,Pisang Ambon,1.0,
+Avalon,Apple juice,6.0,
+Avalon,Lemon juice,5.5,
+Avalon,Lemonade,nan,N/A
+Allies Cocktail,Dry Vermouth,1.0,oz
+Allies Cocktail,Gin,1.0,oz
+Allies Cocktail,Kummel,0.5,
+Wine Punch,Red wine,1.0,bottle
+Wine Punch,Lemon,2.0,
+Wine Punch,Orange juice,1.0,cup
+Wine Punch,Orange,3.0,
+Wine Punch,Pineapple juice,1.0,cup
+A. J.,Applejack,5.5,oz
+A. J.,Grapefruit juice,1.0,oz
+Gideon's Green Dinosaur,Dark rum,0.5,oz
+Gideon's Green Dinosaur,Vodka,0.5,oz
+Gideon's Green Dinosaur,Triple sec,0.5,oz
+Gideon's Green Dinosaur,Tequila,0.5,oz
+Gideon's Green Dinosaur,Melon liqueur,0.5,oz
+Gideon's Green Dinosaur,Mountain Dew,N/A,N/A
+Alaska Cocktail,Orange bitters,2.0,dashes
+Alaska Cocktail,Gin,5.5,oz
+Alaska Cocktail,Yellow Chartreuse,0.75,oz
+Alaska Cocktail,Lemon peel,N/A,N/A
+Gagliardo,Peach Vodka,5.0,
+Gagliardo,Lemon juice,3.0,
+Gagliardo,Galliano,1.0,
+Gagliardo,Sirup of roses,1.0,
+Campari Beer,Lager,1.0,bottle
+Campari Beer,Campari,5.5,
+Dark Caipirinha,demerara Sugar,2.0,
+Dark Caipirinha,Lime,1.0,
+Dark Caipirinha,Cachaca,10.5,oz
+Jackhammer,Jack Daniels,1.0,oz
+Jackhammer,Amaretto,1.0,oz
+Fruit Cooler,Apple juice,1.0,can
+Fruit Cooler,Strawberries,1.0,cup
+Fruit Cooler,Sugar,2.0,
+Fruit Cooler,Lemon,1.0,
+Fruit Cooler,Apple,1.0,
+Fruit Cooler,Soda water,1.0,
+Fruit Cooler,Ice,nan,N/A
+Ziemes Martini Apfelsaft,Vermouth,4.0,
+Ziemes Martini Apfelsaft,Apple juice,16.0,
+Jelly Bean,Blackberry brandy,1.0,oz
+Jelly Bean,Anis,1.0,oz
+Kentucky B And B,Bourbon,2.0,oz
+Kentucky B And B,Benedictine,0.5,oz
+Gin Fizz,Gin,2.0,oz
+Gin Fizz,Lemon,0.5,
+Gin Fizz,Powdered sugar,1.0,
+Gin Fizz,Carbonated water,nan,N/A
+Dirty Nipple,Kahlua,N/A,N/A
+Dirty Nipple,Bailey's irish cream,nan,N/A
+Sweet Bananas,Milk,2.0,cups
+Sweet Bananas,Banana,1.0,
+Sweet Bananas,Honey,1.0,
+Balmoral,Scotch,5.5,oz
+Balmoral,Sweet Vermouth,0.5,oz
+Balmoral,Dry Vermouth,0.5,oz
+Balmoral,Bitters,2.0,dashes
+Loch Lomond,Scotch,2.0,oz
+Loch Lomond,Drambuie,0.5,oz
+Loch Lomond,Dry Vermouth,0.5,oz
+Loch Lomond,Lemon peel,1.0,
+Singapore Sling,Cherry brandy,0.5,oz
+Singapore Sling,Grenadine,0.5,oz
+Singapore Sling,Gin,1.0,oz
+Singapore Sling,Sweet and sour,2.0,oz
+Singapore Sling,Carbonated water,N/A,N/A
+Gluehwein,Red wine,1.0,
+Gluehwein,Water,125.0,
+Gluehwein,Sugar,60.0,
+Gluehwein,Cinnamon,1.0,
+Gluehwein,Cloves,3.0,
+Gluehwein,Lemon peel,1.0,
+Amaretto And Cream,Amaretto,5.5,oz
+Amaretto And Cream,Light cream,5.5,oz
+Manhattan,Sweet Vermouth,0.75,oz
+Manhattan,Bourbon,10.5,oz
+Manhattan,Angostura bitters,N/A,N/A
+Manhattan,Ice,2.0,
+Manhattan,Maraschino cherry,1.0,
+Manhattan,Orange peel,1.0,
+Thai Iced Coffee,Coffee,N/A,N/A
+Thai Iced Coffee,Sugar,N/A,N/A
+Thai Iced Coffee," pods
+",N/A,N/A
+A Splash of Nash,Cranberry juice,2.0,oz
+A Splash of Nash,Soda water,2.0,oz
+A Splash of Nash,Midori melon liqueur,0.5,oz
+A Splash of Nash,Creme de Banane,0.5,oz
+Apple Karate,Apple juice,2.0,cups
+Apple Karate,Carrot,1.0,
+Horse's Neck,Lemon peel,1.0,
+Horse's Neck,Brandy,2.0,oz
+Horse's Neck,Ginger ale,5.0,oz
+Horse's Neck,Bitters,2.0,dashes
+Victor,Gin,5.5,oz
+Victor,Sweet Vermouth,0.5,oz
+Victor,Brandy,0.5,oz
+Harvey Wallbanger,Vodka,1.0,oz
+Harvey Wallbanger,Galliano,0.5,oz
+Harvey Wallbanger,Orange juice,4.0,oz
+Cafe Savoy,Coffee,N/A,N/A
+Cafe Savoy,1/2 oz ,N/A,N/A
+Cafe Savoy,1/2 oz ,N/A,N/A
+Tommy's Margarita,Tequila,4.5,
+Tommy's Margarita,Lime Juice,1.5,
+Tommy's Margarita,Agave syrup,2.0,
+Swedish Coffee,Coffee,1.0,cup
+Swedish Coffee,Aquavit,4.0,
+Swedish Coffee,Sugar,N/A,N/A
+H.D.,Whisky,4.0,
+H.D.,Bailey's irish cream,8.0,
+H.D.,Coffee,nan,N/A
+Angel Face,Apricot brandy,0.5,oz
+Angel Face,Apple brandy,0.5,oz
+Angel Face,Gin,1.0,oz
+69 Special,Gin,2.0,oz
+69 Special,7-Up,4.0,oz
+69 Special,Lemon juice,0.75,oz
+Irish Curdling Cow,Bailey's irish cream,0.75,oz
+Irish Curdling Cow,Bourbon,0.75,oz
+Irish Curdling Cow,Vodka,0.75,oz
+Irish Curdling Cow,Orange juice,2.0,-3 oz
+Sangria - The World's Best,Red wine,5.5,
+Sangria - The World's Best,Sugar,1.0,cup
+Sangria - The World's Best,Lemon,1.0,
+Sangria - The World's Best,Orange,1.0,
+Sangria - The World's Best,Apple,1.0,
+Sangria - The World's Best,Brandy,3.0,-4 oz
+Sangria - The World's Best,Soda water,nan,N/A
+Abbey Martini,Gin,2.0,shots
+Abbey Martini,Sweet Vermouth,1.0,shot
+Abbey Martini,Orange Juice,1.0,shot
+Abbey Martini,Angostura Bitters,3.0,dashes
+Raspberry Cooler,Raspberry vodka,2.0,oz
+Raspberry Cooler,Lemon-lime soda,4.0,oz
+Raspberry Cooler,Ice,nan,N/A
+French 75,Gin,5.5,oz
+French 75,Sugar,2.0,
+French 75,Lemon juice,5.5,oz
+French 75,Champagne,4.0,oz
+French 75,Orange,1.0,
+French 75,Maraschino cherry,1.0,

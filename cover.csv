@@ -1,6 +1,9 @@
 sheet_name,data_source,Description
 allrecipes_raw,allrecipes.com,Raw data from scraping the allrecipes.com website with categorized base liquors
 allrecipes_clean,,cleaned data from the sheet described above with drink name and each of the ingredient with measurement in every row
+epicurious_raw,epicurious.com,Raw data from scraping the epicurious.com website with categorized base liquors
+epicurious_clean,,cleaned data from the sheet described above with drink name and each of the ingredient with measurement in every row
 cocktaildb_raw,https://www.thecocktaildb.com/api/json/v1/1/random.php,a web API that generate one random drink at a time with 1
 cocktaildb_clean,,cleaned data from the sheet described above with drink name and each of the ingredient with measurement in every row
-merged,,merged data sheet combining allrecipes_clean and cocktaildb_clean
+merged,,"merged data sheet combining allrecipes_clean, epicurious_clean and cocktaildb_clean"
+merged_2,,"merged data sheet combining allrecipes_raw, epicurious_raw  cocktaildb_raw"
